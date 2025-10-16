@@ -8,6 +8,21 @@ draft: true
 
 ## [[Plan de Estudios Presupuesto y Finanzas Públicas]]
 
+
+
+##### 2025 - II
+
+| ---    | --- | Asignatura                                   | ---  | ---  | ---   |
+| ------ | --- | -------------------------------------------- | ---- | ---- | ----- |
+| Código | Esp | Nombre Descriptivo                           | Créd | Tipo | Grupo |
+| 114202 | 0   | [[INVESTIGACIÓN ACADÉMICA]]                  | 3.0  | O    | --    |
+| 114406 | 0   | [[DERECHO EMPRESARIAL]]                      | 3.0  | O    | --    |
+| 114407 | 0   | [[TRIBUTOS I]]                               | 3.0  | O    | --    |
+| 114603 | 0   | [[NORMAS CONTABLES DEL SECTOR PÚBLICO]]      | 3.0  | O    | --    |
+| 114607 | 0   | [[INFORMÁTICA CONTABLE]]                     | 3.0  | O    | --    |
+
+
+
 ##### 2025 - I
 
 | ---    | --- | Asignatura                                   | ---  | ---  | ---   |
