@@ -3,9 +3,10 @@ dg-home: true
 dg-publish: true
 tags: []
 dg-pinned: true
+draft: true
 ---
 
-## [[Plan de Estudios]]
+## [[Plan de Estudios Presupuesto y Finanzas Públicas]]
 
 ##### 2025 - I
 
