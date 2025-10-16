@@ -45,7 +45,7 @@ Identifica conceptos y herramientas informáticas relacionadas con su aplicació
 	- Video:
 		- ¿Qué es una BASE DE DATOS?// características GENERALES
 		- https://www.youtube.com/watch?v=6S8A-1jBD5Y
-	- ###### Practica Calificada N1
+	- ###### [[Practica Calificada N1]]
 		- Analiza la organización empresarial, e investiga el desarrollo y aplicación de las herramientas informáticas que son aplicada en el área contable y presenta una monografía
 ### UNIDAD II: SISTEMAS DE FACTURACIÓN ELECTRÓNICA. LIBROS ELECTRÓNICOS
 ```
@@ -85,7 +85,7 @@ Identifica las obligaciones relacionadas con los Sistemas de Emisión Electróni
 		- https://www.youtube.com/watch?v=AFO7bLMgWWY
 	- dasdas
 - Semana 08:
-	- ###### Examen Parcial
+	- ###### [[Examen Parcial]]
 		- Analiza la organización empresarial, e investiga el desarrollo y aplicación de las herramientas informáticas que son aplicada en el área contable y
 presenta una monografía
 ### UNIDAD III
