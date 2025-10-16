@@ -12,12 +12,9 @@ Hola mundo, soy SrFuego desde Quartz en Github Pages!
 
 ## Notas Existentes
 
-- [[Plan de Estudios]]
-- [[Presupuesto y Finanzas Públicas]]
-- [[Otra Prueba]]
-- [[Prueba]]
+- [[Plan de Estudios Presupuesto y Finanzas Públicas]]
+- [[Timeline]]
 
-las finanzas
 
 ## Cursos relacionados (Contabilidad y Finanzas)
 
