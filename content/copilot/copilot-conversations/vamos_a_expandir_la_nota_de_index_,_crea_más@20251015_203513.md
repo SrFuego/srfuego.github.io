@@ -4,6 +4,7 @@ modelKey: gemini-2.5-flash|google
 tags:
   - copilot-conversation
 topic: Expansión de notas y gráfico
+draft: true
 ---
 
 **user**: vamos a expandir la nota de [[index]] , crea más notas e interrelacionalas para que se vea un gráfico con 15 notas tags y demás cosas
