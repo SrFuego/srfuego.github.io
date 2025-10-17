@@ -33,7 +33,7 @@ dg-publish: false
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Definiciones). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Definiciones). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -59,7 +59,7 @@ Ambos indicadores sugieren que se trata de un **arrendamiento financiero**.
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Clasificación de Arrendamientos). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Clasificación de Arrendamientos). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -98,7 +98,7 @@ HABER: Pasivo por Arrendamiento              S/ 58,000
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Reconocimiento Inicial por el Arrendatario). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Reconocimiento Inicial por el Arrendatario). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -124,7 +124,7 @@ Para estas excepciones, el arrendatario puede optar por reconocer los pagos como
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Exenciones de Reconocimiento). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Exenciones de Reconocimiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -156,7 +156,7 @@ HABER: Pasivo por Arrendamiento                   S/ 39,745.20
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Medición Inicial del Pasivo por Arrendamiento). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Medición Inicial del Pasivo por Arrendamiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -189,7 +189,7 @@ HABER: Ingresos por Arrendamiento       S/ 5,000
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Arrendamientos Operativos - Arrendador). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Arrendamientos Operativos - Arrendador). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -214,7 +214,7 @@ La NICSP 43 requiere que el arrendatario revele:
 
 ### Referencia
 
-NICSP 43 — Arrendamientos (Información a Revelar - Arrendatario). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-43-arrendamientos|NICSP 43]] — Arrendamientos (Información a Revelar - Arrendatario). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 

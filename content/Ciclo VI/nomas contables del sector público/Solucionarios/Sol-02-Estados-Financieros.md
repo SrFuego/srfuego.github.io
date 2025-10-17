@@ -19,7 +19,7 @@ dg-publish: false
 
 ### Respuesta Modelo
 
-**Falso.** La NICSP 1 exige una segregación mucho más detallada. Como mínimo, se deben presentar por separado activos y pasivos (corrientes y no corrientes), y los componentes del patrimonio/activos netos. Además, se requiere información comparativa y notas a los estados financieros.
+**Falso.** La [[nicsp-1-presentacion-estados-financieros|NICSP 1]] exige una segregación mucho más detallada. Como mínimo, se deben presentar por separado activos y pasivos (corrientes y no corrientes), y los componentes del patrimonio/activos netos. Además, se requiere información comparativa y notas a los estados financieros.
 
 ### Rúbrica
 
@@ -28,7 +28,7 @@ dg-publish: false
 
 ### Referencia
 
-NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[nicsp-1-presentacion-estados-financieros|NICSP 1 — Presentación de Estados Financieros]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -38,13 +38,13 @@ NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del 
 
 ### Respuesta Modelo
 
-Según la NICSP 1, las partidas mínimas a presentar en el estado de rendimiento financiero son:
+Según la [[nicsp-1-presentacion-estados-financieros|NICSP 1]], las partidas mínimas a presentar en el estado de rendimiento financiero son:
 
-1. Ingresos
-2. Costos financieros
-3. Participación en el superávit o déficit de asociadas y negocios conjuntos
-4. Gasto por impuestos
-5. Un único importe que comprenda el total del superávit o déficit después de impuestos de las operaciones discontinuadas
+1.  Ingresos
+2.  Costos financieros
+3.  Participación en el superávit o déficit de asociadas y negocios conjuntos
+4.  Gasto por impuestos
+5.  Un único importe que comprenda el total del superávit o déficit después de impuestos de las operaciones discontinuadas
 
 ### Rúbrica
 
@@ -52,7 +52,7 @@ Según la NICSP 1, las partidas mínimas a presentar en el estado de rendimiento
 
 ### Referencia
 
-NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[nicsp-1-presentacion-estados-financieros|NICSP 1 — Presentación de Estados Financieros]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -64,7 +64,7 @@ NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del 
 
 **B) Revelar la naturaleza de la incertidumbre y las medidas tomadas por la administración.**
 
-La NICSP 1 requiere que, si existe una incertidumbre material, la entidad debe revelarla claramente y describir los planes de la dirección para hacerle frente.
+La [[nicsp-1-presentacion-estados-financieros|NICSP 1]] requiere que, si existe una incertidumbre material, la entidad debe revelarla claramente y describir los planes de la dirección para hacerle frente.
 
 ### Rúbrica
 
@@ -73,7 +73,7 @@ La NICSP 1 requiere que, si existe una incertidumbre material, la entidad debe r
 
 ### Referencia
 
-NICSP 1 — Presentación de Estados Financieros (Hipótesis de Negocio en Marcha). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[nicsp-1-presentacion-estados-financieros|NICSP 1 — Presentación de Estados Financieros (Hipótesis de Negocio en Marcha)]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -85,7 +85,7 @@ NICSP 1 — Presentación de Estados Financieros (Hipótesis de Negocio en March
 
 - **Tratamiento en el Estado de Flujos de Efectivo:** La ganancia por revaluación, al ser una partida no monetaria, debe eliminarse (restarse) del resultado neto del periodo para llegar al flujo de efectivo de las actividades de operación. No generó una entrada de efectivo.
 
-- **Revelaciones Adicionales:** La NICSP 2 requiere que las transacciones de inversión o financiación que no han requerido el uso de efectivo o equivalentes al efectivo se excluyan del estado de flujos de efectivo, pero se revelen en las notas.
+- **Revelaciones Adicionales:** La [[nicsp-2-estado-flujos-efectivo|NICSP 2]] requiere que las transacciones de inversión o financiación que no han requerido el uso de efectivo o equivalentes al efectivo se excluyan del estado de flujos de efectivo, pero se revelen en las notas.
 
 ### Rúbrica
 
@@ -94,7 +94,7 @@ NICSP 1 — Presentación de Estados Financieros (Hipótesis de Negocio en March
 
 ### Referencia
 
-NICSP 2 — Estado de Flujos de Efectivo. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[nicsp-2-estado-flujos-efectivo|NICSP 2 — Estado de Flujos de Efectivo]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 

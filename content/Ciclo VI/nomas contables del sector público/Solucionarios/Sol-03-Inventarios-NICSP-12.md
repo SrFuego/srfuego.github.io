@@ -15,15 +15,17 @@ dg-publish: false
 
 ## PARCIAL-03-01
 
-**Pregunta:** Una entidad pública compró 1,000 unidades de medicamentos a S/ 20 c/u. Los costos adicionales directos fueron S/ 500 por flete y S/ 300 por seguros. Calcule el costo unitario que debe registrarse bajo NICSP 12.
+**Pregunta:** Una entidad pública compró 1,000 unidades de medicamentos a S/ 20 c/u. Los costos adicionales directos fueron S/ 500 por flete y S/ 300 por seguros. Calcule el costo unitario que debe registrarse bajo [[ipsas-12-inventarios|NICSP 12]].
 
 ### Respuesta Modelo
 
+```
 Costo total = (1,000 × S/ 20) + S/ 500 + S/ 300 = S/ 20,000 + S/ 800 = **S/ 20,800**
 
 Costo unitario = S/ 20,800 ÷ 1,000 = **S/ 20.80 por unidad**
+```
 
-La NICSP 12 establece que el costo de los inventarios incluye todos los costos directamente atribuibles a la adquisición, tales como flete, seguros y costos de transacción.
+La [[ipsas-12-inventarios|NICSP 12]] establece que el costo de los inventarios incluye todos los costos directamente atribuibles a la adquisición, tales como flete, seguros y costos de transacción.
 
 ### Rúbrica
 
@@ -33,22 +35,22 @@ La NICSP 12 establece que el costo de los inventarios incluye todos los costos d
 
 ### Referencia
 
-NICSP 12 — Inventarios (Medición de Inventarios). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-12-inventarios|NICSP 12 — Inventarios (Medición de Inventarios)]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
 ## PARCIAL-03-02
 
-**Pregunta:** ¿Qué partidas NO deben incluirse en el costo de los inventarios según NICSP 12? Liste al menos tres ejemplos.
+**Pregunta:** ¿Qué partidas NO deben incluirse en el costo de los inventarios según [[ipsas-12-inventarios|NICSP 12]]? Liste al menos tres ejemplos.
 
 ### Respuesta Modelo
 
-Según la NICSP 12, NO deben incluirse en el costo de los inventarios:
+Según la [[ipsas-12-inventarios|NICSP 12]], NO deben incluirse en el costo de los inventarios:
 
-1. **Desperdicios anormales** de materiales, mano de obra u otros costos de producción.
-2. **Costos de almacenamiento**, a menos que sean necesarios en el proceso productivo previo a una fase de producción ulterior.
-3. **Costos de administración** que no contribuyan a dar a los inventarios su condición y ubicación actuales.
-4. **Costos de comercialización** o distribución.
+1.  **Desperdicios anormales** de materiales, mano de obra u otros costos de producción.
+2.  **Costos de almacenamiento**, a menos que sean necesarios en el proceso productivo previo a una fase de producción ulterior.
+3.  **Costos de administración** que no contribuyan a dar a los inventarios su condición y ubicación actuales.
+4.  **Costos de comercialización** o distribución.
 
 ### Rúbrica
 
@@ -56,7 +58,7 @@ Según la NICSP 12, NO deben incluirse en el costo de los inventarios:
 
 ### Referencia
 
-NICSP 12 — Inventarios (Costos de los Inventarios). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-12-inventarios|NICSP 12 — Inventarios (Costos de los Inventarios)]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -66,7 +68,7 @@ NICSP 12 — Inventarios (Costos de los Inventarios). Consulte el texto oficial 
 
 ### Respuesta Modelo
 
-**Tratamiento Contable:** La NICSP 12 requiere que los inventarios se midan al menor entre:
+**Tratamiento Contable:** La [[ipsas-12-inventarios|NICSP 12]] requiere que los inventarios se midan al menor entre:
 
 - Costo: S/ 50,000
 - Valor neto realizable: S/ 35,000
@@ -90,13 +92,13 @@ HABER: Inventarios - Medicamentos             S/ 15,000
 
 ### Referencia
 
-NICSP 12 — Inventarios (Valor Neto Realizable y Costo de Reposición Corriente). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-12-inventarios|NICSP 12 — Inventarios (Valor Neto Realizable y Costo de Reposición Corriente)]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
 ## PARCIAL-03-04
 
-**Pregunta:** ¿Cuál método de medición de inventarios NO es permitido bajo NICSP 12?
+**Pregunta:** ¿Cuál método de medición de inventarios NO es permitido bajo [[ipsas-12-inventarios|NICSP 12]]?
 
 ### Respuesta Modelo
 

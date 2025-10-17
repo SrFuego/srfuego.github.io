@@ -40,7 +40,7 @@ dg-publish: false
 
 ### Referencia
 
-NICSP 31 — Activos Intangibles (Definiciones). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-31-activos-intangibles|NICSP 31]] — Activos Intangibles (Definiciones). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -68,7 +68,7 @@ Asumiendo que se cumplen los criterios, se capitalizan: **S/ 120,000**
 
 ### Referencia
 
-NICSP 31 — Activos Intangibles (Generados Internamente). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-31-activos-intangibles|NICSP 31]] — Activos Intangibles (Generados Internamente). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -121,7 +121,7 @@ DEBE: Pérdida por Deterioro - Activo Intangible  S/ 10,000
 HABER: Licencia de Software (o Deterioro Acum.)   S/ 10,000
 ```
 
-**Tratamiento:** Según NICSP 26 y NICSP 31, cuando el valor en libros excede el valor recuperable (el mayor entre valor razonable menos costos de disposición y valor en uso), debe reconocerse una pérdida por deterioro en el resultado del periodo.
+**Tratamiento:** Según [[ipsas-26-deterioro|NICSP 26]] y [[ipsas-31-activos-intangibles|NICSP 31]], cuando el valor en libros excede el valor recuperable (el mayor entre valor razonable menos costos de disposición y valor en uso), debe reconocerse una pérdida por deterioro en el resultado del periodo.
 
 ### Rúbrica
 
@@ -132,7 +132,7 @@ HABER: Licencia de Software (o Deterioro Acum.)   S/ 10,000
 
 ### Referencia
 
-NICSP 31 — Activos Intangibles y NICSP 26 — Deterioro del Valor de Activos Generadores de Efectivo. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-31-activos-intangibles|NICSP 31]] — Activos Intangibles y [[ipsas-26-deterioro|NICSP 26]] — Deterioro del Valor de Activos Generadores de Efectivo. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -155,7 +155,7 @@ NICSP 31 — Activos Intangibles y NICSP 26 — Deterioro del Valor de Activos G
 
 ### Referencia
 
-NICSP 27 — Agricultura (Reconocimiento y Medición). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-27-agricultura|NICSP 27]] — Agricultura (Reconocimiento y Medición). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -187,7 +187,7 @@ HABER: Ganancia por Cambio VR      S/ 10,000
 
 ### Referencia
 
-NICSP 27 — Agricultura (Ganancias y Pérdidas). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-27-agricultura|NICSP 27]] — Agricultura (Ganancias y Pérdidas). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -210,7 +210,7 @@ NICSP 27 — Agricultura (Ganancias y Pérdidas). Consulte el texto oficial del 
 
 ### Referencia
 
-NICSP 27 — Agricultura (Productos Agrícolas). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-27-agricultura|NICSP 27]] — Agricultura (Productos Agrícolas). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 

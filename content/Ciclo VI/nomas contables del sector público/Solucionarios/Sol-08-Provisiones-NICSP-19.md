@@ -113,65 +113,54 @@ NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocim
 
 **Tratamiento Contable:**
 
-La NICSP 19 requiere que las provisiones se midan al valor presente de los desembolsos que se espera sean necesarios para liquidar la obligación cuando el efecto del valor temporal del dinero es material.
-
 **Cálculo del Valor Presente:**
 
 Provisión inicial = Costo futuro × Factor de descuento
 
-Provisión inicial = S/ 1,000,000 × 0.5584 = **S/ 558,400**
+### Referencia
 
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Definiciones y Reconocimiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 **Registro Inicial:**
 
-```
-DEBE: Activo - Vertedero (costo de desmantelamiento)  S/ 558,400
-HABER: Provisión para Restauración                    S/ 558,400
+HABER: Provisión para Restauración S/ 558,400
+
 ```
 
 **Explicación:** El costo de desmantelamiento se capitaliza como parte del activo relacionado (vertedero) y se amortiza durante su vida útil. La provisión se incrementa cada año por el efecto del descuento (costo financiero).
-
-**Tratamiento Anual:**
+### Referencia
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Pasivos Contingentes). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 - Amortización del activo con costo de desmantelamiento
-- Incremento de la provisión por acreción (interés implícito)
-
 ### Rúbrica
 
 - **1.5 puntos** por calcular correctamente el valor presente (S/ 558,400).
 - **1.5 puntos** por el registro contable correcto (capitalización en activo).
-- **1 punto** por explicar el tratamiento del valor temporal del dinero y acreción.
-
+### Referencia
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocimiento de Provisiones). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 ### Referencia
 
-NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Medición y Descuento). Consulte el texto oficial del emisor (IPSASB/NICSP).
-
----
 
 ## PARCIAL-08-05
 
 **Pregunta:** ¿Cuál de las siguientes NO es una característica de una provisión según NICSP 19?
-
-### Respuesta Modelo
+### Referencia
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Medición y Descuento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 **D) Su reconocimiento es opcional si el monto es estimado**
-
-**Justificación:**
 
 Las características correctas de una provisión son:
 
 - **A) Es un pasivo de cuantía o vencimiento incierto** ✓ (definición clave)
-- **B) Surge de una obligación presente (legal o implícita)** ✓ (criterio de reconocimiento)
-- **C) Es probable que se requiera una salida de recursos** ✓ (criterio de reconocimiento)
+### Referencia
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocimiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 **D) es INCORRECTA** porque el reconocimiento de una provisión NO es opcional. Si se cumplen los tres criterios de reconocimiento (obligación presente, probable salida de recursos, estimación fiable), la entidad **DEBE** reconocer la provisión. No es una elección discrecional.
-
-### Rúbrica
 
 - **2 puntos** por seleccionar correctamente la opción D.
 - **1 punto** por justificar que el reconocimiento de provisiones es obligatorio cuando se cumplen los criterios.
 
 ### Referencia
-
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Cambios en las Provisiones). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocimiento). Consulte el texto oficial del emisor (IPSASB/NICSP).
 
 ---
@@ -179,8 +168,8 @@ NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocim
 ## PARCIAL-08-06
 
 **Pregunta:** Una entidad reconoció una provisión por garantías por S/ 80,000 al inicio del año. Durante el año, pagó S/ 30,000 por reclamos. Al final del año, reestima la provisión necesaria en S/ 60,000. Muestre el ajuste contable requerido.
-
-### Respuesta Modelo
+### Referencia
+[[ipsas-19-provisiones|NICSP 19]] — Provisiones, Pasivos Contingentes y Activos Contingentes (Información a Revelar). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 **Análisis de Movimientos:**
 
@@ -195,15 +184,19 @@ NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Reconocim
 **Durante el año (por pagos):**
 
 ```
-DEBE: Provisión por Garantías  S/ 30,000
-HABER: Efectivo                 S/ 30,000
+
+DEBE: Provisión por Garantías S/ 30,000
+HABER: Efectivo S/ 30,000
+
 ```
 
 **Al final del año (ajuste por reestimación):**
 
 ```
-DEBE: Gasto por Provisión para Garantías  S/ 10,000
-HABER: Provisión por Garantías             S/ 10,000
+
+DEBE: Gasto por Provisión para Garantías S/ 10,000
+HABER: Provisión por Garantías S/ 10,000
+
 ```
 
 **Saldo final de la provisión: S/ 60,000**
@@ -258,3 +251,4 @@ NICSP 19 — Provisiones, Pasivos Contingentes y Activos Contingentes (Informaci
 | PARCIAL-08-06 | Num   | 3      | 10           |
 | PARCIAL-08-07 | Corta | 2      | 6            |
 | **Total**     |       | **19** | **60**       |
+```

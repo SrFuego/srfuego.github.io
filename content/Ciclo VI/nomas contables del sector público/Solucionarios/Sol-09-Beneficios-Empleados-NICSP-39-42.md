@@ -35,7 +35,7 @@ Las cuatro categorías principales de beneficios a empleados según NICSP 39 son
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Clasificación). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Clasificación). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -58,7 +58,7 @@ La NICSP 39 establece que los beneficios a empleados a corto plazo se reconocen 
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Beneficios a Corto Plazo). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Beneficios a Corto Plazo). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -93,7 +93,7 @@ HABER: Provisión por Vacaciones         S/ 10,000
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Ausencias Remuneradas Acumulativas). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Ausencias Remuneradas Acumulativas). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -137,7 +137,7 @@ Pasivo Neto por Beneficios Definidos = S/ 800,000
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Planes de Beneficios Definidos). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Planes de Beneficios Definidos). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -167,7 +167,7 @@ Los **beneficios post-empleo** son aquellos pagaderos después de completar el e
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Beneficios Post-Empleo). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Beneficios Post-Empleo). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -200,7 +200,7 @@ NICSP 39 — Beneficios a los Empleados (Beneficios Post-Empleo). Consulte el te
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Planes de Beneficios Post-Empleo). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Planes de Beneficios Post-Empleo). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -242,7 +242,7 @@ La NICSP 39 requiere revelar para planes de beneficios definidos:
 
 ### Referencia
 
-NICSP 39 — Beneficios a los Empleados (Información a Revelar - Planes de Beneficios Definidos). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-39-beneficios-empleados|NICSP 39]] — Beneficios a los Empleados (Información a Revelar - Planes de Beneficios Definidos). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
