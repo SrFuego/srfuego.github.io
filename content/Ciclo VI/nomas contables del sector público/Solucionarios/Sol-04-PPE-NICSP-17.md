@@ -36,7 +36,7 @@ dg-publish: false
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Definiciones y Reconocimiento). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Definiciones y Reconocimiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -67,7 +67,7 @@ La NICSP 17 establece que el costo incluye todos los costos directamente atribui
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Medición en el Reconocimiento). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Medición en el Reconocimiento). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -108,7 +108,7 @@ HABER: Superávit de Revaluación (Patrimonio) S/ 200,000
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Modelo de Revaluación). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Modelo de Revaluación). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -135,7 +135,7 @@ Los componentes que SÍ forman parte del costo son:
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Componentes del Costo). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Componentes del Costo). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -162,7 +162,7 @@ NICSP 17 — Propiedad, Planta y Equipo (Componentes del Costo). Consulte el tex
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Depreciación). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Depreciación). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -201,7 +201,7 @@ HABER: Equipo Médico                          S/ 80,000
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Baja en Cuentas). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Baja en Cuentas). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -226,7 +226,7 @@ La NICSP 17 requiere revelar para cada clase de propiedad, planta y equipo:
 
 ### Referencia
 
-NICSP 17 — Propiedad, Planta y Equipo (Información a Revelar). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo (Información a Revelar). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 

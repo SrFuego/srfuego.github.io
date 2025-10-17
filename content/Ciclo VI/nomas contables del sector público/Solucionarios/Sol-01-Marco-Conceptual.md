@@ -23,7 +23,7 @@ dg-publish: false
 
 ### Respuesta Modelo
 
-**Falso.** Las NICSP (Normas Internacionales de Contabilidad del Sector Público) están diseñadas específicamente para entidades del sector público, con el objetivo de mejorar la transparencia, la rendición de cuentas y la comparabilidad de la información financiera.
+**Falso.** Las [[nicsp-vs-niif|NICSP (Normas Internacionales de Contabilidad del Sector Público)]] están diseñadas específicamente para entidades del sector público, con el objetivo de mejorar la [[transparencia-rendicion-cuentas|transparencia, la rendición de cuentas]] y la comparabilidad de la información financiera.
 
 ### Rúbrica
 
@@ -32,7 +32,7 @@ dg-publish: false
 
 ### Referencia
 
-IPSAS Framework — Marco Conceptual para las NICSP. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[marco-conceptual-nicsp|Marco Conceptual para la Información Financiera del Sector Público]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -44,7 +44,7 @@ IPSAS Framework — Marco Conceptual para las NICSP. Consulte el texto oficial d
 
 ### Respuesta Modelo
 
-El objetivo principal es proveer información sobre la situación financiera, el rendimiento financiero y los flujos de efectivo de la entidad, que sea útil para una amplia gama de usuarios en la toma de decisiones económicas y de rendición de cuentas.
+El objetivo principal es proveer información sobre la situación financiera, el rendimiento financiero y los flujos de efectivo de la entidad, que sea útil para una amplia gama de usuarios en la toma de decisiones económicas y de [[transparencia-rendicion-cuentas|rendición de cuentas]].
 
 ### Rúbrica
 
@@ -53,7 +53,7 @@ El objetivo principal es proveer información sobre la situación financiera, el
 
 ### Referencia
 
-IPSAS Framework — Objetivo de los estados financieros con propósito general. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[marco-conceptual-nicsp|Marco Conceptual]] — [[objetivos-estados-financieros-sector-publico|Objetivo de los estados financieros con propósito general]]. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -64,7 +64,7 @@ IPSAS Framework — Objetivo de los estados financieros con propósito general. 
 **Pregunta:** ¿Cuál de los siguientes aspectos NO es un beneficio directo de la adopción de las NICSP?
 
 A) Mayor comparabilidad entre entidades del sector público  
-B) Mejora en la transparencia y rendición de cuentas  
+B) Mejora en la [[transparencia-rendicion-cuentas|transparencia y rendición de cuentas]]  
 C) Generación automática de liquidez financiera inmediata  
 D) Mayor calidad en la información financiera
 
@@ -81,7 +81,7 @@ D) Mayor calidad en la información financiera
 
 ### Referencia
 
-IPSAS Framework — Beneficios de la adopción de las NICSP. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[marco-conceptual-nicsp|Marco Conceptual]] — Beneficios de la adopción de las NICSP. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB]]).
 
 ---
 
@@ -93,11 +93,11 @@ IPSAS Framework — Beneficios de la adopción de las NICSP. Consulte el texto o
 
 ### Respuesta Modelo
 
-1. **Verificación Normativa:** Revisar las definiciones y criterios de presentación para reservas y fondos restringidos según el Marco Conceptual de las IPSAS y la NICSP 1 (Presentación de Estados Financieros). Asegurarse de que la clasificación utilizada cumple con los criterios de la norma.
+1.  **Verificación Normativa:** Revisar las definiciones y criterios de presentación para reservas y fondos restringidos según el [[marco-conceptual-nicsp|Marco Conceptual de las IPSAS]] y la [[nicsp-1-presentacion-estados-financieros|NICSP 1 (Presentación de Estados Financieros)]]. Asegurarse de que la clasificación utilizada cumple con los criterios de la norma.
 
-2. **Revisión de Políticas y Registros:** Verificar que las políticas contables de la municipalidad estén alineadas con las NICSP y conciliar los saldos de los estados financieros con los registros auxiliares y la documentación de soporte. Identificar las causas de las discrepancias.
+2.  **Revisión de Políticas y Registros:** Verificar que las políticas contables de la municipalidad estén alineadas con las NICSP y conciliar los saldos de los estados financieros con los registros auxiliares y la documentación de soporte. Identificar las causas de las discrepancias.
 
-3. **Análisis de Restricciones:** Revisar las autorizaciones legales (leyes, decretos, acuerdos municipales) que establecen las restricciones sobre los fondos para asegurar que su clasificación y revelación sean apropiadas y consistentes con la normativa aplicable.
+3.  **Análisis de Restricciones:** Revisar las autorizaciones legales ([[marco-legal-nacional-nicsp-peru|leyes, decretos, acuerdos municipales]]) que establecen las restricciones sobre los fondos para asegurar que su clasificación y revelación sean apropiadas y consistentes con la normativa aplicable.
 
 ### Rúbrica
 

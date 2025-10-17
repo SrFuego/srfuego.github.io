@@ -36,7 +36,7 @@ dg-publish: false
 
 ### Referencia
 
-NICSP 16 — Propiedades de Inversión (Definiciones). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-16-propiedad-inversion|NICSP 16]] — Propiedades de Inversión (Definiciones). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -64,7 +64,7 @@ Por lo tanto, cumple con la definición de **propiedad de inversión**.
 
 ### Referencia
 
-NICSP 16 — Propiedades de Inversión (Clasificación). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-16-propiedad-inversion|NICSP 16]] — Propiedades de Inversión (Clasificación). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -122,7 +122,7 @@ HABER: Ganancia por Cambio en Valor Razonable   S/ 20,000
 
 ### Referencia
 
-NICSP 16 — Propiedades de Inversión (Modelo del Valor Razonable). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-16-propiedad-inversion|NICSP 16]] — Propiedades de Inversión (Modelo del Valor Razonable). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -153,7 +153,7 @@ NICSP 16 — Propiedades de Inversión (Modelo del Valor Razonable). Consulte el
 
 ### Referencia
 
-NICSP 16 — Propiedades de Inversión y NICSP 17 — Propiedad, Planta y Equipo. Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-16-propiedad-inversion|NICSP 16]] — Propiedades de Inversión y [[ipsas-17-propiedad-planta-equipo|NICSP 17]] — Propiedad, Planta y Equipo. Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 
@@ -180,7 +180,7 @@ La NICSP 16 requiere revelar:
 
 ### Referencia
 
-NICSP 16 — Propiedades de Inversión (Información a Revelar). Consulte el texto oficial del emisor (IPSASB/NICSP).
+[[ipsas-16-propiedad-inversion|NICSP 16]] — Propiedades de Inversión (Información a Revelar). Consulte el texto oficial del emisor ([[ipsasb-junta-normas|IPSASB/NICSP]]).
 
 ---
 

@@ -36,21 +36,21 @@ Aplica las NICSP para reconocer los activos y pasivos de una entidad del sector 
 
 - Semana 03 y 04: Normas Internacionales de Contabilidad relacionado con los activos
   - Activos: Introducción
-  - Inventarios - NICSP 12
-  - Propiedad, Planta y Equipo - NICSP 17
-  - Activos intangibles - NICSP 31
-  - Arrendamientos – NICSP 43
+  - [[ipsas-12-inventarios|Inventarios - NICSP 12]]
+  - [[ipsas-17-propiedad-planta-equipo|Propiedad, Planta y Equipo - NICSP 17]]
+  - [[ipsas-31-activos-intangibles|Activos intangibles - NICSP 31]]
+  - [[ipsas-43-arrendamientos|Arrendamientos – NICSP 43]]
 - Practica Calificada N1
 - Semana 05: Normas Internacionales de Contabilidad relacionadas con los activos
-  - Acuerdos de concesión de servicios: La Concedente - NICSP 32
-  - Agricultura – NICSP 27
-  - Propiedad de inversión – NICSP 16
+  - [[ipsas-32-concesiones-servicio|Acuerdos de concesión de servicios: La Concedente - NICSP 32]]
+  - [[ipsas-27-agricultura|Agricultura – NICSP 27]]
+  - [[ipsas-16-propiedad-inversion|Propiedad de inversión – NICSP 16]]
 - Semana 06: Normas Internacionales de Información Financiera relacionadas con los pasivos
   - Introducción
-  - Provisiones – NICSP 19
+  - [[ipsas-19-provisiones|Provisiones – NICSP 19]]
 - Semana 07: Normas Internacionales de Información Financiera relacionado con los pasivos
-  - Beneficios para empleados NICSP 39
-  - Beneficios sociales – NICSP 42
+  - [[ipsas-39-beneficios-empleados|Beneficios para empleados NICSP 39]]
+  - [[ipsas-42-beneficios-sociales|Beneficios sociales – NICSP 42]]
 - Semana 08:
   - Examen Parcial
     - Al término de la Unidad II, el/la estudiante será capaz de aplicar los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento de activos y pasivos, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
