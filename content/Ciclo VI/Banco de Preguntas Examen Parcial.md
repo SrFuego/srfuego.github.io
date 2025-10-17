@@ -23,64 +23,107 @@ Breve nota: Este banco prioriza las categorías 1–9 del sílabo. Cada categor�
 
 Objetivos de aprendizaje: Explicar antecedentes históricos, alcance, objetivos y efectos en transparencia y comparabilidad de las NICSP/IPSAS.
 
-1. PARCIAL-01-01
-   <!-- Bloom: Conocer | Tiempo: 3 min | Puntos: 1 | Tipo: TF | LO: LO_U1_1 -->
-   Pregunta: (V/F) Las NICSP (IPSAS) están diseñadas exclusivamente para entidades con fines de lucro.
+1.  PARCIAL-01-01
+    <!-- Bloom: Conocer | Tiempo: 3 min | Puntos: 1 | Tipo: TF | LO: LO_U1_1 -->
 
-Respuesta modelo: Falso.
-Rúbrica: Explicar en una línea que las NICSP están diseñadas para el sector público, no para el lucro (1 punto).
-Referencia: IPSAS Framework — Marco Conceptual para las IPSAS/NICSP.
+    Pregunta: (V/F) Las NICSP (IPSAS) están diseñadas exclusivamente para entidades con fines de lucro.
 
-2. PARCIAL-01-02
-   <!-- Bloom: Conocer | Tiempo: 5 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_1 -->
-   Pregunta: Defina brevemente el objetivo principal de los estados financieros con propósito general según las IPSAS.
+    Respuesta modelo: Falso. Las NICSP (Normas Internacionales de Contabilidad del Sector Público) están diseñadas específicamente para entidades del sector público, con el objetivo de mejorar la transparencia, la rendición de cuentas y la comparabilidad de la información financiera.
 
-Respuesta modelo: Proveer información sobre la situación financiera, el rendimiento financiero y los flujos de caja que sea útil para una amplia gama de usuarios en la toma de decisiones económicas. (2 puntos)
-Rúbrica: 2 puntos por definir propósito general; 1 punto si falta precisión.
-Referencia: IPSAS Framework — Objetivo de los estados financieros con propósito general.
+    Rúbrica:
+    - 0.5 puntos por indicar "Falso".
+    - 0.5 puntos por explicar que las NICSP son para el sector público y su objetivo.
 
-3. PARCIAL-01-03
-   <!-- Bloom: Aplicar | Tiempo: 8 min | Puntos: 3 | Tipo: MC | LO: LO_U1_2 -->
-   Pregunta: ¿Cuál de los siguientes aspectos NO es un beneficio directo de la adopción de las NICSP?
-   A) Mayor comparabilidad entre entidades del sector público
-   B) Mejora en la transparencia y rendición de cuentas
-   C) Generación automática de liquidez financiera inmediata
-   D) Mayor calidad en la información financiera
+    Referencia: IPSAS Framework — Marco Conceptual para las NICSP. Consulte el texto oficial del emisor (IPSASB/NICSP).
 
-Respuesta modelo: C) Generación automática de liquidez financiera inmediata.
-Rúbrica: 3 puntos por seleccionar C y explicar en una línea que las normas mejoran información, no las posiciones de caja (justificación mínima requerida).
+2.  PARCIAL-01-02
+    <!-- Bloom: Conocer | Tiempo: 5 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_1 -->
 
-4. PARCIAL-01-04
-   <!-- Bloom: Analizar | Tiempo: 12 min | Puntos: 4 | Tipo: Caso | LO: LO_U1_3 -->
-   Pregunta (Caso corto, ≤250 palabras): Una municipalidad implementa las NICSP y descubre discrepancias en la presentación de reservas y fondos restringidos en sus estados financieros. Identifique en máximo 3 pasos qué verificaciones normativas y de control interno debe realizar el equipo contable.
+    Pregunta: Defina brevemente el objetivo principal de los estados financieros con propósito general según las IPSAS.
 
-Respuesta modelo: (1) Revisar la definición de reservas y restricciones en el marco de las IPSAS; (2) Verificar políticas contables y conciliación con registros auxiliares; (3) Revisar autorizaciones legales y documentación soporte. (4 puntos)
-Rúbrica: 1 punto por cada verificación clara y vinculada a norma/política (máx 3), 1 punto por recomendar evidencia documental.
-Referencia: IPSAS Framework — Políticas contables y revelaciones relacionadas con reservas y restricciones.
+    Respuesta modelo: El objetivo principal es proveer información sobre la situación financiera, el rendimiento financiero y los flujos de efectivo de la entidad, que sea útil para una amplia gama de usuarios en la toma de decisiones económicas y de rendición de cuentas.
 
-5. PARCIAL-01-05
-   <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_2 -->
-   Pregunta: Mencione dos diferencias claves entre las NICSP y las normas contables para empresas privadas (IFRS).
+    Rúbrica:
+    - 1 punto por mencionar la provisión de información útil para la toma de decisiones.
+    - 1 punto por identificar los tres componentes clave: situación financiera, rendimiento y flujos de efectivo.
 
-Respuesta modelo: (1) Enfoque en el interés público y servicio (NICSP) vs. enfoque en rendimiento para inversionistas (IFRS); (2) Tratamiento de ingresos y medición de patrimonio pueden diferir por políticas públicas y partidas no-exigibles. (2 puntos)
-Rúbrica: 1 punto por cada diferencia válida (máx 2).
-Referencia: IPSAS Framework / Comparativa IPSAS vs IFRS — Enfoque y objetivos.
+    Referencia: IPSAS Framework — Objetivo de los estados financieros con propósito general. Consulte el texto oficial del emisor (IPSASB/NICSP).
 
-6. PARCIAL-01-06
-   <!-- Bloom: Aplicar | Tiempo: 8 min | Puntos: 3 | Tipo: Num | LO: LO_U1_3 -->
-   Pregunta: La entidad X debe preparar estados financieros comparativos y ha aplicado un cambio de política contable. Indique el tratamiento general que exigen las IPSAS para cambios de política en la presentación comparativa (respuesta resumida en 4 pasos).
+3.  PARCIAL-01-03
+    <!-- Bloom: Aplicar | Tiempo: 8 min | Puntos: 3 | Tipo: MC | LO: LO_U1_2 -->
 
-Respuesta modelo: (1) Aplicación retroactiva salvo imposibilidad; (2) Reexpresar comparativos; (3) Revelar la naturaleza del cambio y razón; (4) Mostrar efecto en resultados y patrimonio. (3 puntos)
-Rúbrica: 0.75 puntos por cada paso correcto (máx 3).
-Referencia: IPSAS Framework — Cambios en políticas contables y presentación comparativa.
+    Pregunta: ¿Cuál de los siguientes aspectos NO es un beneficio directo de la adopción de las NICSP?
+    A) Mayor comparabilidad entre entidades del sector público
+    B) Mejora en la transparencia y rendición de cuentas
+    C) Generación automática de liquidez financiera inmediata
+    D) Mayor calidad en la información financiera
 
-7. PARCIAL-01-07
-   <!-- Bloom: Analizar | Tiempo: 10 min | Puntos: 3 | Tipo: Caso | LO: LO_U1_3 -->
-   Pregunta (Caso corto): Un ente público recibió donaciones de activos no monetarios con restricciones. Explique cómo estas donaciones afectan la presentación en los estados financieros según NICSP (resuma en 3 puntos).
+    Respuesta modelo: C) Generación automática de liquidez financiera inmediata. La adopción de normas contables mejora la calidad de la información financiera, pero no garantiza ni genera por sí misma una mejora en la posición de caja o liquidez de la entidad.
 
-Respuesta modelo: (1) Reconocer el activo al valor razonable al reconocimiento (NICSP aplicable); (2) Revelar las condiciones y restricciones; (3) Si hay restricciones de uso, presentar como partidas restringidas en patrimonio o pasivo diferido según política. (3 puntos)
-Rúbrica: 1 punto por cada elemento completo y referencia a medición/revelación.
-Referencia: NICSP 12 / IPSAS Framework — Donaciones de activos no monetarios y su reconocimiento.
+    Rúbrica:
+    - 2 puntos por seleccionar la opción C.
+    - 1 punto por la justificación correcta.
+
+    Referencia: IPSAS Framework — Beneficios de la adopción de las NICSP. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+4.  PARCIAL-01-04
+    <!-- Bloom: Analizar | Tiempo: 12 min | Puntos: 4 | Tipo: Caso | LO: LO_U1_3 -->
+
+    Pregunta (Caso corto, ≤250 palabras): Una municipalidad implementa las NICSP y descubre discrepancias en la presentación de reservas y fondos restringidos en sus estados financieros. Identifique en máximo 3 pasos qué verificaciones normativas y de control interno debe realizar el equipo contable.
+
+    Respuesta modelo:
+    1.  **Verificación Normativa:** Revisar las definiciones y criterios de presentación para reservas y fondos restringidos según el Marco Conceptual de las IPSAS y la NICSP 1.
+    2.  **Revisión de Políticas y Registros:** Verificar que las políticas contables de la municipalidad estén alineadas con las NICSP y conciliar los saldos de los estados financieros con los registros auxiliares y la documentación de soporte.
+    3.  **Análisis de Restricciones:** Revisar las autorizaciones legales (leyes, decretos, acuerdos) que establecen las restricciones sobre los fondos para asegurar que su clasificación y revelación sean apropiadas.
+
+    Rúbrica:
+    - 1.5 puntos por la verificación normativa.
+    - 1.5 puntos por la revisión de políticas y registros.
+    - 1 punto por el análisis de las restricciones legales.
+
+    Referencia: IPSAS Framework — Políticas contables y revelaciones relacionadas con reservas y restricciones. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+5.  PARCIAL-01-05
+    <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_2 -->
+
+    Pregunta: Mencione dos diferencias claves entre las NICSP y las normas contables para empresas privadas (IFRS).
+
+    Respuesta modelo:
+    1.  **Objetivo:** Las NICSP se centran en la rendición de cuentas y la toma de decisiones en el sector público (interés público), mientras que las IFRS se enfocan en proveer información para inversores y acreedores en mercados de capitales (rentabilidad).
+    2.  **Partidas Específicas:** Las NICSP abordan transacciones sin contraprestación (impuestos, transferencias) que no son comunes en el sector privado.
+
+    Rúbrica: 1 punto por cada diferencia válida y claramente explicada (máx 2).
+
+    Referencia: IPSAS Framework / Comparativa IPSAS vs IFRS — Enfoque y objetivos. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+6.  PARCIAL-01-06
+    <!-- Bloom: Aplicar | Tiempo: 8 min | Puntos: 3 | Tipo: Num | LO: LO_U1_3 -->
+
+    Pregunta: La entidad X debe preparar estados financieros comparativos y ha aplicado un cambio de política contable. Indique el tratamiento general que exigen las IPSAS para cambios de política en la presentación comparativa (respuesta resumida en 4 pasos).
+
+    Respuesta modelo:
+    1.  **Aplicación Retroactiva:** El cambio debe aplicarse retroactivamente, ajustando los saldos iniciales de cada componente del patrimonio afectado para el periodo anterior más antiguo presentado.
+    2.  **Reexpresión de Comparativos:** Se deben reexpresar los importes comparativos para cada periodo anterior presentado como si la nueva política se hubiera aplicado siempre.
+    3.  **Revelación de la Naturaleza:** Revelar en notas la naturaleza del cambio de política y las razones que justifican que la nueva política proporciona información más fiable y relevante.
+    4.  **Revelación del Efecto:** Revelar el monto del ajuste para el periodo corriente y cada periodo anterior presentado.
+
+    Rúbrica: 0.75 puntos por cada paso correcto y claramente descrito (máx 3).
+
+    Referencia: NICSP 3 — Políticas Contables, Cambios en las Estimaciones Contables y Errores. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+7.  PARCIAL-01-07
+    <!-- Bloom: Analizar | Tiempo: 10 min | Puntos: 3 | Tipo: Caso | LO: LO_U1_3 -->
+
+    Pregunta (Caso corto): Un ente público recibió donaciones de activos no monetarios con restricciones. Explique cómo estas donaciones afectan la presentación en los estados financieros según NICSP (resuma en 3 puntos).
+
+    Respuesta modelo:
+    1.  **Reconocimiento Inicial:** El activo no monetario se reconoce a su valor razonable en la fecha de adquisición. La contrapartida es un ingreso (si no hay condiciones) o un pasivo (si hay condiciones por cumplir).
+    2.  **Tratamiento de Restricciones:** Las restricciones de uso deben ser reveladas en las notas a los estados financieros. Si la restricción implica una obligación futura, se reconoce un pasivo hasta que se cumpla la condición.
+    3.  **Presentación:** Si la restricción afecta al patrimonio, puede presentarse en una categoría separada dentro de los activos netos/patrimonio para reflejar que no está disponible para uso general.
+
+    Rúbrica: 1 punto por cada elemento (reconocimiento, tratamiento de restricciones y presentación) correctamente explicado.
+
+    Referencia: NICSP 23 — Ingresos de Transacciones sin Contraprestación (Impuestos y Transferencias). Consulte el texto oficial del emisor (IPSASB/NICSP).
 
 ---
 
@@ -88,58 +131,112 @@ Referencia: NICSP 12 / IPSAS Framework — Donaciones de activos no monetarios y
 
 Objetivos de aprendizaje: Identificar los componentes principales, políticas contables y requisitos de revelación en los estados financieros según IPSAS.
 
-1. PARCIAL-02-01
-   <!-- Bloom: Conocer | Tiempo: 4 min | Puntos: 1 | Tipo: TF | LO: LO_U1_4 -->
-   Pregunta: (V/F) El Estado de Situación Financiera bajo IPSAS debe mostrar únicamente activos corrientes y no corrientes, sin otra segregación.
+1.  PARCIAL-02-01
+    <!-- Bloom: Conocer | Tiempo: 4 min | Puntos: 1 | Tipo: TF | LO: LO_U1_4 -->
 
-Respuesta modelo: Falso.
-Rúbrica: 1 punto por indicar que además deben separarse pasivos, patrimonio y presentar información complementaria.
+    Pregunta: (V/F) El Estado de Situación Financiera bajo IPSAS debe mostrar únicamente activos corrientes y no corrientes, sin otra segregación.
 
-2. PARCIAL-02-02
-   <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_4 -->
-   Pregunta: Nombre las cinco partidas mínimas que normalmente deben aparecer en un Estado de Resultados (o Rendimiento) según IPSAS.
+    Respuesta modelo: Falso. La NICSP 1 exige una segregación mucho más detallada. Como mínimo, se deben presentar por separado activos y pasivos (corrientes y no corrientes), y los componentes del patrimonio/activos netos. Además, se requiere información comparativa y notas a los estados financieros.
 
-Respuesta modelo: Ingresos, gastos, superávit/déficit, resultados integrales, otros ingresos/gastos; (aceptable: ingresos, gastos, superávit/déficit, transferencias, resultados de revalorización). (2 puntos)
-Rúbrica: 1 punto por 3 partidas correctas, 2 puntos por 4–5 correctas.
+    Rúbrica:
+    - 0.5 puntos por indicar "Falso".
+    - 0.5 puntos por mencionar al menos una segregación adicional requerida (pasivos, patrimonio, notas).
 
-3. PARCIAL-02-03
-   <!-- Bloom: Aplicar | Tiempo: 10 min | Puntos: 3 | Tipo: MC | LO: LO_U1_4 -->
-   Pregunta: ¿Cuál es la revelación mínima requerida cuando se produce una incertidumbre material sobre la continuidad operativa según IPSAS?
-   A) No se requiere revelación
-   B) Revelar la naturaleza de la incertidumbre y medidas tomadas por la administración
-   C) Solo revelar en notas si la auditoría lo solicita
-   D) Revelar solo el efecto numérico estimado en el patrimonio
+    Referencia: NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del emisor (IPSASB/NICSP).
 
-Respuesta modelo: B.
-Rúbrica: 3 puntos por seleccionar B y explicar que la norma exige descripción de la incertidumbre y medidas (justificación breve requerida).
+2.  PARCIAL-02-02
+    <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_4 -->
 
-4. PARCIAL-02-04
-   <!-- Bloom: Analizar | Tiempo: 12 min | Puntos: 4 | Tipo: Caso | LO: LO_U1_5 -->
-   Pregunta (Caso corto): En la preparación del Estado de Flujos de Efectivo, la entidad Z presenta flujos por actividades operativas usando el método indirecto. Se observa una partida no monetaria significativa (revaluación de activo). Indique cómo debe tratarse esta partida en el estado de flujos de efectivo y qué revelaciones adicionales se requieren.
+    Pregunta: Nombre las cinco partidas mínimas que normalmente deben aparecer en un Estado de Resultados (o Rendimiento Financiero) según IPSAS.
 
-Respuesta modelo: Las partidas no monetarias (revaluaciones) se eliminan del resultado neto al reconciliar al efectivo; se revelan como ajustes en las notas indicando naturaleza y efecto; además, si afectan inversiones o financiamiento, clarificar la clasificación. (4 puntos)
-Rúbrica: 2 puntos por tratamiento contable (eliminar del resultado neto), 2 puntos por mencionar revelaciones.
+    Respuesta modelo: Según la NICSP 1, las partidas mínimas a presentar en el estado de rendimiento financiero son:
+    1.  Ingresos
+    2.  Costos financieros
+    3.  Participación en el superávit o déficit de asociadas y negocios conjuntos
+    4.  Gasto por impuestos
+    5.  Un único importe que comprenda el total de (i) el superávit o déficit después de impuestos de las operaciones discontinuadas y (ii) la ganancia o pérdida después de impuestos reconocida por la medida a valor razonable menos costos de venta o por la disposición de los activos o grupos para disposición que constituyen la operación discontinuada.
 
-5. PARCIAL-02-05
-   <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_5 -->
-   Pregunta: ¿Qué información mínima debe incluir una política contable sobre medición de activos no financieros?
+    Rúbrica: 0.5 puntos por cada partida correcta mencionada (máx 2 puntos por 4 partidas).
 
-Respuesta modelo: Base de medición (costo histórico, valor razonable), método de depreciación/amortización, vida útil estimada, hipótesis clave y frecuencia de revaluación. (2 puntos)
-Rúbrica: 0.5 puntos por cada elemento citado (máx 2).
+    Referencia: NICSP 1 — Presentación de Estados Financieros. Consulte el texto oficial del emisor (IPSASB/NICSP).
 
-6. PARCIAL-02-06
-   <!-- Bloom: Aplicar | Tiempo: 10 min | Puntos: 3 | Tipo: Num | LO: LO_U1_5 -->
-   Pregunta: La entidad Y presenta en notas que cambió su método de depreciación de línea recta a saldo decreciente. El efecto en la utilidad del periodo anterior fue de -S/ 12,000. Solicite la forma en que se debe presentar este cambio en los estados comparativos según IPSAS (resumen en 3 pasos).
+3.  PARCIAL-02-03
+    <!-- Bloom: Aplicar | Tiempo: 10 min | Puntos: 3 | Tipo: MC | LO: LO_U1_4 -->
 
-Respuesta modelo: (1) Reexpresar los estados comparativos aplicando retroactivamente; (2) Revelar la naturaleza del cambio y razón; (3) Mostrar el efecto acumulado en patrimonio y utilidad comparativa. (3 puntos)
-Rúbrica: 1 punto por cada paso correcto.
+    Pregunta: ¿Cuál es la revelación mínima requerida cuando se produce una incertidumbre material sobre la continuidad operativa (negocio en marcha) según IPSAS?
+    A) No se requiere revelación
+    B) Revelar la naturaleza de la incertidumbre y las medidas tomadas por la administración
+    C) Solo revelar en notas si la auditoría lo solicita
+    D) Revelar solo el efecto numérico estimado en el patrimonio
 
-7. PARCIAL-02-07
-   <!-- Bloom: Analizar | Tiempo: 10 min | Puntos: 3 | Tipo: Caso | LO: LO_U1_5 -->
-   Pregunta (Caso corto): Una entidad pública desea presentar un desglose más detallado de sus ingresos por transferencias. Indique qué criterios deben guiar la decisión de mayor desagregación y qué revelaciones solicita la IPSAS.
+    Respuesta modelo: B) Revelar la naturaleza de la incertidumbre y las medidas tomadas por la administración. La NICSP 1 requiere que, si existe una incertidumbre material, la entidad debe revelarla claramente y describir los planes de la dirección para hacerle frente.
 
-Respuesta modelo: (1) Materialidad y relevancia para usuarios; (2) Naturaleza y función de la transferencia; (3) Revelar políticas, desglose por fuentes y condiciones vinculadas. (3 puntos)
-Rúbrica: 1 punto por cada criterio y mención de revelaciones.
+    Rúbrica:
+    - 2 puntos por seleccionar la opción B.
+    - 1 punto por justificar que la norma exige la descripción de la incertidumbre y las medidas de la dirección.
+
+    Referencia: NICSP 1 — Presentación de Estados Financieros (Hipótesis de Negocio en Marcha). Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+4.  PARCIAL-02-04
+    <!-- Bloom: Analizar | Tiempo: 12 min | Puntos: 4 | Tipo: Caso | LO: LO_U1_5 -->
+
+    Pregunta (Caso corto): En la preparación del Estado de Flujos de Efectivo, la entidad Z presenta flujos por actividades operativas usando el método indirecto. Se observa una partida no monetaria significativa (revaluación de activo). Indique cómo debe tratarse esta partida en el estado de flujos de efectivo y qué revelaciones adicionales se requieren.
+
+    Respuesta modelo:
+    - **Tratamiento en el Estado de Flujos de Efectivo:** La ganancia por revaluación, al ser una partida no monetaria, debe eliminarse (restarse) del resultado neto del periodo para llegar al flujo de efectivo de las actividades de operación. No generó una entrada de efectivo.
+    - **Revelaciones Adicionales:** La NICSP 2 requiere que las transacciones de inversión o financiación que no han requerido el uso de efectivo o equivalentes al efectivo se excluyan del estado de flujos de efectivo, pero se revelen en las notas.
+
+    Rúbrica:
+    - 2 puntos por explicar correctamente el ajuste en el método indirecto (eliminar la partida no monetaria).
+    - 2 puntos por mencionar la necesidad de revelar las transacciones no monetarias en las notas.
+
+    Referencia: NICSP 2 — Estado de Flujos de Efectivo. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+5.  PARCIAL-02-05
+    <!-- Bloom: Conocer | Tiempo: 6 min | Puntos: 2 | Tipo: Corta | LO: LO_U1_5 -->
+
+    Pregunta: ¿Qué información mínima debe incluir una política contable sobre medición de activos no financieros?
+
+    Respuesta modelo: La política contable debe especificar, como mínimo:
+    1.  La base de medición utilizada (ej. costo histórico o valor razonable).
+    2.  Los métodos de depreciación/amortización aplicados.
+    3.  Las vidas útiles o las tasas de depreciación/amortización utilizadas.
+
+    Rúbrica: 1 punto por la base de medición y 1 punto por el método/vida útil de depreciación.
+
+    Referencia: NICSP 1 — Presentación de Estados Financieros (Revelación de Políticas Contables). Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+6.  PARCIAL-02-06
+    <!-- Bloom: Aplicar | Tiempo: 10 min | Puntos: 3 | Tipo: Num | LO: LO_U1_5 -->
+
+    Pregunta: La entidad Y presenta en notas que cambió su método de depreciación de línea recta a saldo decreciente. El efecto en la utilidad del periodo anterior fue de -S/ 12,000. Solicite la forma en que se debe presentar este cambio en los estados comparativos según IPSAS (resumen en 3 pasos).
+
+    Respuesta modelo: Un cambio en el método de depreciación es un **cambio en una estimación contable**, no un cambio de política. Por lo tanto, su efecto se reconoce de forma **prospectiva**.
+    1.  **Reconocimiento Prospectivo:** El efecto del cambio se reconoce en el resultado del periodo corriente y, si aplica, en periodos futuros.
+    2.  **No se Reexpresan Comparativos:** No se reexpresan los estados financieros de periodos anteriores.
+    3.  **Revelación:** Se debe revelar la naturaleza y el monto del cambio en la estimación que tenga efecto en el periodo corriente o que se espere que lo tenga en periodos futuros.
+
+    Rúbrica:
+    - 1 punto por identificarlo como cambio de estimación (no de política).
+    - 1 punto por explicar el reconocimiento prospectivo.
+    - 1 punto por mencionar que no se reexpresan los comparativos.
+
+    Referencia: NICSP 3 — Políticas Contables, Cambios en las Estimaciones Contables y Errores. Consulte el texto oficial del emisor (IPSASB/NICSP).
+
+7.  PARCIAL-02-07
+    <!-- Bloom: Analizar | Tiempo: 10 min | Puntos: 3 | Tipo: Caso | LO: LO_U1_5 -->
+
+    Pregunta (Caso corto): Una entidad pública desea presentar un desglose más detallado de sus ingresos por transferencias. Indique qué criterios deben guiar la decisión de mayor desagregación y qué revelaciones solicita la IPSAS.
+
+    Respuesta modelo:
+    - **Criterios para Desagregación:** La decisión debe basarse en la **materialidad** y la **relevancia** de la información para los usuarios. Si el desglose proporciona una mejor comprensión de las fuentes de ingresos y la sostenibilidad financiera de la entidad, es apropiado.
+    - **Revelaciones Solicitadas:** La NICSP 1 requiere la revelación de las políticas contables para el reconocimiento de ingresos. Además, la NICSP 23 exige revelar la naturaleza y el tipo de las principales clases de ingresos sin contraprestación (como impuestos y transferencias), desglosando por fuentes significativas.
+
+    Rúbrica:
+    - 1.5 puntos por explicar los criterios de materialidad y relevancia.
+    - 1.5 puntos por mencionar las revelaciones requeridas por la NICSP 1 y/o NICSP 23.
+
+    Referencia: NICSP 1 y NICSP 23 — Ingresos de Transacciones sin Contraprestación. Consulte el texto oficial del emisor (IPSASB/NICSP).
 
 ---
 
