@@ -6,7 +6,8 @@ on:
       - v4
 
 env:
-  THEME_NAME: halcyon
+  # THEME_NAME: halcyon
+  THEME_NAME: neuborder
 
 permissions:
   contents: read
