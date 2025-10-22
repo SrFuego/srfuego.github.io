@@ -1,0 +1,363 @@
+---
+title: Cláusulas Especiales y Garantías en Títulos Valores
+tags:
+  - titulos-valores
+  - clausulas
+  - garantias
+  - aval
+aliases:
+  - Cláusulas especiales
+  - Garantías cambiarias
+  - Aval
+---
+
+# Cláusulas Especiales y Garantías en Títulos Valores
+
+## I. Cláusulas Especiales
+
+### Definición
+
+> **Estipulaciones adicionales** que pueden insertarse en el título valor para modificar, limitar o ampliar los efectos normales de las obligaciones cambiarias, siempre que no contravengan normas imperativas de la Ley de Títulos Valores.
+
+---
+
+## Principales Cláusulas Especiales
+
+### 1. Cláusula "Sin Protesto" o "Sin Gastos"
+
+**Forma:**
+```
+"Sin protesto"
+"Sin gastos"
+"Liberado de protesto"
+```
+
+**Efectos:**
+- ✅ Exime de la obligación de realizar [[protesto|protesto]] para conservar las acciones de regreso
+- ✅ Reduce costos y tiempos de cobranza
+- ⚠️ NO exime de la presentación para el pago en su oportunidad
+
+**Aplicación típica:**
+- [[letra-cambio-concepto|Letras de cambio]]
+- [[cheque-concepto|Cheques]] (algunos ya no requieren protesto por ley)
+
+**Ventaja:**
+- Agiliza el ejercicio de acciones cambiarias
+- Ahorra costos notariales/bancarios de protesto
+
+### 2. Cláusula "No Negociable" o "Intransferible"
+
+**Forma:**
+```
+"No negociable"
+"Intransferible"
+"No a la orden"
+```
+
+**Efectos:**
+- ❌ Impide el [[endoso-titulos-valores|endoso]] del título
+- ⚠️ Solo puede transmitirse por **cesión ordinaria de créditos** (Código Civil)
+- ✅ El tenedor conserva todos sus derechos frente al obligado principal
+
+**Aplicación típica:**
+- [[cheque-concepto|Cheques]] nominativos intransferibles
+- Títulos donde se quiere limitar la circulación
+
+**Ventaja:**
+- Protección contra robo o apropiación indebida
+- Control sobre quién cobra el título
+
+### 3. Cláusula "Sin Mi Responsabilidad"
+
+**Forma:**
+```
+"Sin mi responsabilidad"
+"Endoso sin garantía"
+```
+
+**Efectos:**
+- El [[endoso-propiedad|endosante en propiedad]] se libera de la **responsabilidad solidaria**
+- ✅ Transmite el título (efecto traslativo se mantiene)
+- ❌ NO responde si el obligado principal no paga
+
+**Aplicación:**
+- Cuando el endosante no quiere asumir riesgo cambiario
+- ⚠️ Reduce la confianza en el título
+
+### 4. Cláusula de Intereses
+
+**Forma:**
+```
+"Con intereses al [X]% anual desde [fecha]"
+"Con intereses moratorios de [X]% mensual"
+```
+
+**Efectos:**
+- Establece **intereses compensatorios** o **moratorios**
+- Los intereses se incorporan al título y son exigibles cambiariamente
+- Si no se indica tasa: se aplica tasa legal
+
+**Tipos:**
+- **Compensatorios:** Retribuyen el uso del capital (Art. 1244 Código Civil Perú)
+  - Tasa legal: **8% anual** (BCR 2025)
+- **Moratorios:** Sancionan el incumplimiento (Art. 1246 CC)
+  - Tasa legal: **24% anual** = 2% mensual (BCR 2025)
+
+**Aplicación típica:**
+- [[letra-cambio-concepto|Letras de cambio]]
+- [[pagare|Pagarés]]
+- [[factura-conformada|Facturas conformadas]]
+
+### 5. Cláusula de Prórroga Automática
+
+**Forma:**
+```
+"Con prórroga automática de 30 días si no se paga"
+```
+
+**Efectos:**
+- Extiende automáticamente el plazo de vencimiento
+- ⚠️ Debe estar expresamente pactada
+- Evita protesto inmediato
+
+### 6. Cláusula de Domicilio Especial para el Pago
+
+**Forma:**
+```
+"Pagadero en [dirección específica]"
+```
+
+**Efectos:**
+- Establece lugar específico de pago
+- Relevante para determinar competencia judicial
+- Lugar de presentación para el pago
+
+### 7. Cláusula de Vencimiento Anticipado
+
+**Forma:**
+```
+"Vencimiento anticipado en caso de incumplimiento de [X]"
+```
+
+**Efectos:**
+- Permite exigir el pago antes del vencimiento en ciertos supuestos
+- Típico: Insolvencia del deudor, incumplimiento de garantías
+
+---
+
+## II. Garantías en Títulos Valores
+
+### A. El Aval
+
+#### Definición
+
+> **Garantía cambiaria personal** mediante la cual una persona (avalista) se obliga a pagar el título en caso de que no lo haga el avalado (obligado principal o cualquier otro firmante).
+
+#### Naturaleza Jurídica
+
+- Es una **obligación autónoma** (no accesoria)
+- Aplicación del [[principios-titulos-valores|principio de autonomía]]
+- El avalista se obliga **en los mismos términos** que el avalado
+- Si la obligación del avalado es nula (por vicios formales), el aval subsiste
+
+#### Forma del Aval
+
+**Requisitos formales:**
+
+1. **Expresión "Por aval"** o equivalente
+2. **Firma del avalista**
+3. **Colocación:** Anverso del título o en hoja adherida
+
+**Formas válidas:**
+```
+"Por aval de [nombre del avalado]"
+"Aval"
+[Firma del avalista]
+```
+
+**Presunción:**
+- Si solo hay firma sin aclaración → Se presume que avala al **librador/emitente** (Art. 58 LTV)
+
+#### Clases de Aval
+
+| Tipo | Descripción |
+|------|-------------|
+| **Aval total** | Garantiza el monto total del título |
+| **Aval parcial** | Garantiza solo una parte (debe especificarse) |
+| **Aval limitado** | Se limita a cierto obligado |
+| **Aval general** | Garantiza a todos los obligados |
+
+#### Efectos del Aval
+
+**Para el avalista:**
+
+- Se obliga **solidariamente** como el avalado
+- Puede ser demandado **directamente** por el tenedor
+- Tiene las **mismas excepciones** que el avalado (salvo vicios personales)
+- Si paga, adquiere **acción de regreso** contra:
+  - El avalado
+  - Los obligados anteriores al avalado
+
+**Para el tenedor:**
+
+- Tiene un **obligado adicional** en la cadena de responsabilidad
+- Puede demandar al avalista **sin demandar primero al avalado**
+- Mejora la **solvencia** y confianza del título
+
+#### Excepciones del Avalista
+
+Puede oponer:
+- ✅ Excepciones **reales** (formales del título)
+- ✅ Excepciones del avalado (salvo incapacidad o vicios de consentimiento personales)
+- ❌ NO puede oponer excepciones personales propias distintas a las del avalado
+
+#### Extinción del Aval
+
+La obligación del avalista se extingue por:
+
+1. **Pago** del título (por cualquier obligado)
+2. **Prescripción** de la acción cambiaria
+3. **Cancelación** del título
+4. **Caducidad** por falta de protesto oportuno (si aplica)
+
+---
+
+### B. Fianza Cambiaria
+
+#### Concepto
+
+Similar al aval pero con naturaleza **accesoria** (no autónoma):
+- Si la obligación principal es nula, la fianza también
+- Menos común en la práctica que el aval
+- Se rige por normas del Código Civil (supletoriamente)
+
+**Diferencia con aval:**
+
+| Aspecto | Aval | Fianza |
+|---------|------|--------|
+| **Naturaleza** | Autónoma | Accesoria |
+| **Subsiste si obligación nula** | ✅ Sí | ❌ No |
+| **Régimen aplicable** | LTV | Código Civil |
+
+---
+
+### C. Garantías Reales
+
+#### 1. Garantía Mobiliaria (Endoso en Garantía)
+
+→ Ver: [[endoso-garantia|Endoso en Garantía]]
+
+El propio título puede ser objeto de garantía mediante [[endoso-garantia|endoso en garantía]].
+
+#### 2. Garantías Accesorias Externas
+
+El título puede estar respaldado por garantías reales sobre otros bienes:
+
+- **Hipoteca:** Sobre bienes inmuebles
+- **Prenda:** Sobre bienes muebles
+- **Anticresis:** Sobre inmuebles con uso y disfrute
+
+**Características:**
+- NO se incorporan al título (son externas)
+- Se formalizan en documentos separados
+- Siguen las reglas del Código Civil y leyes especiales
+
+---
+
+## III. Acumulación de Garantías
+
+### Pluralidad de Avales
+
+Un título puede tener **múltiples avalistas**:
+- Todos responden solidariamente
+- El tenedor puede demandar a cualquiera o a todos
+- Entre avalistas: quien paga puede repetir contra los demás (si avalan al mismo obligado)
+
+### Aval + Garantías Reales
+
+Es frecuente combinar:
+```
+Letra de Cambio
++ Aval de Empresa Matriz
++ Hipoteca sobre inmueble
+```
+
+**Ventaja:** Máxima seguridad para el acreedor
+
+---
+
+## IV. Tabla Resumen: Garantías Cambiarias
+
+| Garantía | Naturaleza | Formalidad | Responsabilidad | Autonomía |
+|----------|-----------|------------|-----------------|-----------|
+| **Aval** | Personal | Firma en el título | Solidaria | ✅ Sí |
+| **Fianza** | Personal | Contrato separado | Subsidiaria/Solidaria | ❌ No (accesoria) |
+| **Endoso en garantía** | Real (sobre el título) | Endoso especial | Limitada | ⚠️ Parcial |
+| **Hipoteca/Prenda** | Real (sobre otros bienes) | Escritura pública/Contrato | Por el bien | ⚠️ Parcial |
+
+---
+
+## V. Importancia de las Cláusulas y Garantías
+
+### Ventajas para el Acreedor
+
+✅ Mayor **seguridad** en el cobro
+✅ Múltiples **obligados solidarios**
+✅ **Flexibilidad** para adaptar el título a necesidades específicas
+
+### Ventajas para el Deudor
+
+✅ Acceso a **crédito** al ofrecer garantías
+✅ Mejores **condiciones** (tasas de interés más bajas)
+✅ Posibilidad de **negociar** términos del título
+
+### Ventajas para el Sistema Económico
+
+✅ Fomenta la **circulación** de títulos valores
+✅ Reduce **riesgo** y aumenta confianza
+✅ Facilita el **financiamiento** comercial
+
+---
+
+## VI. Prohibiciones y Limitaciones
+
+### Cláusulas Nulas o Ineficaces
+
+❌ **Cláusulas contrarias a la ley imperativa:**
+- Pactos que eliminen la literalidad del título
+- Cláusulas que violen orden público
+
+❌ **Condiciones en el endoso:**
+- Se tienen por no puestas (Art. 33 LTV)
+
+❌ **Pacto comisorio en garantías:**
+- Apropiación automática sin proceso (Art. 1066 C.C.)
+
+---
+
+## Conexiones
+
+- ← Fundamento: [[principios-titulos-valores|Principios de títulos valores]]
+- → Aplicación: [[letra-cambio-concepto|Letra de cambio]], [[pagare|Pagaré]]
+- ↔ Garantía específica: [[endoso-garantia|Endoso en garantía]]
+- → Protección: [[protesto|Protesto]] de títulos valores
+- ↔ Marco: [[responsabilidad-solidaria-titulos-valores|Responsabilidad solidaria]]
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 27287** - Ley de Títulos Valores:
+  - Arts. 56-61 (El aval)
+  - Art. 52 (Cláusula sin protesto)
+  - Arts. 44-55 (Garantías en general)
+- **Código Civil:**
+  - Arts. 1868-1905 (Fianza)
+  - Arts. 1055-1090 (Prenda)
+  - Arts. 1097-1122 (Hipoteca)
+
+---
+
+*Última actualización: 22 de octubre de 2025*
+
+[[01-indice-unidad-1-titulos-valores|← Volver a Unidad I]]

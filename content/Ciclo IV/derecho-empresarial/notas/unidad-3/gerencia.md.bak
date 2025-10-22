@@ -1,0 +1,455 @@
+---
+title: La Gerencia - Órgano Ejecutivo de la Sociedad Anónima
+tags:
+  - derecho-empresarial
+  - sociedades
+  - gerencia
+  - LGS
+  - administracion
+  - Art-185-LGS
+aliases:
+  - Gerencia
+  - Gerente General
+  - Management
+  - CEO
+---
+
+# La Gerencia - Órgano Ejecutivo de la Sociedad Anónima
+
+## 🎯 Concepto
+
+La **Gerencia** es el órgano ejecutivo de la sociedad anónima, encargado de la **gestión diaria y representación permanente** de la sociedad. El Gerente General es designado por el Directorio (o por la Junta General si no hay Directorio) y tiene a su cargo la administración y representación de la sociedad.
+
+**Base Legal:** Artículos 185-197 de la Ley General de Sociedades N° 26887
+
+**Art. 185 LGS:**
+
+> "La sociedad cuenta con uno o más gerentes designados por el **directorio**, salvo que el estatuto reserve esa facultad a la junta general."
+
+## 📊 Tipos de Gerencia
+
+### Clasificación según Estructura
+
+```mermaid
+graph TD
+    A[Gerencia] --> B[Gerente General<br/>ÚNICO]
+    A --> C[Gerentes<br/>MÚLTIPLES]
+    
+    B --> B1[Responsable de<br/>toda la gestión]
+    B --> B2[Reporta a Directorio<br/>o Junta]
+    
+    C --> C1[Gerente General<br/>+ Gerentes Especializados]
+    C --> C2[Ej: Gerente Financiero,<br/>Comercial, Operaciones]
+    
+    style B fill:#e1f5ff
+    style C fill:#fff4e1
+```
+
+### 1. Gerente General (único)
+
+**Características:**
+- Responsable de la gestión integral
+- Representación legal plena
+- Responde directamente al Directorio
+
+**Ideal para:**
+- Empresas pequeñas y medianas
+- Operaciones simples
+- Estructura organizacional plana
+
+### 2. Gerencia Múltiple
+
+**Estructura:**
+- **Gerente General:** Coordinación y dirección general
+- **Gerentes Especializados:** Áreas funcionales específicas
+
+**Ejemplo de estructura:**
+```
+DIRECTORIO
+    ↓
+GERENTE GENERAL
+    ↓
+    ├─ Gerente Financiero
+    ├─ Gerente Comercial
+    ├─ Gerente de Operaciones
+    ├─ Gerente de Recursos Humanos
+    └─ Gerente Legal
+```
+
+**Ideal para:**
+- Empresas grandes
+- Operaciones complejas
+- Especialización funcional
+
+## 👤 Designación y Remoción del Gerente
+
+### Designación (Art. 185 LGS)
+
+**Órgano competente:**
+- **Regla general:** El **Directorio** designa al Gerente General
+- **Excepción:** Si el estatuto lo establece, puede hacerlo la **Junta General**
+- **Si no hay Directorio (S.A.C.):** La Junta General designa
+
+**Formalidades:**
+1. Acuerdo del órgano competente (Directorio o Junta)
+2. Aceptación del cargo por el designado
+3. **Inscripción en SUNARP** (Art. 20 LGS - para oponibilidad a terceros)
+
+**Plazo del cargo (Art. 186 LGS):**
+> "El gerente puede ser removido en cualquier momento por el **directorio** o por la **junta general**, cualquiera que sea el órgano del que haya emanado su nombramiento."
+
+**Características:**
+- Cargo de **duración indeterminada** (salvo que se pacte plazo)
+- **Remoción libre:** Puede ser removido "ad nutum" (sin expresión de causa)
+- **Sin estabilidad laboral:** No aplican normas laborales sobre despido arbitrario
+
+### Remoción (Art. 186 LGS)
+
+**Órgano competente:**
+- **Directorio:** Puede remover en cualquier momento
+- **Junta General:** Puede remover aunque haya sido designado por el Directorio
+
+**Procedimiento:**
+1. Acuerdo de remoción (Directorio o Junta)
+2. Comunicación al Gerente
+3. **Inscripción en SUNARP** (Art. 20 LGS)
+
+**Consecuencias:**
+- **NO genera indemnización** por "despido arbitrario" (no es relación laboral común)
+- **SÍ debe pagarse** liquidación de beneficios laborales si fuera aplicable
+- **Puede pactarse** indemnización contractual en el acuerdo de designación
+
+### Requisitos e Impedimentos (Art. 187 LGS)
+
+**Requisitos:**
+- No es necesario ser accionista (salvo que estatuto lo exija)
+- Capacidad de ejercicio
+
+**Impedimentos:**
+
+> "No pueden ser gerentes:
+> 
+> 1. Los incapaces;
+> 2. Los quebrados;
+> 3. Los funcionarios y servidores públicos que presten servicios en entidades del Sector Público Nacional, salvo que representen la participación del Estado en dichas sociedades;
+> 4. Quienes por razón de su cargo o función estén impedidos de ejercer el comercio;
+> 5. Quienes tengan pleito pendiente con la sociedad, actuando en calidad de demandante, o estén sujetos a acción social de responsabilidad."
+
+**Incompatibilidad director-gerente (Art. 187):**
+> "Los directores pueden ser gerentes."
+
+- **SÍ es posible** que un director sea también gerente
+- **Ventaja:** Mayor continuidad e integración
+- **Desventaja:** Menor independencia, posible conflicto de intereses
+
+## ⚖️ Atribuciones de la Gerencia
+
+### Art. 188 LGS - Atribuciones del Gerente General
+
+> "El gerente general de la sociedad está facultado para la ejecución de todo acto y contrato correspondientes al objeto social, con excepción de aquellos asuntos que **la ley o el estatuto atribuyan a otros órganos de la sociedad**."
+
+### Clasificación de Atribuciones
+
+```mermaid
+graph TD
+    A[Atribuciones del Gerente] --> B[REPRESENTACIÓN<br/>Legal]
+    A --> C[EJECUCIÓN<br/>de acuerdos]
+    A --> D[GESTIÓN<br/>Ordinaria]
+    A --> E[INFORMACIÓN<br/>y Registro]
+    
+    B --> B1[Celebrar contratos<br/>Representar en juicio<br/>Firmar documentos]
+    C --> C1[Ejecutar acuerdos<br/>de Junta y Directorio]
+    D --> D1[Administración diaria<br/>Contratación de personal<br/>Compras/ventas ordinarias]
+    E --> E1[Llevar libros sociales<br/>Organizar contabilidad<br/>Presentar informes]
+    
+    style B fill:#e1f5ff
+    style C fill:#fff4e1
+    style D fill:#e1ffe1
+    style E fill:#ffe1e1
+```
+
+### Atribuciones Específicas (Art. 188 LGS)
+
+**1. Representación Legal:**
+- Celebrar contratos dentro del giro ordinario del negocio
+- Representar a la sociedad en procesos judiciales y administrativos
+- Firmar documentos y correspondencia social
+- Otorgar poderes especiales
+
+**2. Ejecución de Acuerdos:**
+- Ejecutar acuerdos de la Junta General
+- Ejecutar acuerdos del Directorio
+- Implementar políticas aprobadas
+
+**3. Gestión Ordinaria:**
+- Organizar el régimen interno de la sociedad
+- Contratar y remover al personal (salvo gerentes que designa el Directorio)
+- Realizar compras y ventas ordinarias
+- Administrar recursos de la sociedad
+
+**4. Información y Registro:**
+- Llevar los libros sociales (Actas, Matrícula de Acciones)
+- Organizar el sistema contable
+- Proponer Estados Financieros al Directorio
+- Proponer aplicación de utilidades
+- Presentar informes periódicos al Directorio
+
+### Limitaciones a las Facultades del Gerente
+
+**El Gerente NO puede (salvo autorización expresa):**
+
+| Acto | Razón | Órgano Competente |
+|------|-------|-------------------|
+| **Modificar el estatuto** | Competencia exclusiva | Junta General |
+| **Aumentar o reducir capital** | Competencia exclusiva | Junta General |
+| **Acordar fusión, escisión** | Competencia exclusiva | Junta General |
+| **Enajenar activos > 50% del capital** | Competencia exclusiva | Junta General (Art. 115.5) |
+| **Emitir obligaciones** | Competencia exclusiva | Junta General |
+| **Aprobar Estados Financieros** | Competencia del Directorio | Directorio (luego Junta aprueba) |
+| **Convocar Junta General** | Función del Directorio | Directorio (salvo casos especiales Art. 117) |
+
+## 💼 Deberes del Gerente (Art. 189-190 LGS)
+
+### Art. 189 LGS - Deber de Diligencia
+
+> "El gerente responde ante la sociedad por los daños y perjuicios que ocasione por el incumplimiento de sus obligaciones, **dolo, abuso de facultades y negligencia grave**."
+
+**Estándar de conducta: "Ordenado comerciante y representante leal"**
+
+**Implica:**
+- Actuar con la diligencia de un comerciante razonable
+- Lealtad a los intereses de la sociedad
+- Evitar conflictos de intereses
+- Mantener confidencialidad de información privilegiada
+
+### Deberes Específicos
+
+**1. Deber de Información (Art. 190 LGS):**
+> "El gerente debe proporcionar a los directores y a los accionistas la información que le soliciten sobre la marcha de la sociedad."
+
+**2. Deber de Reserva:**
+- Mantener confidencialidad de información sensible
+- No usar información privilegiada para beneficio propio
+
+**3. Deber de No Competencia:**
+- No dedicarse al mismo giro de negocio en competencia con la sociedad
+- No desviar oportunidades de negocio
+
+**4. Deber de Cumplimiento:**
+- Cumplir la ley, estatuto y acuerdos de órganos superiores
+- Implementar políticas de la sociedad
+
+## ⚠️ Responsabilidad del Gerente
+
+### Art. 191 LGS - Responsabilidad Civil
+
+> "La responsabilidad del gerente se rige, en cuanto le sea aplicable, por lo dispuesto en el Capítulo II del Título II de la Sección Cuarta de esta ley (**responsabilidad de directores**)."
+
+**Características de la responsabilidad:**
+
+1. **Ilimitada:** Responde con todo su patrimonio
+2. **Solidaria:** Junto con directores si actuaron conjuntamente
+3. **Por dolo, abuso, negligencia grave**
+4. **Frente a sociedad, accionistas y terceros**
+
+### Casos de Responsabilidad del Gerente
+
+**Ejemplo 1: Contratos sin autorización**
+```
+Situación: El Gerente celebra contrato de venta de inmueble 
+que representa el 60% del capital social (> 50%)
+
+Problema: Art. 115.5 LGS exige acuerdo de Junta General
+
+Consecuencia:
+- Contrato ANULABLE (puede impugnarse)
+- Gerente responsable por daños si la operación es perjudicial
+- Posible remoción del cargo
+```
+
+**Ejemplo 2: Negligencia en gestión**
+```
+Situación: El Gerente no cobra cuentas por cobrar vencidas,
+generando incobrabilidad de S/ 500,000
+
+Problema: Negligencia grave en gestión de cobranzas
+
+Consecuencia:
+- Gerente responde civilmente por S/ 500,000
+- Acción social de responsabilidad (Art. 181 LGS aplicable)
+- Posible remoción
+```
+
+**Ejemplo 3: Uso indebido de información**
+```
+Situación: El Gerente conoce que la empresa ganará licitación importante.
+Antes del anuncio público, compra acciones de la sociedad.
+
+Problema: Uso de información privilegiada (insider trading)
+
+Consecuencia:
+- Responsabilidad civil por daños
+- Posible delito penal (Art. 251 Código Penal - abuso de información)
+- Remoción inmediata
+```
+
+### Plazo de Prescripción (Art. 181 LGS aplicable)
+
+- **2 años** desde la fecha del acto que originó el daño
+
+## 📋 Diferencias: Gerente vs. Director
+
+### Tabla Comparativa
+
+| Aspecto | DIRECTOR | GERENTE |
+|---------|----------|---------|
+| **Órgano** | Colegiado (actúa en conjunto) | Unipersonal (actúa individualmente) |
+| **Función principal** | Dirección y supervisión | Ejecución y gestión diaria |
+| **Designación** | Junta General | Directorio (o Junta si no hay Directorio) |
+| **Remoción** | Junta General | Directorio o Junta |
+| **Representación** | Puede delegarse en Gerente | Inherente al cargo |
+| **Sesiones** | Sesiona colegiadamente | Actúa individualmente |
+| **Remuneración** | Fijada por Junta o estatuto | Pactada con Directorio |
+| **Dedicación** | Puede ser parcial | Generalmente tiempo completo |
+| **Responsabilidad** | Arts. 177-184 LGS | Art. 191 LGS (remite a directores) |
+| **Puede ser accionista** | Sí (pero no es requisito) | Sí (pero no es requisito) |
+| **Incompatibilidad** | Puede ser también Gerente | Puede ser también Director |
+
+## 📄 Poderes Otorgados por el Gerente
+
+### Art. 188 LGS - Delegación de Facultades
+
+> "El gerente general puede delegar sus facultades en funcionarios de la sociedad, gerentes especiales o apoderados."
+
+### Tipos de Poderes
+
+**1. Poder General de Administración:**
+- Actos de gestión ordinaria
+- Contratos de compraventa, arrendamiento
+- Representación en trámites administrativos
+
+**2. Poder General de Representación:**
+- Representación judicial (activa y pasiva)
+- Facultades de representación procesal
+
+**3. Poderes Especiales:**
+- Para actos específicos (ej: venta de un activo determinado)
+- Limitados en objeto y tiempo
+
+**Ejemplo de Poder:**
+
+---
+
+### TESTIMONIO DE ESCRITURA PÚBLICA DE PODER
+
+Ante mí, **Dr. Juan Carlos Notario**, Notario Público de Lima, comparece el señor **Roberto Sánchez Mora**, identificado con DNI N° 12345678, en su calidad de **Gerente General** de **INVERSIONES DEL NORTE S.A.**, con RUC N° 20123456789, según consta en el asiento XX de la Partida Electrónica N° XXXXX del Registro de Personas Jurídicas de Lima.
+
+Manifiesta que otorga **PODER GENERAL DE ADMINISTRACIÓN** a favor de la señora **Ana Torres Díaz**, identificada con DNI N° 87654321, con las siguientes facultades:
+
+1. Celebrar contratos de compraventa de mercaderías hasta por S/ 500,000 por operación.
+2. Celebrar contratos de arrendamiento como arrendatario hasta por S/ 50,000 mensuales.
+3. Abrir cuentas bancarias y girar cheques hasta por S/ 200,000.
+4. Contratar personal subordinado con remuneraciones hasta S/ 10,000 mensuales.
+5. Las demás facultades propias de un Poder General de Administración.
+
+**Limitaciones:** No puede enajenar ni gravar bienes inmuebles, ni otorgar garantías reales.
+
+---
+
+## 🎯 Casos Prácticos
+
+### Caso 1: Gerente que Excede sus Facultades
+
+**Situación:**
+- "Comercial del Centro S.A." tiene activos por S/ 10,000,000
+- El Gerente vende un inmueble de S/ 6,000,000 (60% de activos) sin autorización de Junta
+- El comprador es tercero de buena fe que pagó precio de mercado
+
+**Análisis Legal:**
+- **Art. 115.5 LGS:** Enajenación de activos > 50% requiere acuerdo de Junta General
+- **Art. 12 LGS:** Limitaciones a facultades de representantes NO son oponibles a terceros de buena fe
+
+**Resultado:**
+- **Contrato VÁLIDO** frente al tercero de buena fe (aunque Gerente excedió facultades)
+- **Gerente RESPONSABLE** civilmente frente a la sociedad si la operación causó daños
+- **Directorio puede REMOVER** al Gerente
+
+### Caso 2: Conflicto entre Directorio y Gerente
+
+**Situación:**
+- El Directorio de "Servicios Integrales S.A." aprueba despedir a 50 empleados
+- El Gerente se niega a ejecutar el acuerdo por considerarlo injusto
+- El Directorio insiste
+
+**Análisis:**
+- El Gerente es órgano **ejecutor** de acuerdos del Directorio
+- No puede negarse a cumplir acuerdos legales (aunque los considere inconvenientes)
+
+**Opciones del Gerente:**
+1. **Ejecutar el acuerdo:** Cumple su deber como Gerente
+2. **Renunciar:** Si tiene objeción ética/moral seria
+3. **Impugnar judicialmente:** Si considera que el acuerdo es ilegal (muy excepcional)
+
+**No puede:** Simplemente desobedecer sin consecuencias
+
+**Consecuencia de desobediencia:**
+- Incumplimiento de deberes → Causal de remoción
+- Posible responsabilidad si su inacción causa daños
+
+### Caso 3: Remuneración y Beneficios del Gerente
+
+**Situación:**
+- "Tecnología Andina S.A." contrata como Gerente General a Luis Pérez
+- Remuneración: S/ 25,000 mensuales + bono anual del 5% de utilidades netas
+- Después de 3 años, el Directorio lo remueve sin causa
+- Pérez reclama indemnización por "despido arbitrario"
+
+**Análisis:**
+- **No es relación laboral común:** Es órgano societario (Art. 185 LGS)
+- **Remoción libre:** Puede removerse sin causa (Art. 186 LGS)
+- **No aplica indemnización por despido arbitrario** de la legislación laboral
+
+**Derechos del Gerente removido:**
+- Liquidación de remuneraciones devengadas
+- Bono proporcional del año en curso (si se pactó)
+- Beneficios sociales si corresponden (CTS, vacaciones truncas)
+- **NO indemnización** por despido arbitrario (salvo pacto contractual)
+
+**Recomendación:** Pactar expresamente en contrato de gerencia una cláusula de indemnización por remoción sin causa (ej: 3 meses de remuneración).
+
+## 📚 Conexiones
+
+### Dentro del Curso
+- [[directorio]] - Órgano que designa y supervisa al Gerente
+- [[junta-general-accionistas]] - Órgano supremo que puede remover al Gerente
+- [[sociedad-anonima-concepto]] - La Gerencia es uno de los 3 órganos de la S.A.
+- [[03-indice-unidad-3-sociedades]] - Índice de sociedades
+
+### Con Otras Materias
+- **Derecho Laboral:** Distinción entre relación laboral y cargo de Gerente
+- **Derecho Penal:** Delitos cometidos por Gerentes (apropiación ilícita, etc.)
+
+## 🔑 Referencias Normativas
+
+- **Ley N° 26887 - LGS:**
+  - **Art. 185:** Designación del Gerente
+  - **Art. 186:** Remoción del Gerente
+  - **Art. 187:** Impedimentos
+  - **Art. 188:** Atribuciones
+  - **Art. 189:** Responsabilidad
+  - **Art. 190:** Deber de información
+  - **Art. 191:** Aplicación de normas sobre responsabilidad de directores
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Quién designa al Gerente General en una S.A. con Directorio?
+2. ¿Puede el Gerente ser removido en cualquier momento?
+3. ¿Cuáles son las principales atribuciones del Gerente General?
+4. ¿Qué actos NO puede realizar el Gerente sin autorización expresa?
+5. ¿Puede un Director ser también Gerente de la misma sociedad?
+6. ¿Por qué el Gerente responde civilmente ante la sociedad?
+7. ¿Aplica la indemnización por despido arbitrario al Gerente removido?
+
+---
+
+**Elaborado por el Comité de Expertos:** Pedagogos, Documentadores, Psicólogos del Conocimiento, Expertos en Obsidian, Abogados y Contadores especializados en marco normativo peruano.

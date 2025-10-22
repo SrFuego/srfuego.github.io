@@ -1,0 +1,476 @@
+---
+title: "Transformación, Fusión y Escisión de Sociedades"
+tags:
+  - derecho-empresarial
+  - ley-general-sociedades
+  - reorganizacion-societaria
+  - transformacion
+  - fusion
+  - escision
+  - SUNARP
+aliases:
+  - Reorganización de Sociedades
+  - Transformación Societaria
+  - Fusión por Absorción
+  - Fusión por Incorporación
+  - Escisión Total
+  - Escisión Parcial
+---
+
+# Transformación, Fusión y Escisión de Sociedades
+
+## 🎯 Concepto
+
+La **reorganización societaria** comprende tres procesos fundamentales regulados por la Ley General de Sociedades (Ley N° 26887, Arts. 333-407) mediante los cuales una o más sociedades modifican sustancialmente su estructura jurídica, patrimonial u organizativa sin necesidad de liquidarse: la **transformación** (cambio de forma societaria), la **fusión** (unión de sociedades) y la **escisión** (división patrimonial).
+
+Estos mecanismos permiten a las empresas adaptarse a nuevas necesidades del mercado, optimizar su estructura, acceder a beneficios fiscales o realizar estrategias de crecimiento sin extinguir la personalidad jurídica ni los contratos vigentes.
+
+## 📋 Marco Regulatorio Peruano
+
+| Norma | Artículos | Contenido Regulado |
+|-------|-----------|-------------------|
+| **Ley N° 26887 (LGS)** | Arts. 333-356 | Transformación de sociedades |
+| **Ley N° 26887 (LGS)** | Arts. 344-356 | Fusión de sociedades |
+| **Ley N° 26887 (LGS)** | Arts. 367-390 | Escisión de sociedades |
+| **Reglamento SUNARP** | Título VIII | Inscripción de reorganizaciones |
+| **TUO Ley del Impuesto a la Renta** | Art. 104° | Tratamiento tributario fusión/escisión |
+| **Ley del IGV** | Art. 2° inc. d) | Transferencias por reorganización |
+| **NIC 8** | Cambios contables | Cambios en políticas contables |
+| **NIIF 3** | Combinaciones de negocios | Contabilización de fusiones |
+
+## 🔄 I. TRANSFORMACIÓN DE SOCIEDADES
+
+### Concepto y Naturaleza Jurídica
+
+La **transformación** es el cambio de un tipo o forma societaria a otra prevista en la Ley General de Sociedades (Art. 333 LGS), **manteniendo la personalidad jurídica** original. No implica extinción ni nacimiento de nueva sociedad, sino una modificación estructural.
+
+**Ejemplo:** Una S.R.L. que se transforma en S.A. para facilitar la entrada de nuevos socios o acceder al mercado de valores.
+
+### Requisitos y Procedimiento
+
+```mermaid
+flowchart TD
+    A[Inicio: Acuerdo de Transformación] --> B{Junta General o Asamblea}
+    B -->|Quórum Calificado| C[Aprobación con mayoría calificada]
+    C --> D[Balance de Transformación Certificado]
+    D --> E[Publicación en Diario Oficial El Peruano<br/>3 veces cada 5 días]
+    E --> F{¿Oposición de Acreedores?}
+    F -->|SÍ| G[Resolver oposición:<br/>Pagar o garantizar]
+    F -->|NO| H[Esperar 60 días desde última publicación]
+    G --> H
+    H --> I[Otorgamiento de Escritura Pública]
+    I --> J[Inscripción en SUNARP]
+    J --> K[Transformación Efectiva]
+    
+    style A fill:#e1f5ff
+    style K fill:#c8e6c9
+    style F fill:#fff3e0
+```
+
+#### Requisitos Formales (Art. 335-341 LGS)
+
+1. **Acuerdo de Junta General:**
+   - Quórum: Mayoría calificada según tipo societario
+   - Contenido: Nueva forma, estatuto adaptado, balance certificado
+
+2. **Balance de Transformación:**
+   - Debe ser auditado por contador público colegiado
+   - Cerrado al mes anterior del acuerdo (máximo)
+   - Refleja situación patrimonial exacta
+
+3. **Publicaciones:**
+   - 3 avisos en El Peruano, cada 5 días (total 15 días)
+   - Contenido: Acuerdo, forma nueva, derecho oposición acreedores
+
+4. **Derecho de Separación:**
+   - Socios disconformes: 10 días desde acuerdo (Art. 339)
+   - Valorización: Valor libros según balance certificado
+
+5. **Plazo de Oposición:**
+   - Acreedores: 60 días desde última publicación (Art. 340)
+   - Efectos: Suspende inscripción hasta pago o garantía
+
+### Efectos de la Transformación (Art. 342-343)
+
+| Aspecto | Efecto Jurídico |
+|---------|-----------------|
+| **Personalidad Jurídica** | Se mantiene sin interrupción (Art. 342) |
+| **RUC y Registros** | Conserva mismo RUC, misma inscripción registral |
+| **Contratos** | Todos vigentes, no requieren renegociación |
+| **Derechos y Obligaciones** | Se transmiten íntegramente a nueva forma |
+| **Créditos fiscales** | Conserva pérdidas tributarias arrastrables |
+| **Responsabilidad Socios** | Según nueva forma: limitada o ilimitada (Art. 343) |
+
+### Caso Práctico: Transformación S.R.L. a S.A.
+
+**Datos:**
+- "Inversiones del Norte S.R.L." (20 socios)
+- Capital social: S/ 500,000
+- Patrimonio neto: S/ 850,000
+- Motivo: Captar inversión institucional y ampliar base accionaria
+
+**Procedimiento aplicado:**
+
+1. **Junta General Extraordinaria (15/01/2025):**
+   - Asistencia: 20/20 socios (100%)
+   - Votación: 19 a favor, 1 abstención (95%)
+   - Acuerdo: Transformar en "Inversiones del Norte S.A."
+
+2. **Balance de Transformación (31/12/2024):**
+   ```
+   ACTIVO TOTAL:           S/ 1,250,000
+   PASIVO TOTAL:           S/   400,000
+   PATRIMONIO NETO:        S/   850,000
+   ```
+
+3. **Conversión de Participaciones:**
+   - Participaciones S.R.L.: 500 de S/ 1,000 c/u
+   - Acciones S.A.: 500,000 de S/ 1.00 c/u (VN)
+   - Prima por acción: S/ 0.70 (total S/ 350,000 como capital adicional)
+
+4. **Publicaciones:** 20/01, 25/01, 30/01/2025 en El Peruano
+
+5. **Oposición:** Ningún acreedor se opuso
+
+6. **Escritura Pública:** 05/04/2025 (60 días + 5 días trámite)
+
+7. **Inscripción SUNARP:** 12/04/2025
+
+**Costos aproximados:**
+- Auditoría balance: S/ 4,000
+- Publicaciones (3): S/ 1,200
+- Escritura pública: S/ 1,500
+- Derechos registrales SUNARP: S/ 450
+- **Total:** S/ 7,150
+
+## 🤝 II. FUSIÓN DE SOCIEDADES
+
+### Concepto y Clases
+
+La **fusión** es la reunión de dos o más sociedades en una sola, asumiendo la sociedad resultante los patrimonios y las titularidades de las sociedades fusionadas (Art. 344 LGS).
+
+#### Tipos de Fusión
+
+```mermaid
+graph TD
+    A[Fusión de Sociedades] --> B[Fusión por Incorporación<br/>Art. 344.1]
+    A --> C[Fusión por Absorción<br/>Art. 344.2]
+    
+    B --> D[Se extinguen todas<br/>las sociedades originales]
+    B --> E[Nace nueva sociedad<br/>con nuevo nombre y RUC]
+    
+    C --> F[Se extinguen las absorbidas]
+    C --> G[Subsiste la absorbente<br/>conserva RUC y nombre]
+    
+    style A fill:#e1f5ff
+    style B fill:#fff3e0
+    style C fill:#fff3e0
+```
+
+### Procedimiento de Fusión (Art. 345-354)
+
+#### Fase 1: Proyecto de Fusión (Art. 345)
+
+Contenido obligatorio del proyecto:
+
+1. Exposición de motivos y finalidades
+2. Estados financieros auditados (últimos 2 ejercicios)
+3. Relación de canje de acciones/participaciones
+4. Procedimiento para canje de títulos
+5. Capital social de nueva sociedad o incremento
+6. Estatuto de sociedad incorporante o absorbente
+7. Compensaciones complementarias
+8. Fecha prevista de entrada en vigencia
+
+#### Fase 2: Aprobación por Juntas (Art. 347-348)
+
+- **Quórum:** Mayoría absoluta (>50%)
+- **Votación:** Mayoría absoluta de quienes voten
+- **Publicación:** 3 avisos en El Peruano (cada 5 días)
+- **Plazo oposición:** 30 días desde última publicación
+
+#### Fase 3: Escritura Pública e Inscripción (Art. 352-354)
+
+Una vez vencido el plazo sin oposición (o resueltas las oposiciones):
+
+1. Otorgamiento de escritura pública de fusión
+2. Inscripción simultánea:
+   - Fusión en partidas de sociedades fusionadas
+   - Aumento de capital en absorbente (si corresponde)
+   - Constitución de nueva sociedad (si es por incorporación)
+3. Cierre de partidas registrales de sociedades extintas
+
+### Relación de Canje
+
+La **relación de canje** determina cuántas acciones/participaciones de la nueva sociedad (o absorbente) recibirá cada socio de las sociedades fusionadas.
+
+**Fórmula general:**
+$$
+\text{Relación de Canje} = \frac{\text{Valor Patrimonial Sociedad A}}{\text{Valor Patrimonial Sociedad B}}
+$$
+
+### Efectos de la Fusión (Art. 355-356)
+
+| Efecto | Descripción |
+|--------|-------------|
+| **Transmisión Universal** | Todos los activos, pasivos, contratos y derechos pasan automáticamente |
+| **Extinción sin Liquidación** | Sociedades fusionadas se extinguen sin proceso liquidatorio |
+| **Socios** | Se convierten en socios de nueva sociedad o absorbente |
+| **Responsabilidad** | Sociedad resultante responde por obligaciones de fusionadas |
+| **Trabajadores** | Mantienen todos sus derechos laborales (no hay despido) |
+
+### Caso Práctico: Fusión por Absorción
+
+**Contexto:**
+- **Sociedad Absorbente:** "Comercial Lima S.A." 
+  - Capital: S/ 2,000,000 (2,000,000 acciones de S/ 1.00 VN)
+  - Patrimonio neto: S/ 5,000,000
+  - Valor patrimonial por acción: S/ 2.50
+
+- **Sociedad Absorbida:** "Distribuidora Norte S.A."
+  - Capital: S/ 600,000 (600,000 acciones de S/ 1.00 VN)
+  - Patrimonio neto: S/ 1,500,000
+  - Valor patrimonial por acción: S/ 2.50
+
+**Relación de Canje:**
+$$
+\text{Relación} = \frac{S/ 2.50}{S/ 2.50} = 1:1
+$$
+
+Cada accionista de Distribuidora Norte recibe 1 acción de Comercial Lima por cada acción que posee.
+
+**Proceso:**
+
+1. **15/02/2025:** Aprobación proyecto fusión por ambas juntas
+2. **20/02, 25/02, 02/03/2025:** Publicaciones en El Peruano
+3. **02/04/2025:** Vence plazo oposición (30 días desde 02/03)
+4. **10/04/2025:** Escritura pública de fusión
+5. **20/04/2025:** Inscripción SUNARP
+
+**Resultado:**
+- Comercial Lima S.A. aumenta su capital a S/ 2,600,000 (2,600,000 acciones)
+- Distribuidora Norte S.A. se extingue (cierre de partida)
+- Accionistas de Distribuidora reciben 600,000 acciones de Comercial Lima
+
+**Asientos Contables (en Comercial Lima S.A.):**
+
+```
+------------------------- x -------------------------
+10 EFECTIVO Y EQUIVALENTES      xxx
+12 CUENTAS POR COBRAR COM.      xxx
+20 MERCADERÍAS                  xxx
+33 INMUEBLES, MAQ. Y EQUIPO     xxx
+39 DEPREC. ACUMULADA                  xxx
+42 CUENTAS POR PAGAR COM.             xxx
+45 OBLIGACIONES FINANCIERAS           xxx
+50 CAPITAL                            600,000
+52 CAPITAL ADICIONAL                  900,000
+Por fusión por absorción de Distribuidora Norte S.A.
+------------------------- x -------------------------
+```
+
+## ✂️ III. ESCISIÓN DE SOCIEDADES
+
+### Concepto y Modalidades
+
+La **escisión** es la división del patrimonio de una sociedad en dos o más bloques patrimoniales, que son transferidos a sociedades nuevas o absorbidos por sociedades ya existentes (Art. 367 LGS).
+
+#### Tipos de Escisión
+
+```mermaid
+graph TD
+    A[Escisión] --> B[Escisión Total<br/>Art. 367.1]
+    A --> C[Escisión Parcial<br/>Art. 367.2]
+    
+    B --> D[Sociedad se extingue]
+    B --> E[Todo el patrimonio<br/>se divide]
+    
+    C --> F[Sociedad subsiste]
+    C --> G[Segrega parte del<br/>patrimonio]
+    
+    style A fill:#e1f5ff
+    style B fill:#ffcdd2
+    style C fill:#c8e6c9
+```
+
+**Escisión Total:** La sociedad escindida se extingue y su patrimonio total se divide en bloques que se transfieren a dos o más sociedades (nuevas o existentes).
+
+**Escisión Parcial (Segregación):** La sociedad escindida subsiste y solo transfiere uno o más bloques patrimoniales a una o más sociedades (nuevas o existentes).
+
+### Proyecto de Escisión (Art. 370)
+
+Contenido obligatorio:
+
+1. Exposición de motivos de la escisión
+2. Estados financieros auditados de la escindida
+3. **Bloque patrimonial** detallado: activos y pasivos específicos
+4. Relación de canje para socios (si aplica)
+5. Capital de sociedades receptoras
+6. Estatutos de nuevas sociedades o modificación de existentes
+7. Compensaciones complementarias
+
+### Requisitos del Bloque Patrimonial (Art. 368-369)
+
+El bloque patrimonial debe:
+
+- Ser **completo y autónomo** (activos + pasivos relacionados)
+- Permitir funcionamiento como **unidad económica independiente**
+- Incluir contratos, licencias, autorizaciones necesarias
+- Equilibrio: activos deben superar pasivos del bloque
+
+### Procedimiento de Escisión (Art. 371-381)
+
+Similar a fusión pero con particularidades:
+
+1. **Aprobación:** Junta General con quórum y mayoría calificada
+2. **Publicaciones:** 3 avisos en El Peruano (cada 5 días)
+3. **Plazo oposición:** 30 días desde última publicación
+4. **Acreedores:** Derecho a oponerse si afecta garantía (Art. 378)
+5. **Escritura Pública:** Incluye balance de escisión certificado
+6. **Inscripción SUNARP:** Simultánea en todas las partidas involucradas
+
+### Efectos de la Escisión (Art. 382-383)
+
+| Aspecto | Escisión Total | Escisión Parcial |
+|---------|----------------|------------------|
+| **Sociedad Escindida** | Se extingue sin liquidación | Subsiste con patrimonio reducido |
+| **Socios** | Reciben acciones de todas las beneficiarias | Mantienen acciones originales + reciben de beneficiarias |
+| **Responsabilidad** | Beneficiarias responden solidariamente por obligaciones escindida (3 años) | Escindida y beneficiarias responden solidariamente por obligaciones del bloque (3 años) |
+| **RUC** | Se cancela | Se mantiene |
+
+### Caso Práctico: Escisión Parcial (Segregación)
+
+**Contexto:**
+"Grupo Manufacturero S.A." decide segregar su división logística para especializarla.
+
+**Datos de Grupo Manufacturero S.A. (antes de escisión):**
+```
+ACTIVO TOTAL:                   S/ 15,000,000
+  Activo División Manufactura:  S/ 12,000,000
+  Activo División Logística:    S/  3,000,000
+
+PASIVO TOTAL:                   S/  9,000,000
+  Pasivo División Manufactura:  S/  7,500,000
+  Pasivo División Logística:    S/  1,500,000
+
+PATRIMONIO NETO:                S/  6,000,000
+
+CAPITAL SOCIAL:                 S/  4,000,000 (4,000,000 acciones VN S/ 1.00)
+```
+
+**Bloque Patrimonial Segregado (División Logística):**
+```
+ACTIVOS:                        S/  3,000,000
+  Inmuebles (almacenes)         S/  2,000,000
+  Vehículos                     S/    500,000
+  Inventarios                   S/    300,000
+  Cuentas por cobrar            S/    200,000
+
+PASIVOS:                        S/  1,500,000
+  Préstamo bancario             S/  1,200,000
+  Cuentas por pagar             S/    300,000
+
+PATRIMONIO NETO BLOQUE:         S/  1,500,000
+```
+
+**Sociedad Beneficiaria (nueva):**
+"Logística Eficiente S.A." con capital de S/ 1,500,000 (1,500,000 acciones de S/ 1.00 VN)
+
+**Relación de Canje:**
+Cada accionista de Grupo Manufacturero recibe **1 acción de Logística Eficiente por cada 2.67 acciones** que posee de Grupo Manufacturero.
+
+$$
+\text{Relación} = \frac{1,500,000}{4,000,000} = 1:2.67
+$$
+
+**Ejemplo:** Accionista con 1,000 acciones de Grupo Manufacturero recibe 375 acciones de Logística Eficiente (y mantiene sus 1,000 acciones originales).
+
+**Resultado Post-Escisión:**
+
+**Grupo Manufacturero S.A. (subsiste):**
+```
+ACTIVO TOTAL:                   S/ 12,000,000
+PASIVO TOTAL:                   S/  7,500,000
+PATRIMONIO NETO:                S/  4,500,000
+CAPITAL SOCIAL:                 S/  4,000,000 (sin cambio)
+```
+
+**Logística Eficiente S.A. (nueva):**
+```
+ACTIVO TOTAL:                   S/  3,000,000
+PASIVO TOTAL:                   S/  1,500,000
+PATRIMONIO NETO:                S/  1,500,000
+CAPITAL SOCIAL:                 S/  1,500,000
+```
+
+**Asientos Contables (en Grupo Manufacturero S.A.):**
+
+```
+------------------------- x -------------------------
+39 DEPREC. ACUMULADA            500,000
+42 CUENTAS POR PAGAR COM.       300,000
+45 OBLIGACIONES FINANCIERAS   1,200,000
+59 RESULTADOS ACUMULADOS             0
+    33 INM., MAQ. Y EQUIPO               2,500,000
+    20 MERCADERÍAS                         300,000
+    12 CTAS. POR COBRAR COM.              200,000
+Por segregación bloque patrimonial división logística
+------------------------- x -------------------------
+```
+
+## 🔍 IV. ASPECTOS TRIBUTARIOS
+
+### Tratamiento Tributario en Perú
+
+| Reorganización | Impuesto a la Renta | IGV |
+|----------------|---------------------|-----|
+| **Transformación** | Neutra: No genera renta gravable (Art. 104° TUO LIR) | No gravado (Art. 2° inc. d Ley IGV) |
+| **Fusión** | Neutra: Activos a valor contable, pérdidas tributarias se transfieren a absorbente | No gravado |
+| **Escisión** | Neutra: Activos a valor contable, pérdidas tributarias se dividen proporcionalmente | No gravado |
+
+**Condiciones para neutralidad tributaria (Art. 104° TUO LIR):**
+
+1. Comunicar a SUNAT dentro de 10 días hábiles siguientes a inscripción registral
+2. Transferir activos y pasivos a **valores contables** (no revaluados)
+3. En fusión/escisión: Transferir **totalidad de bloques patrimoniales**
+4. Pérdidas tributarias se transfieren proporcionalmente al patrimonio neto transferido
+
+### Comunicación a SUNAT
+
+Formulario requerido: **Formulario Virtual N° 2127** (vía SUNAT Operaciones en Línea)
+
+Documentos a adjuntar:
+- Copia de escritura pública inscrita
+- Balance de transformación/fusión/escisión auditado
+- Detalle de pérdidas tributarias arrastradas
+- Relación de activos y pasivos transferidos
+
+## 📚 Conexiones con Otros Conceptos
+
+- [[concepto-sociedad]] - Base conceptual de la reorganización
+- [[sociedad-anonima-concepto]] - Forma más común en fusiones
+- [[junta-general-accionistas]] - Órgano que aprueba reorganización
+- [[estados-financieros-lgs]] - Balance de fusión/escisión
+- [[auditoria-externa]] - Auditoría de balances de reorganización
+
+## 🔑 Referencias Normativas Clave
+
+- **Art. 333-343 LGS:** Transformación de sociedades
+- **Art. 344-356 LGS:** Fusión de sociedades (incorporación y absorción)
+- **Art. 367-390 LGS:** Escisión de sociedades (total y parcial)
+- **Art. 104° TUO Ley Impuesto a la Renta (D.S. 179-2004-EF):** Neutralidad tributaria
+- **Art. 2° inc. d) TUO Ley IGV (D.S. 055-99-EF):** Transferencias no gravadas
+- **Reglamento del Registro de Sociedades:** Título sobre reorganizaciones
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿En qué se diferencia la transformación de la fusión en cuanto a la personalidad jurídica de la sociedad?
+2. ¿Cuál es el plazo que tienen los acreedores para oponerse en un proceso de fusión y qué efectos tiene su oposición?
+3. Explique las diferencias entre fusión por incorporación y fusión por absorción.
+4. ¿Qué requisitos debe cumplir un "bloque patrimonial" en una escisión para ser válido?
+5. En una escisión parcial, ¿qué ocurre con la responsabilidad de la sociedad escindida por las obligaciones del bloque segregado?
+6. ¿Cómo se calcula la relación de canje en una fusión cuando las sociedades tienen diferentes valores patrimoniales por acción?
+7. ¿Cuáles son las condiciones que debe cumplir una reorganización societaria para mantener la neutralidad tributaria según el Art. 104° de la LIR?
+8. ¿Qué ocurre con las pérdidas tributarias arrastrables en una fusión por absorción?
+9. ¿Por qué es necesario publicar 3 avisos en El Peruano en los procesos de reorganización?
+10. ¿Qué diferencias existen entre la extinción por fusión y la extinción por liquidación?

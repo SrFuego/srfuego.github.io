@@ -1,0 +1,445 @@
+---
+title: Junta General de Accionistas
+tags:
+  - sociedades
+  - junta-general
+  - LGS
+  - gobierno-corporativo
+  - Art-111-132-LGS
+  - SUNARP
+aliases:
+  - Junta General
+  - Asamblea de Accionistas
+  - Órgano supremo SA
+---
+
+# Junta General de Accionistas
+
+## 🎯 Concepto
+
+**Órgano supremo** de la [[sociedad-anonima-concepto|sociedad anónima]]: reunión de accionistas debidamente convocados para decidir por mayoría sobre asuntos de su competencia (Arts. 111-132 LGS).
+
+**Art. 111 LGS:** "La junta general de accionistas es el órgano supremo de la sociedad."
+
+**Conexiones:** [[directorio|Directorio]] • [[gerencia|Gerencia]] • [[dividendos|Distribución utilidades]] • [[estados-financieros-lgs|Aprobación EE.FF.]]
+
+## 📊 Tipos de Junta General
+
+### Clasificación por Periodicidad
+
+```mermaid
+graph TD
+    A[Junta General de Accionistas] --> B[Junta General<br/>OBLIGATORIA ANUAL]
+    A --> C[Juntas Generales<br/>ESPECIALES]
+    
+    B --> B1[Convocatoria:<br/>Dentro de los 3 meses<br/>siguientes al cierre]
+    B --> B2[Asuntos:<br/>- Aprobar EE.FF.<br/>- Aplicar utilidades<br/>- Designar auditores<br/>- Otros]
+    
+    C --> C1[Por asuntos<br/>ordinarios]
+    C --> C2[Por asuntos que<br/>requieran acuerdo calificado]
+    
+    style B fill:#e1f5ff
+    style C fill:#fff4e1
+```
+
+### 1. Junta General Obligatoria Anual (Art. 114 LGS)
+
+**Naturaleza:** OBLIGATORIA - Debe celebrarse cada año
+
+**Plazo de convocatoria:**
+> "La junta general se reúne obligatoriamente **cuando menos una vez al año dentro de los tres meses siguientes a la terminación del ejercicio económico**."
+
+**Fecha del ejercicio económico en Perú:** 1° de enero al 31 de diciembre
+
+**Plazo:** Entre el 1° de enero y el 31 de marzo del año siguiente
+
+**Ejemplo:**
+```
+Ejercicio 2023: 01/01/2023 al 31/12/2023
+Cierre: 31/12/2023
+Junta Obligatoria Anual 2023: A más tardar el 31/03/2024
+```
+
+**Asuntos obligatorios a tratar (Art. 114 LGS):**
+
+| Asunto | Base Legal | Observación |
+|--------|------------|-------------|
+| **1. Pronunciarse sobre la gestión social y resultados económicos** | Art. 114.1 | Evaluación de la administración |
+| **2. Resolver sobre la aplicación de utilidades** | Art. 114.2 | Reserva legal, dividendos, otras reservas |
+| **3. Elegir directores y síndicos** | Art. 114.3 | Si corresponde según estatuto |
+| **4. Designar o delegar designación de auditores externos** | Art. 114.4 | Obligatorio para SAA |
+| **5. Resolver sobre asuntos que requieran su decisión** | Art. 114.5 | Otros asuntos específicos |
+| **6. Otros asuntos en la convocatoria** | Art. 114.6 | Indicados en el aviso |
+
+**Consecuencias del incumplimiento:**
+
+Si el Directorio NO convoca la Junta Anual Obligatoria:
+- Cualquier accionista puede solicitar al juez que convoque (Art. 117 LGS)
+- Responsabilidad de los directores (Art. 177 LGS)
+- SUNARP puede observar inscripciones posteriores
+
+### 2. Juntas Generales Especiales
+
+**Naturaleza:** Se convocan cuando surge la necesidad
+
+**Quién puede convocar:**
+- **Directorio** (por iniciativa propia o a pedido de accionistas)
+- **Gerencia** (en ausencia de directorio - Art. 117)
+- **Accionistas** que representen al menos 20% de acciones suscritas con derecho a voto (Art. 117)
+- **Juez** (cuando los obligados no convocan - Art. 117)
+
+**Asuntos típicos:**
+- Aumento o reducción de capital
+- Transformación, fusión, escisión
+- Disolución de la sociedad
+- Modificación de estatuto
+- Aprobación de estados financieros extraordinarios
+- Cualquier otro asunto de competencia de la Junta
+
+## 📋 Competencias de la Junta General
+
+### Art. 115 LGS - Competencias Exclusivas
+
+> "La junta general tiene las facultades siguientes:
+> 
+> 1. **Pronunciarse sobre la gestión social, los resultados económicos del ejercicio y resolver sobre la aplicación de las utilidades, si las hubiere.**
+> 
+> 2. **Modificar el estatuto.**
+> 3. **Aumentar o reducir el capital social.**
+> 4. **Emitir obligaciones.**
+> 5. **Acordar la enajenación, en un solo acto, de activos cuyo valor exceda el cincuenta por ciento del capital de la sociedad.**
+> 6. **Aprobar la reorganización de la sociedad y resolver sobre su transformación, fusión, escisión, reorganización simple o cualquier otra forma de reorganización.**
+> 7. **Resolver sobre la disolución de la sociedad.**
+> 8. **Resolver en los casos en que la ley o el estatuto dispongan su intervención y en cualquier otro que requiera el interés social.**"
+
+### Clasificación de Competencias
+
+```mermaid
+graph TD
+    A[Competencias de la Junta] --> B[Competencias<br/>Indelegables]
+    A --> C[Competencias<br/>Delegables]
+    
+    B --> B1[Modificar estatuto]
+    B --> B2[Aumentar/reducir capital]
+    B --> B3[Reorganización]
+    B --> B4[Disolución]
+    B --> B5[Aplicar utilidades]
+    
+    C --> C1[Designación de auditores<br/>puede delegar en Directorio]
+    C --> C2[Otros asuntos<br/>si estatuto lo permite]
+    
+    style B fill:#ffe1e1
+    style C fill:#e1ffe1
+```
+
+## 📢 Convocatoria de la Junta General
+
+### Proceso de Convocatoria (Art. 113 LGS)
+
+```mermaid
+graph LR
+    A[Decisión de<br/>Convocar] --> B[Publicación de<br/>Aviso 1]
+    B --> C[Esperar<br/>10 días]
+    C --> D[Publicación de<br/>Aviso 2]
+    D --> E[Esperar<br/>mínimo 3 días]
+    E --> F[Fecha de<br/>Junta]
+    
+    style B fill:#e1f5ff
+    style D fill:#e1f5ff
+    style F fill:#ffe1e1
+```
+
+### Requisitos de la Convocatoria (Art. 113 LGS)
+
+**1. Forma de publicación:**
+- En el periódico del **lugar del domicilio social** encargado de la publicación de avisos judiciales
+- O mediante **aviso escrito** con cargo de recepción (para sociedades con menos de cierto número de accionistas)
+- Puede ser **electrónica** si el estatuto lo permite
+
+**2. Plazo:**
+> "La convocatoria se publica con una anticipación no menor de **diez días** al de la fecha fijada para la celebración de la junta. El aviso de convocatoria especifica el **lugar, día y hora** de celebración, así como los **asuntos a tratar**."
+
+**3. Segunda convocatoria:**
+> "En el mismo aviso puede constar la fecha en que, si fuera necesario, se reunirá la junta en **segunda convocatoria**. Dicha fecha debe ser por lo menos **tres días** posterior a la primera."
+
+**Ejemplo de Aviso de Convocatoria:**
+
+---
+
+### JUNTA GENERAL OBLIGATORIA ANUAL DE ACCIONISTAS
+### INVERSIONES DEL NORTE S.A.
+
+Por acuerdo del Directorio de la sociedad, se convoca a los señores accionistas de **INVERSIONES DEL NORTE S.A.** a la **Junta General Obligatoria Anual de Accionistas**, que se llevará a cabo en el local de la sociedad ubicado en Av. Larco N° 1234, Miraflores, Lima, en las siguientes fechas y horas:
+
+**PRIMERA CONVOCATORIA:** Lunes 25 de marzo de 2024, a las 10:00 horas
+**SEGUNDA CONVOCATORIA:** Viernes 29 de marzo de 2024, a las 10:00 horas
+
+**AGENDA:**
+1. Informe de la gestión del Directorio y aprobación de la Memoria Anual del ejercicio 2023.
+2. Aprobación de los Estados Financieros correspondientes al ejercicio cerrado al 31 de diciembre de 2023.
+3. Aplicación de utilidades del ejercicio 2023.
+4. Designación de auditores externos para el ejercicio 2024.
+5. Nombramiento del Directorio para el período 2024-2026.
+6. Otros asuntos.
+
+**DERECHO DE CONCURRENCIA:** Tienen derecho a asistir los accionistas inscritos en la Matrícula de Acciones al 15 de marzo de 2024.
+
+Lima, 5 de marzo de 2024
+
+**EL DIRECTORIO**
+
+---
+
+## 🗳️ Quórums y Mayorías
+
+### Sistema de Quórums en la LGS
+
+**Concepto de quórum:**
+- **Quórum de asistencia:** Porcentaje mínimo de acciones representadas para que la Junta se instale válidamente
+- **Quórum de votación:** Porcentaje mínimo de votos favorables para aprobar un acuerdo
+
+### Tipos de Acuerdos según Mayoría Requerida
+
+```mermaid
+graph TD
+    A[Acuerdos de Junta] --> B[Acuerdos<br/>ORDINARIOS]
+    A --> C[Acuerdos<br/>CALIFICADOS]
+    
+    B --> B1[Mayoría simple<br/>Art. 127]
+    B1 --> B2[Primera: 50% + 1<br/>Segunda: cualquier número]
+    
+    C --> C1[Mayoría calificada<br/>Arts. 126, 128]
+    C1 --> C2[Primera: según norma<br/>Segunda: 2/3 o 3/5]
+    
+    style B fill:#e1ffe1
+    style C fill:#ffe1e1
+```
+
+### Tabla de Quórums según Tipo de Acuerdo
+
+| Tipo de Acuerdo | Ejemplo | Primera Convocatoria | Segunda Convocatoria | Mayoría para Aprobar |
+|-----------------|---------|---------------------|---------------------|---------------------|
+| **ORDINARIO** (Art. 127) | Aprobar EE.FF., designar auditores | No hay quórum mínimo (cualquier número válido) | No hay quórum mínimo | Mayoría absoluta de votos presentes |
+| **CALIFICADO - Modificación Estatuto** (Art. 126) | Cambiar objeto social, denominación | Acciones que representen al menos **50% del capital suscrito** con derecho a voto | Al menos **25%** | Mayoría absoluta de acciones representadas en la Junta |
+| **CALIFICADO - Reorganización** (Art. 128) | Transformación, fusión, escisión, disolución | Al menos **2/3 (66.67%)** de acciones suscritas con derecho a voto | Al menos **3/5 (60%)** | Mayoría absoluta de acciones representadas |
+| **CALIFICADO - Aumento de Capital por Aportes** (Art. 201) | Aumentar capital con nuevos aportes | Mayoría absoluta de acciones suscritas con derecho a voto | Ídem | Mayoría absoluta |
+
+### Ejemplo Práctico de Quórums
+
+**Situación:**
+- **Empresa:** "Comercial Lima S.A."
+- **Capital Social:** S/ 1,000,000 dividido en 1,000,000 acciones de S/ 1.00 c/u
+- **Distribución accionaria:**
+  - Accionista A: 400,000 acciones (40%)
+  - Accionista B: 300,000 acciones (30%)
+  - Accionista C: 200,000 acciones (20%)
+  - Accionista D: 100,000 acciones (10%)
+
+**Caso 1: Junta para Aprobar Estados Financieros (Acuerdo ORDINARIO)**
+
+**Primera Convocatoria:**
+- Asisten: A (40%), B (30%), C (20%) = 70% del capital
+- Quórum: ✅ (No hay mínimo, cualquier asistencia es válida)
+- Votación: A favor 600,000 acciones, en contra 100,000 acciones
+- Resultado: **APROBADO** (mayoría absoluta de presentes: 600k > 350k)
+
+**Segunda Convocatoria (si no hubiera quórum):**
+- Asisten: Solo A (40%)
+- Quórum: ✅ (Cualquier número instala)
+- Votación: A vota a favor con sus 400,000 acciones
+- Resultado: **APROBADO** (mayoría absoluta de presentes)
+
+**Caso 2: Junta para Aumentar Capital (Acuerdo CALIFICADO - Art. 201)**
+
+**Primera Convocatoria:**
+- Asisten: A (40%), C (20%) = 60% del capital
+- Quórum: ✅ (Se requiere mayoría absoluta: > 50%. Tiene 60%)
+- Votación: A favor 400,000 (A), en contra 200,000 (C)
+- Resultado: **APROBADO** (mayoría absoluta de representadas: 400k > 300k)
+
+**Segunda Convocatoria (si primera no instaló):**
+- Asisten: A (40%), D (10%) = 50% del capital
+- Quórum: ✅ (Misma regla que primera: mayoría absoluta)
+- Votación: A favor 400,000 (A), en contra 100,000 (D)
+- Resultado: **APROBADO**
+
+**Caso 3: Junta para Fusión (Acuerdo CALIFICADO - Art. 128)**
+
+**Primera Convocatoria:**
+- Asisten: A (40%), B (30%), C (20%) = 90% del capital
+- Quórum: ✅ (Se requiere 2/3 = 66.67%. Tiene 90%)
+- Votación: A favor 700,000 (A+B), en contra 200,000 (C)
+- Resultado: **APROBADO** (mayoría absoluta de representadas: 700k > 450k)
+
+**Segunda Convocatoria (si primera no instaló):**
+- Asisten: A (40%), B (30%) = 70% del capital
+- Quórum: ✅ (Se requiere 3/5 = 60%. Tiene 70%)
+- Votación: A favor 700,000 (A+B)
+- Resultado: **APROBADO**
+
+## 📝 Acta de Junta General
+
+### Requisitos del Acta (Art. 134 LGS)
+
+**Contenido mínimo del acta:**
+
+1. **Lugar, fecha y hora** de celebración
+2. **Forma de convocatoria** (primera o segunda)
+3. **Nombre de accionistas presentes o representados** y número de acciones de las que son titulares
+4. **Determinación de la existencia del quórum**
+5. **Indicación de quién presidió la Junta** y actuó como secretario
+6. **Asuntos tratados**
+7. **Forma y resultado de las votaciones**
+8. **Acuerdos adoptados**
+9. **Constancia de votos disidentes** (si los hubiere)
+
+**Modelo de Acta:**
+
+---
+
+### ACTA DE JUNTA GENERAL OBLIGATORIA ANUAL DE ACCIONISTAS
+### INVERSIONES DEL NORTE S.A.
+
+En la ciudad de Lima, siendo las 10:30 horas del día 25 de marzo de 2024, en el domicilio social ubicado en Av. Larco N° 1234, Miraflores, Lima, se reunieron los accionistas de **INVERSIONES DEL NORTE S.A.** en **Junta General Obligatoria Anual de Accionistas**, en **primera convocatoria**, según aviso publicado en el Diario Oficial "El Peruano" con fecha 5 de marzo de 2024.
+
+**1. ASISTENCIA Y QUÓRUM:**
+
+Asistieron los siguientes accionistas, personalmente o representados:
+
+| Accionista | N° Acciones | % Capital | Representante |
+|------------|-------------|-----------|---------------|
+| Juan Pérez López | 400,000 | 40% | Personal |
+| María García Soto | 300,000 | 30% | Personal |
+| Carlos Díaz Ruiz | 200,000 | 20% | Por poder: Ana Torres |
+| **TOTAL PRESENTES** | **900,000** | **90%** | |
+
+Se dejó constancia de la existencia de quórum para sesionar y adoptar acuerdos ordinarios, siendo el 90% del capital social mayor al mínimo requerido.
+
+**2. DIRECTORIO DE LA JUNTA:**
+
+Por unanimidad se acordó que presida la Junta el señor Juan Pérez López y actúe como Secretario el Dr. Roberto Sánchez Mora.
+
+**3. AGENDA Y DELIBERACIÓN:**
+
+El Presidente dio inicio a la Junta procediendo a tratar los puntos de la agenda:
+
+**PUNTO PRIMERO:** Informe de Gestión y Memoria Anual 2023
+
+El Presidente del Directorio expuso la Memoria correspondiente al ejercicio 2023, destacando [resumen de logros]. Luego de la deliberación, se sometió a votación la aprobación de la Memoria.
+
+**Votación:** A favor: 900,000 acciones (100% de presentes). En contra: 0. Abstenciones: 0.
+**ACUERDO:** APROBADO por unanimidad.
+
+**PUNTO SEGUNDO:** Aprobación de Estados Financieros 2023
+
+Se presentaron los Estados Financieros auditados al 31/12/2023, conjuntamente con el Dictamen de EY Perú S.R.L. sin salvedades. Luego de la deliberación, se sometió a votación.
+
+**Votación:** A favor: 700,000 acciones (77.78% de presentes). En contra: 200,000 (Carlos Díaz). Abstenciones: 0.
+**ACUERDO:** APROBADO por mayoría.
+
+**SALVEDAD:** El accionista Carlos Díaz Ruiz manifestó su voto en contra por considerar que [razones].
+
+**PUNTO TERCERO:** Aplicación de Utilidades 2023
+
+Se propuso la siguiente aplicación de la utilidad neta de S/ 500,000:
+- Reserva Legal (10%): S/ 50,000
+- Dividendos en efectivo: S/ 300,000
+- Reserva facultativa: S/ 100,000
+- Resultados retenidos: S/ 50,000
+
+**Votación:** A favor: 900,000 acciones (100% de presentes). En contra: 0.
+**ACUERDO:** APROBADO por unanimidad.
+
+Se acordó que el pago de dividendos (S/ 0.30 por acción) se realizará en dos cuotas: 50% el 30/04/2024 y 50% el 31/07/2024.
+
+**PUNTO CUARTO:** Designación de Auditores Externos 2024
+
+Se propuso designar a Ernst & Young Perú S.R.L. como auditores externos para el ejercicio 2024.
+
+**Votación:** A favor: 900,000 acciones (100%). **ACUERDO:** APROBADO por unanimidad.
+
+**PUNTO QUINTO:** Nombramiento del Directorio 2024-2026
+
+Se acordó nombrar el siguiente Directorio por el período 2024-2026:
+- Presidente: Juan Pérez López
+- Directora: María García Soto
+- Director: Carlos Díaz Ruiz
+
+**Votación:** A favor: 900,000 acciones (100%). **ACUERDO:** APROBADO por unanimidad.
+
+**4. CIERRE:**
+
+No habiendo otros asuntos que tratar, se levantó la sesión a las 12:30 horas del mismo día.
+
+---
+
+**JUAN PÉREZ LÓPEZ**
+Presidente de la Junta
+
+**DR. ROBERTO SÁNCHEZ MORA**
+Secretario
+
+---
+
+## 🔒 Derecho de Información del Accionista
+
+### Art. 130 LGS - Información Previa a la Junta
+
+> "Con la debida anticipación a la celebración de la junta obligatoria anual, **el directorio debe poner a disposición de los accionistas, en el domicilio social, los siguientes documentos:**
+> 
+> 1. La memoria del directorio;
+> 2. Los estados financieros debidamente auditados, de ser el caso;
+> 3. El informe de los auditores, si la sociedad está obligada a tenerlos o si los nombra la junta; y,
+> 4. Los demás que indique la convocatoria."
+
+**Plazo:** "Debida anticipación" = **15 días** antes de la Junta (práctica común)
+
+**Forma de acceso:**
+- En el domicilio social
+- Horario de oficina
+- Puede solicitar copias (a su costo)
+
+**Sanción por incumplimiento:**
+- Accionistas pueden solicitar **suspensión de la Junta** (Art. 131)
+- Responsabilidad de directores y gerentes
+
+## 📚 Conexiones
+
+### Dentro del Curso
+- [[sociedad-anonima-concepto]] - La Junta es uno de los 3 órganos de la S.A.
+- [[directorio]] - Órgano que convoca y presenta información a la Junta
+- [[gerencia]] - Órgano ejecutor de acuerdos de Junta
+- [[estados-financieros-lgs]] - Aprobados por la Junta Anual
+- [[dividendos]] - Acordados por la Junta
+- [[03-indice-unidad-3-sociedades]] - Índice de sociedades
+
+### Con Otras Materias
+- **Derecho Procesal:** Impugnación de acuerdos de Junta
+- **Gobierno Corporativo:** Buenas prácticas en Juntas
+
+## 🔑 Referencias Normativas
+
+- **Ley N° 26887 - LGS:**
+  - **Art. 111:** La Junta como órgano supremo
+  - **Art. 113:** Convocatoria
+  - **Art. 114:** Junta Obligatoria Anual
+  - **Art. 115:** Competencias
+  - **Art. 126:** Acuerdos de modificación de estatuto
+  - **Art. 127:** Acuerdos ordinarios
+  - **Art. 128:** Acuerdos de reorganización
+  - **Art. 130:** Derecho de información
+  - **Art. 134:** Acta de Junta
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es el plazo para convocar la Junta General Obligatoria Anual?
+2. ¿Cuáles son los asuntos que obligatoriamente debe tratar la Junta Anual?
+3. ¿Qué diferencia hay entre acuerdos ordinarios y acuerdos calificados en términos de quórums?
+4. ¿Quiénes pueden convocar una Junta General?
+5. ¿Qué documentos deben ponerse a disposición de los accionistas antes de la Junta Anual?
+6. ¿Cuál es el quórum de segunda convocatoria para aprobar una fusión?
+7. ¿Qué debe contener el acta de Junta General?
+
+---
+
+**Elaborado por el Comité de Expertos:** Pedagogos, Documentadores, Psicólogos del Conocimiento, Expertos en Obsidian, Abogados y Contadores especializados en marco normativo peruano.

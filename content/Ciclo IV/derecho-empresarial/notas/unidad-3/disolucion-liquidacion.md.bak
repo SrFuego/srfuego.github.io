@@ -1,0 +1,572 @@
+---
+title: "Disolución y Liquidación de Sociedades"
+tags:
+  - derecho-empresarial
+  - ley-general-sociedades
+  - disolucion
+  - liquidacion
+  - extincion
+  - SUNARP
+  - liquidadores
+aliases:
+  - Disolución de Sociedades
+  - Liquidación de Sociedades
+  - Extinción Societaria
+  - Causales de Disolución
+  - Proceso Liquidatorio
+---
+
+# Disolución y Liquidación de Sociedades
+
+## 🎯 Concepto
+
+La **disolución** es el acto jurídico que marca el inicio del proceso de extinción de la sociedad, generando su entrada en un estado de liquidación (Arts. 407-409 LGS). La **liquidación** es el proceso mediante el cual se realizan los activos, se pagan los pasivos y se distribuye el remanente entre los socios, culminando con la **extinción** de la personalidad jurídica de la sociedad (Arts. 413-422 LGS).
+
+La disolución no extingue inmediatamente a la sociedad: la sociedad disuelta **conserva su personalidad jurídica** durante todo el proceso de liquidación, pero únicamente para los actos necesarios para concluir las operaciones pendientes y realizar la liquidación.
+
+## 📋 Marco Regulatorio Peruano
+
+| Norma | Artículos | Contenido |
+|-------|-----------|-----------|
+| **Ley N° 26887 (LGS)** | Arts. 407-412 | Causales y efectos de la disolución |
+| **Ley N° 26887 (LGS)** | Arts. 413-422 | Proceso de liquidación |
+| **Código Civil** | Art. 2030 inc. 3 | Inscripción de liquidación y extinción en SUNARP |
+| **Reglamento SUNARP** | Título X | Inscripción de disolución, liquidación y extinción |
+| **TUO Ley del IR** | Art. 55° | Ejercicio gravable de sociedad en liquidación |
+| **NIC 1** | § 25-26 | Hipótesis de empresa en marcha (going concern) |
+
+## 🚫 I. DISOLUCIÓN DE SOCIEDADES
+
+### Causales de Disolución (Art. 407 LGS)
+
+La sociedad se disuelve por las siguientes causales:
+
+```mermaid
+mindmap
+  root((Causales de<br/>Disolución<br/>Art. 407))
+    Vencimiento plazo
+      Duración determinada
+      No prórroga
+    Conclusión objeto
+      Objeto cumplido
+      Imposibilidad
+    Continuada inactividad
+      Junta General
+      Cese operaciones
+    Pérdidas graves
+      Capital < 33%
+      No reintegro
+    Acuerdo Junta
+      Mayoría calificada
+      Voluntad socios
+    Otros estatuto
+      Causales especiales
+      Pactadas
+    Mandato judicial
+      Sentencia firme
+      Causas legales
+```
+
+#### 1. Vencimiento del Plazo de Duración (Art. 407.1)
+
+Si el estatuto fijó una **duración determinada** y ésta vence sin que la Junta acuerde prórroga, la sociedad se disuelve automáticamente.
+
+**Ejemplo:** "Inversiones Temporales S.A." fue constituida el 01/01/2020 con duración de 5 años hasta el 31/12/2024. Si no hubo prórroga, al 01/01/2025 entra en disolución automática.
+
+#### 2. Conclusión del Objeto Social o Imposibilidad de Realizarlo (Art. 407.2)
+
+La sociedad se disuelve cuando:
+- **Cumplió su objeto:** Ej. Sociedad constituida para un proyecto específico que culminó
+- **Imposible realizar objeto:** Ej. Prohibición legal, pérdida de licencias necesarias
+
+**Ejemplo:** "Constructora Puente Lima S.A." fue creada exclusivamente para construir el puente Villena. Una vez entregada la obra e inscrita en registros públicos, su objeto se ha cumplido y debe disolverse.
+
+#### 3. Continuada Inactividad de la Junta General (Art. 407.3)
+
+Si la Junta General no sesiona durante **dos años consecutivos** (no se ha realizado ni la obligatoria anual), cualquier socio puede solicitar judicialmente la disolución.
+
+**Requisitos:**
+- 2 años sin sesiones (ni ordinarias ni extraordinarias)
+- Constancia de convocatorias sin éxito (si procede)
+- Acreditar condición de socio
+
+#### 4. Pérdidas que Reducen el Patrimonio Neto a Menos de 1/3 del Capital (Art. 407.4)
+
+La sociedad se disuelve cuando las **pérdidas acumuladas reducen el patrimonio neto por debajo del 33% del capital social**, salvo que se **reintegre el capital** o se **reduzca el capital** en proporción.
+
+**Fórmula de verificación:**
+$$
+\text{Si } \frac{\text{Patrimonio Neto}}{\text{Capital Social}} < 0.33 \Rightarrow \text{Causal de disolución}
+$$
+
+**Ejemplo numérico:**
+```
+Capital Social:          S/ 300,000
+Pérdidas Acumuladas:     S/ 210,000
+Patrimonio Neto:         S/  90,000
+
+Ratio = S/ 90,000 / S/ 300,000 = 0.30 (30%) < 33%
+→ Causal de disolución configurada
+```
+
+**Alternativas para evitar disolución:**
+1. **Reintegrar capital:** Aportar S/ 9,000 para llevar PN a S/ 99,000 (33%)
+2. **Reducir capital:** Reducir capital a S/ 270,000 (PN S/ 90,000 = 33.33%)
+3. **Capitalizar utilidades futuras:** Si se generan utilidades
+
+#### 5. Acuerdo de la Junta General (Art. 407.5)
+
+Los socios pueden acordar libremente la disolución voluntaria de la sociedad en Junta General con:
+
+- **Quórum:** Mayoría absoluta del capital (según tipo societario)
+- **Votación:** Mayoría calificada (generalmente 2/3 o 75%)
+
+No requiere causa especial: es una decisión de los socios.
+
+#### 6. Otras Causales Establecidas en la Ley o el Estatuto (Art. 407.6)
+
+El estatuto puede prever **causales adicionales** específicas, como:
+- Fallecimiento o incapacidad de socio clave (en S.R.L.)
+- No alcanzar determinado nivel de ventas en plazo
+- Cambio normativo que impida continuar actividad
+
+#### 7. Declaración de Quiebra (Ley de Reestructuración Patrimonial)
+
+Aunque no está en Art. 407 LGS, la declaración de quiebra por la Comisión de Reestructuración Patrimonial (INDECOPI) genera la disolución automática de la sociedad.
+
+### Efectos de la Disolución (Art. 409-410)
+
+```mermaid
+flowchart LR
+    A[Sociedad en Marcha] --> B[Acaece Causal<br/>de Disolución]
+    B --> C[Disolución<br/>inscrita SUNARP]
+    C --> D[Estado de Liquidación]
+    D --> E[Conserva personalidad<br/>jurídica limitada]
+    
+    E --> F[Solo actos de liquidación]
+    E --> G[Agrega 'en liquidación'<br/>a denominación]
+    E --> H[Cesa representación<br/>de directores/gerentes]
+    
+    style B fill:#ffcdd2
+    style D fill:#fff3e0
+    style E fill:#c8e6c9
+```
+
+| Efecto | Descripción | Base Legal |
+|--------|-------------|------------|
+| **Personalidad Jurídica** | Se mantiene durante liquidación | Art. 409 |
+| **Denominación Social** | Debe agregar "EN LIQUIDACIÓN" | Art. 409 |
+| **Representación** | Directorio y gerencia cesan, asumen liquidadores | Art. 410 |
+| **Alcance de Actos** | Solo operaciones necesarias para liquidación | Art. 409 |
+| **Nuevas Obligaciones** | Prohibido contraer nuevas deudas no vinculadas a liquidación | Art. 413 |
+| **RUC** | Se mantiene activo con estado "En liquidación" | SUNAT |
+
+### Reactivación de la Sociedad (Art. 412)
+
+La sociedad puede **reactivarse** (salir del estado de liquidación) si:
+
+1. **No inició liquidación** (aún no hay balance inicial de liquidación)
+2. **Acuerdo de Junta General** con mayoría calificada
+3. **Subsana la causal**: Ej. Reintegra capital, prorroga plazo
+4. **Inscribe reactivación** en SUNARP
+
+**Plazo:** Debe hacerse antes de que se apruebe el balance final de liquidación.
+
+## 📊 II. LIQUIDACIÓN DE SOCIEDADES
+
+### Concepto y Naturaleza
+
+La **liquidación** es el proceso de:
+1. Culminar operaciones pendientes
+2. Cobrar créditos y realizar activos
+3. Pagar pasivos (deudas)
+4. Distribuir remanente entre socios
+
+Este proceso puede ser **judicial** (si hay conflicto) o **extrajudicial** (lo normal).
+
+### Los Liquidadores (Art. 414-418)
+
+#### Designación
+
+Los **liquidadores** son los encargados de realizar el proceso de liquidación. Pueden ser:
+
+- **Designados por Junta General** (Art. 414): Lo más común
+- **Designados por estatuto**
+- **Designados judicialmente**: Si hay conflicto o no hay acuerdo
+
+**Número:** Pueden ser uno o más (generalmente 1 o 3).
+
+**Requisitos:** Mismos que para directores (capacidad, no impedidos).
+
+#### Atribuciones de los Liquidadores (Art. 415)
+
+```mermaid
+mindmap
+  root((Liquidadores<br/>Atribuciones))
+    Representación
+      Legal de sociedad
+      Judicial y extrajudicial
+    Realizar activos
+      Vender bienes
+      Cobrar deudas
+    Pagar pasivos
+      Deudas sociales
+      Tributarias
+    Distribuir
+      Remanente a socios
+      Según participación
+    Información
+      Balance inicial
+      Balance final
+      Memoria liquidación
+```
+
+Funciones principales:
+
+1. **Representación legal** de la sociedad en liquidación
+2. **Realizar inventario y balance inicial** de liquidación (Art. 418)
+3. **Culminar operaciones pendientes** (contratos, proyectos)
+4. **Cobrar créditos** a favor de la sociedad
+5. **Vender activos** (bienes muebles e inmuebles)
+6. **Pagar deudas** en orden de prelación legal
+7. **Distribuir remanente** entre socios proporcionalmente
+8. **Formular balance final** de liquidación (Art. 420)
+
+#### Responsabilidad de los Liquidadores (Art. 416-417)
+
+Los liquidadores responden **solidariamente** frente a la sociedad, socios y terceros por:
+
+- Daños y perjuicios por incumplimiento de obligaciones
+- Actos dolosos o culposos en el ejercicio del cargo
+- Inobservancia de las normas de liquidación
+
+**Prescripción:** 2 años desde la inscripción de extinción (o desde acto dañoso si es posterior).
+
+### Proceso de Liquidación (Fases)
+
+```mermaid
+flowchart TD
+    A[Disolución Inscrita] --> B[Nombramiento Liquidadores<br/>Art. 414]
+    B --> C[Balance Inicial Liquidación<br/>Art. 418]
+    C --> D[Inventario Completo<br/>Activos y Pasivos]
+    D --> E[Culminación Operaciones<br/>Pendientes]
+    E --> F[Realización de Activos<br/>Ventas, cobros]
+    F --> G[Pago de Pasivos<br/>Orden Prelación]
+    G --> H{¿Quedan Activos?}
+    H -->|SÍ| I[Distribución Remanente<br/>entre Socios]
+    H -->|NO| J[No hay remanente]
+    I --> K[Balance Final Liquidación<br/>Art. 420]
+    J --> K
+    K --> L[Aprobación Junta General<br/>o Juez]
+    L --> M[Memoria de Liquidación<br/>Art. 421]
+    M --> N[Inscripción Extinción<br/>SUNARP]
+    N --> O[Extinción Efectiva]
+    
+    style A fill:#e1f5ff
+    style K fill:#fff3e0
+    style O fill:#ffcdd2
+```
+
+#### Fase 1: Balance Inicial de Liquidación (Art. 418)
+
+Los liquidadores formulan un **balance de liquidación inicial** dentro de los **30 días de aceptado el cargo**.
+
+Contenido:
+- Inventario detallado de activos (valores estimados de realización)
+- Relación completa de pasivos (con vencimientos)
+- Estimación de gastos de liquidación
+- Situación patrimonial inicial
+
+Este balance debe ser aprobado por la Junta General.
+
+#### Fase 2: Cobros y Ventas (Realización de Activos)
+
+Los liquidadores proceden a:
+
+1. **Cobrar créditos** pendientes a favor de la sociedad
+2. **Vender bienes** muebles e inmuebles:
+   - Preferiblemente en **subasta pública** (transparencia)
+   - Precio: Al mejor postor, no menor a valor tasación
+3. **Culminar contratos** pendientes si es conveniente
+4. **Recuperar aportes** no pagados por socios morosos
+
+#### Fase 3: Pago de Pasivos (Art. 419)
+
+Los liquidadores pagan las deudas en el siguiente **orden de prelación**:
+
+1. **Gastos de liquidación** (honorarios liquidadores, publicaciones, tasaciones)
+2. **Remuneraciones e indemnizaciones laborales** (trabajadores)
+3. **Tributos** (SUNAT, municipalidades)
+4. **Deudas garantizadas** (hipotecas, prendas)
+5. **Deudas quirografarias** (sin garantía)
+
+**Importante:** Si los activos son insuficientes para pagar todo, los liquidadores deben solicitar la **declaración de insolvencia** ante INDECOPI.
+
+#### Fase 4: Distribución del Remanente (Art. 419)
+
+Una vez pagadas todas las deudas, el **remanente** (si existe) se distribuye entre los socios en proporción a su participación en el capital social.
+
+**Fórmula de distribución:**
+$$
+\text{Remanente por Socio} = \frac{\text{Acciones del Socio}}{\text{Total Acciones}} \times \text{Remanente Total}
+$$
+
+**Ejemplo:**
+```
+Remanente total:         S/ 200,000
+Capital social:          S/ 100,000 (100,000 acciones)
+
+Socio A: 40,000 acciones = 40% → Recibe S/ 80,000
+Socio B: 35,000 acciones = 35% → Recibe S/ 70,000
+Socio C: 25,000 acciones = 25% → Recibe S/ 50,000
+```
+
+#### Fase 5: Balance Final de Liquidación (Art. 420)
+
+Una vez concluida la liquidación, los liquidadores formulan el **balance final de liquidación** que debe contener:
+
+1. Detalle de realización de activos (qué se vendió, a cuánto)
+2. Detalle de pago de pasivos (qué se pagó, a quién, cuándo)
+3. Distribución del remanente (cuánto recibió cada socio)
+4. Gastos de liquidación incurridos
+5. Resultado final: Superávit o déficit
+
+Este balance debe ser **aprobado por la Junta General** (o por el juez si es liquidación judicial).
+
+#### Fase 6: Memoria de Liquidación (Art. 421)
+
+Los liquidadores formulan una **memoria explicativa** del proceso de liquidación que incluye:
+
+- Cronología del proceso
+- Dificultades encontradas
+- Decisiones importantes tomadas
+- Justificación de operaciones relevantes
+- Propuesta de distribución
+
+### Extinción de la Sociedad (Art. 422)
+
+La **extinción** es el acto final que pone fin a la existencia de la sociedad como persona jurídica.
+
+**Requisitos para inscribir la extinción:**
+
+1. Balance final de liquidación aprobado
+2. Memoria de liquidación
+3. Constancia de pago de tributos (SUNAT)
+4. Publicación de extinción en El Peruano (1 vez)
+5. Escritura pública de extinción
+
+**Efectos de la extinción:**
+
+- **Cancela RUC** ante SUNAT
+- **Cierra partida registral** en SUNARP
+- **Pérdida definitiva de personalidad jurídica**
+- **Baja de licencias** municipales y sectoriales
+
+### Responsabilidad Post-Extinción
+
+Aun después de la extinción, los liquidadores y directores pueden ser **demandados** por actos dolosos o culposos durante la liquidación hasta por **2 años** contados desde la inscripción de la extinción (Art. 422).
+
+## 📋 III. CASO PRÁCTICO COMPLETO
+
+### Contexto
+
+**"Servicios Logísticos del Sur S.A.C."**
+
+- Constituida: 15/05/2018
+- Capital social: S/ 150,000 (150,000 acciones de S/ 1.00 VN)
+- Socios:
+  - Juan Pérez: 75,000 acciones (50%)
+  - María López: 45,000 acciones (30%)
+  - Carlos Torres: 30,000 acciones (20%)
+- Actividad: Transporte de carga
+
+**Causal de disolución:** Pérdidas reducen patrimonio neto a menos del 33% del capital.
+
+### Situación Financiera (31/12/2024)
+
+```
+BALANCE GENERAL
+═══════════════════════════════════════════════
+ACTIVO
+───────────────────────────────────────────────
+Efectivo y equivalentes      S/  25,000
+Cuentas por cobrar           S/  40,000
+Vehículos                    S/ 180,000
+Depreciación acumulada       (S/ 90,000)
+───────────────────────────────────────────────
+TOTAL ACTIVO                 S/ 155,000
+
+PASIVO
+───────────────────────────────────────────────
+Cuentas por pagar            S/  60,000
+Préstamos bancarios          S/  50,000
+───────────────────────────────────────────────
+TOTAL PASIVO                 S/ 110,000
+
+PATRIMONIO NETO
+───────────────────────────────────────────────
+Capital social               S/ 150,000
+Resultados acumulados        (S/105,000)
+───────────────────────────────────────────────
+TOTAL PATRIMONIO NETO        S/  45,000
+═══════════════════════════════════════════════
+
+Ratio PN/Capital = S/ 45,000 / S/ 150,000 = 30% < 33%
+→ Causal de disolución Art. 407.4 configurada
+```
+
+### Proceso de Disolución y Liquidación
+
+**10/02/2025:** Junta General Extraordinaria
+
+- Acuerdo: No reintegrar capital, proceder a disolución voluntaria
+- Designación de liquidador: CPC Roberto Gutiérrez
+- Votación: 100% a favor
+
+**15/02/2025:** Inscripción de disolución en SUNARP
+
+- Nueva denominación: "Servicios Logísticos del Sur S.A.C. EN LIQUIDACIÓN"
+- Estado RUC: "EN LIQUIDACIÓN"
+
+**28/02/2025:** Balance Inicial de Liquidación
+
+```
+BALANCE INICIAL DE LIQUIDACIÓN
+═══════════════════════════════════════════════
+ACTIVO
+───────────────────────────────────────────────
+Efectivo                     S/  25,000
+Cuentas por cobrar           S/  40,000
+Vehículos (valor estimado)   S/ 120,000
+───────────────────────────────────────────────
+TOTAL ACTIVO                 S/ 185,000
+
+PASIVO
+───────────────────────────────────────────────
+Cuentas por pagar            S/  60,000
+Préstamos bancarios          S/  50,000
+Gastos liquidación estimados S/  15,000
+───────────────────────────────────────────────
+TOTAL PASIVO                 S/ 125,000
+
+REMANENTE ESTIMADO           S/  60,000
+═══════════════════════════════════════════════
+```
+
+**Marzo-Junio 2025:** Proceso de Realización
+
+| Fecha | Operación | Monto |
+|-------|-----------|-------|
+| 15/03/2025 | Cobro cuentas clientes | S/ 38,000 |
+| 20/03/2025 | Venta 3 vehículos (subasta) | S/ 115,000 |
+| 25/04/2025 | Pago proveedores | (S/ 60,000) |
+| 30/04/2025 | Cancelación préstamo bancario | (S/ 50,000) |
+| 15/05/2025 | Pago tributos SUNAT | (S/ 8,000) |
+| 20/06/2025 | Honorarios liquidador | (S/ 10,000) |
+| 30/06/2025 | Gastos notariales y registrales | (S/ 3,000) |
+
+**30/06/2025:** Balance Final de Liquidación
+
+```
+BALANCE FINAL DE LIQUIDACIÓN
+═══════════════════════════════════════════════
+INGRESOS POR REALIZACIÓN
+───────────────────────────────────────────────
+Efectivo inicial             S/  25,000
+Cobro cuentas por cobrar     S/  38,000
+Venta vehículos              S/ 115,000
+───────────────────────────────────────────────
+TOTAL INGRESOS               S/ 178,000
+
+EGRESOS
+───────────────────────────────────────────────
+Pago proveedores             S/  60,000
+Cancelación préstamo         S/  50,000
+Tributos SUNAT               S/   8,000
+Honorarios liquidador        S/  10,000
+Gastos notariales            S/   3,000
+───────────────────────────────────────────────
+TOTAL EGRESOS                S/ 131,000
+
+REMANENTE PARA SOCIOS        S/  47,000
+═══════════════════════════════════════════════
+```
+
+**Distribución del Remanente:**
+
+| Socio | Acciones | % | Remanente Recibe |
+|-------|----------|---|------------------|
+| Juan Pérez | 75,000 | 50% | S/ 23,500 |
+| María López | 45,000 | 30% | S/ 14,100 |
+| Carlos Torres | 30,000 | 20% | S/ 9,400 |
+| **TOTAL** | **150,000** | **100%** | **S/ 47,000** |
+
+**10/07/2025:** Junta General aprueba balance final y distribución
+
+**25/07/2025:** Se efectúa pago del remanente a socios
+
+**30/07/2025:** Publicación de extinción en El Peruano
+
+**15/08/2025:** Inscripción de Extinción en SUNARP
+
+- Cierre de partida registral N° 11025647
+- Baja de RUC ante SUNAT
+- **Extinción efectiva de la sociedad**
+
+## 🔍 IV. ASPECTOS TRIBUTARIOS DE LA LIQUIDACIÓN
+
+### Impuesto a la Renta (Art. 55° TUO LIR)
+
+Durante la liquidación, la sociedad **continúa siendo contribuyente** del Impuesto a la Renta:
+
+- **Ejercicio gravable:** Hasta la fecha de extinción inscrita
+- **Declaración anual:** Dentro de 3 meses siguientes a extinción
+- **Pagos a cuenta:** Continúan hasta cierre definitivo
+- **Utilidades en liquidación:** Gravadas con IR 29.5%
+
+### Obligaciones con SUNAT
+
+```mermaid
+flowchart LR
+    A[Disolución] --> B[Mantener RUC Activo<br/>Estado: En Liquidación]
+    B --> C[Declaraciones Mensuales<br/>PDT 621]
+    C --> D[Declaración Anual IR<br/>PDT 702 final]
+    D --> E[Solicitar Baja de RUC]
+    E --> F[Constancia No Adeudo]
+    F --> G[Inscribir Extinción SUNARP]
+    
+    style A fill:#e1f5ff
+    style F fill:#c8e6c9
+    style G fill:#ffcdd2
+```
+
+**Libros contables:** Deben mantenerse hasta 5 años después de la extinción (Art. 87° Código Tributario).
+
+## 📚 Conexiones con Otros Conceptos
+
+- [[concepto-sociedad]] - Inicio y fin del ciclo de vida societario
+- [[junta-general-accionistas]] - Órgano que aprueba disolución y balances
+- [[estados-financieros-lgs]] - Balance inicial y final de liquidación
+- [[transformacion-fusion-escision]] - Alternativas a la disolución
+- [[reserva-legal]] - Forma parte del remanente a distribuir
+
+## 🔑 Referencias Normativas Clave
+
+- **Arts. 407-412 LGS:** Causales, efectos y reactivación de disolución
+- **Arts. 413-422 LGS:** Liquidadores, proceso y extinción
+- **Art. 55° TUO Ley IR:** Ejercicio gravable de sociedad en liquidación
+- **Art. 87° Código Tributario:** Conservación de libros contables
+- **NIC 1 § 25-26:** Hipótesis de empresa en marcha
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es la diferencia entre disolución, liquidación y extinción de una sociedad?
+2. ¿Qué ocurre si el patrimonio neto de una S.A. se reduce a 28% del capital social?
+3. ¿Puede una sociedad disuelta volver a operar normalmente? ¿Bajo qué condiciones?
+4. ¿Cuáles son las atribuciones principales de los liquidadores según el Art. 415 LGS?
+5. ¿En qué orden deben pagarse los pasivos durante la liquidación?
+6. Si después de pagar todas las deudas quedan S/ 80,000 y hay 3 socios con 40%, 35% y 25% del capital, ¿cuánto recibe cada uno?
+7. ¿Qué debe contener el balance final de liquidación según el Art. 420 LGS?
+8. ¿Cuánto tiempo después de la extinción pueden ser demandados los liquidadores por actos dolosos?
+9. ¿Qué significa que la sociedad agrega "EN LIQUIDACIÓN" a su denominación?
+10. ¿La distribución del remanente entre socios está gravada con Impuesto a la Renta? Justifique.

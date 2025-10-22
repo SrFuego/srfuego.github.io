@@ -1,0 +1,391 @@
+---
+title: Sociedad de Responsabilidad Limitada (S.R.L.) - Características y Diferencias con la S.A.
+tags:
+  - derecho-empresarial
+  - sociedades
+  - SRL
+  - LGS
+  - formas-societarias
+  - responsabilidad-limitada
+aliases:
+  - S.R.L.
+  - SRL
+  - Limited Liability Company
+  - Sociedad Comercial de Responsabilidad Limitada
+---
+
+# Sociedad de Responsabilidad Limitada (S.R.L.)
+
+## 🎯 Concepto
+
+La **Sociedad Comercial de Responsabilidad Limitada (S.R.L.)** es una forma societaria en la que el capital está dividido en **participaciones sociales** (no acciones), los socios **NO** pueden exceder de **veinte (20)**, y responden por las obligaciones sociales solo hasta el monto de sus aportes.
+
+**Base Legal:** Artículos 283-294 de la Ley General de Sociedades N° 26887
+
+**Denominación:**
+- Debe incluir la indicación "**Sociedad Comercial de Responsabilidad Limitada**" o las siglas "**S.R.L.**"
+- Ejemplo: "Inversiones del Norte S.R.L."
+
+## 📋 Características Principales
+
+### 1. Límite Máximo de Socios: 20
+
+**Art. 4.3 y 283 LGS:**
+
+> "En la Sociedad Comercial de Responsabilidad Limitada el número de socios no puede ser superior a veinte."
+
+**Consecuencias del exceso:**
+- Si se excede de 20 socios → La sociedad debe **transformarse** en otro tipo societario (SA, SAC) dentro del plazo de **6 meses**
+- Si no se transforma → Cualquier socio puede solicitar la **disolución** de la sociedad
+
+**Ejemplo:**
+```
+Situación: "Servicios Integrales S.R.L." tiene 18 socios.
+Uno de ellos fallece y sus herederos son 5 personas.
+Total socios después de la sucesión: 18 - 1 + 5 = 22 socios > 20
+
+SOLUCIÓN LEGAL:
+Opciones dentro de 6 meses:
+a) Transformarse en S.A. o S.A.C.
+b) Algunos herederos venden sus participaciones
+c) Los herederos unifican su participación en un solo titular
+```
+
+### 2. Capital Dividido en Participaciones
+
+**Diferencia fundamental con SA:**
+
+| Concepto | S.R.L. | S.A. |
+|----------|--------|------|
+| **División del capital** | **Participaciones sociales** | **Acciones** |
+| **Representación** | NO se representan por títulos valores | SÍ se representan por certificados o anotaciones en cuenta |
+| **Transferencia** | Más restringida (derecho de adquisición preferente) | Más libre |
+| **Denominación** | "Participación social" | "Acción" |
+
+**Características de las participaciones (Art. 284 LGS):**
+- Pueden ser de distinto valor
+- Deben constar en la **escritura pública de constitución**
+- Su transmisión debe constar en **escritura pública** e inscribirse en RRPP
+
+### 3. Responsabilidad Limitada
+
+**Art. 283 LGS:**
+
+> "En la Sociedad Comercial de Responsabilidad Limitada el capital está dividido en participaciones iguales, acumulables e indivisibles, que **no pueden ser incorporadas en títulos valores**, ni denominarse acciones. Los socios no pueden exceder de veinte y **no responden personalmente por las obligaciones sociales**."
+
+**Implicación:**
+- Los socios solo arriesgan el monto de su aporte
+- Los acreedores sociales NO pueden perseguir el patrimonio personal de los socios (salvo casos excepcionales: levantamiento del velo societario)
+
+## 🏢 Órganos de la S.R.L.
+
+### Estructura Organizacional
+
+```mermaid
+graph TD
+    A[Junta General de Socios] --> B[Gerencia]
+    A -.-> C[Directorio<br/>OPCIONAL]
+    C -.-> B
+    
+    style A fill:#e1f5ff
+    style B fill:#fff4e1
+    style C fill:#f0f0f0,stroke-dasharray: 5 5
+```
+
+### 1. Junta General de Socios
+
+**Órgano supremo de la S.R.L.**
+
+**Diferencia con SA:**
+- En S.A. → "Junta General de Accionistas"
+- En S.R.L. → "Junta General de Socios"
+
+**Competencias (Art. 287 LGS):**
+- Modificar el pacto social y estatuto
+- Aumentar o reducir el capital
+- Acordar la enajenación, gravamen o arrendamiento de activos que representen más del 50% del capital
+- Designar y remover gerentes
+- Aprobar Estados Financieros y aplicación de utilidades
+- Resolver sobre transformación, fusión, escisión, disolución y liquidación
+- **TODAS las demás** atribuciones que la ley o el estatuto señalen
+
+**Quórums (Art. 287 LGS):**
+
+| Tipo de Acuerdo | Primera Convocatoria | Segunda Convocatoria | Mayoría Requerida |
+|-----------------|---------------------|---------------------|-------------------|
+| **Ordinarios** | Mayoría de participaciones | Cualquier número presente | Mayoría absoluta de participaciones PRESENTES |
+| **Calificados** (modificación estatuto, aumento/reducción capital, etc.) | Al menos **3/4** del capital | Al menos **3/5** del capital | Acuerdo favorable de participaciones que representen la mayoría exigida para la convocatoria |
+
+### 2. Gerencia
+
+**Órgano de gestión y representación de la S.R.L.**
+
+**Art. 287 LGS:**
+- **Designación:** Por la Junta General (salvo que estatuto designe gerentes fundacionales)
+- **Número:** Pueden ser uno o varios gerentes
+- **Condición:** Socios o NO socios
+- **Plazo:** Determinado o indeterminado
+
+**Atribuciones (Art. 287 LGS):**
+- Organizar el régimen interno de la sociedad
+- Representar a la sociedad judicial y extrajudicialmente
+- Ejecutar los acuerdos de la Junta
+- Proponer a la Junta el reparto de utilidades
+- **Formular** Estados Financieros y Memoria
+- Llevar los libros sociales
+- Las demás que señale el estatuto
+
+### 3. Directorio (OPCIONAL)
+
+**Art. 283 LGS:**
+
+> "**Es facultativa la existencia de un directorio.**"
+
+**Cuando existe directorio:**
+- Se rige por las normas de la Sociedad Anónima (Arts. 153-184 LGS)
+- Sus funciones típicas: supervisión de la gerencia, convocatoria a junta, formulación de EE.FF., políticas estratégicas
+
+**En la práctica:**
+- La mayoría de S.R.L. **NO tiene Directorio** (para simplificar estructura)
+- Solo S.R.L. grandes o con socios inversionistas pasivos crean Directorio
+
+## 🔄 Transferencia de Participaciones
+
+### Derecho de Adquisición Preferente (Art. 290 LGS)
+
+**Principio:** Las participaciones en una S.R.L. **NO son libremente transferibles** como las acciones.
+
+**Art. 290 LGS - Regla General:**
+
+> "La transmisión de participaciones a otros socios o a terceros se sujeta a **derecho de adquisición preferente** por los socios, salvo que el estatuto disponga lo contrario."
+
+### Procedimiento de Transferencia (Art. 290 LGS)
+
+```mermaid
+graph TD
+    A[Socio A quiere vender<br/>su participación] --> B[Comunica a Gerencia<br/>por escrito]
+    B --> C[Gerencia comunica<br/>a todos los socios<br/>dentro de 10 días]
+    C --> D{¿Otros socios<br/>ejercen derecho<br/>preferente?}
+    D -->|Sí| E[Venta a socios<br/>con derecho preferente]
+    D -->|No<br/>dentro de 30 días| F[Puede vender<br/>a tercero]
+    E --> G[Escritura Pública]
+    F --> G
+    G --> H[Inscripción en<br/>SUNARP]
+```
+
+**Plazos:**
+1. **10 días:** Gerencia comunica a socios desde recepción de solicitud
+2. **30 días:** Plazo para que socios ejerzan derecho preferente (desde comunicación)
+3. Si nadie ejerce → Socio puede vender libremente a tercero
+
+**Formalidades obligatorias (Art. 285 LGS):**
+- **Escritura Pública:** La transferencia de participaciones debe constar en escritura pública
+- **Inscripción SUNARP:** Debe inscribirse en Registros Públicos para ser oponible a terceros
+- **Modificación de estatuto:** La transferencia puede requerir modificar estatuto si cambia la lista de socios
+
+### Ejemplo Práctico
+
+**Situación:**
+- "Comercial del Sur S.R.L." tiene 4 socios:
+  - Socio A: 40% (S/ 40,000)
+  - Socio B: 30% (S/ 30,000)
+  - Socio C: 20% (S/ 20,000)
+  - Socio D: 10% (S/ 10,000)
+  - **Capital Social: S/ 100,000**
+
+- Socio D quiere vender su participación (10%) a un tercero "Sr. Pérez" por S/ 15,000
+
+**Procedimiento:**
+
+**Día 1:** Socio D comunica por escrito a Gerencia:
+> "Comunico mi decisión de vender mi participación de 10% (S/ 10,000) por el precio de S/ 15,000 al Sr. Juan Pérez."
+
+**Día 5:** Gerencia notifica a Socios A, B y C (dentro de 10 días):
+> "El socio D ofrece en venta su participación de 10% por S/ 15,000. Los socios tienen derecho de adquisición preferente dentro de 30 días calendario."
+
+**Escenario 1:** Socio B ejerce derecho preferente (día 20):
+> "Ejerzo mi derecho de adquisición preferente sobre la totalidad de la participación del socio D por S/ 15,000."
+
+**Resultado:**
+- Socio D vende a Socio B
+- Nuevos porcentajes:
+  - Socio A: 40%
+  - Socio B: 40% (30% + 10%)
+  - Socio C: 20%
+  - Socio D: sale de la sociedad
+
+**Escenario 2:** Ningún socio ejerce derecho preferente (pasan 30 días):
+- Socio D puede vender libremente al Sr. Pérez
+- Nuevos socios:
+  - Socio A: 40%
+  - Socio B: 30%
+  - Socio C: 20%
+  - Sr. Pérez: 10%
+
+**Formalización:**
+```
+1. Minuta de transferencia de participaciones
+2. Escritura Pública ante Notario
+3. Pago del precio (S/ 15,000)
+4. Inscripción en SUNARP (Registro de Personas Jurídicas)
+5. Actualización del estatuto (lista de socios)
+```
+
+## 📊 Comparación S.R.L. vs. S.A. vs. S.A.C.
+
+### Tabla Comparativa Completa
+
+| Característica | **S.R.L.** | **S.A.** | **S.A.C.** |
+|----------------|-----------|----------|-----------|
+| **Número de socios** | Máximo 20 | Mínimo 2, sin límite | Máximo 20 |
+| **Capital dividido en** | Participaciones | Acciones | Acciones |
+| **Representación** | No se representan por títulos valores | Títulos valores o anotación en cuenta | Títulos valores o anotación en cuenta |
+| **Transferencia** | Restringida (derecho preferente) | Libre (salvo cláusula contraria) | Libre (salvo cláusula contraria) |
+| **Junta General** | Obligatoria | Obligatoria | Obligatoria |
+| **Directorio** | **OPCIONAL** | **OBLIGATORIO** | **OPCIONAL** |
+| **Gerencia** | Obligatoria | Obligatoria | Obligatoria |
+| **Denominación** | Debe incluir "S.R.L." | Debe incluir "S.A." | Debe incluir "S.A.C." |
+| **Ideal para** | Empresas familiares, cerradas, socios activos | Grandes empresas, financiamiento externo | Empresas pequeñas/medianas, familiares |
+| **Auditoría externa** | No obligatoria (salvo > 3,000 UIT ingresos) | No obligatoria (salvo > 3,000 UIT o SAA) | No obligatoria (salvo > 3,000 UIT) |
+
+## 🎯 Ventajas y Desventajas de la S.R.L.
+
+### ✅ Ventajas
+
+1. **Mayor control de socios:**
+   - Derecho de adquisición preferente protege de socios indeseados
+   - Ideal para empresas familiares o de confianza mutua
+
+2. **Estructura simple:**
+   - No requiere Directorio (opcional)
+   - Menos formalidades que una S.A.
+
+3. **Responsabilidad limitada:**
+   - Socios solo arriesgan su aporte
+
+4. **Flexibilidad en participaciones:**
+   - Participaciones pueden ser de distinto valor
+   - Más libertad para estructurar capital
+
+### ❌ Desventajas
+
+1. **Límite de 20 socios:**
+   - Dificulta crecimiento con múltiples inversionistas
+   - Problema si herederos exceden límite
+
+2. **Transferencia restringida:**
+   - Menor liquidez de participaciones
+   - Dificulta entrada/salida de socios
+
+3. **Formalismo en transferencias:**
+   - Escritura pública obligatoria (más costoso)
+   - Inscripción en SUNARP obligatoria
+
+4. **Menos atractiva para inversionistas externos:**
+   - No cotiza en bolsa
+   - Menor transparencia que S.A.
+
+## 💼 Casos Prácticos
+
+### Caso 1: Exceso del Número de Socios por Sucesión
+
+**Situación:**
+- "Constructora Familiar S.R.L." tiene 15 socios
+- Fallece el socio principal que tenía 30% del capital
+- Sus herederos son 8 hijos
+- Total socios: 15 - 1 + 8 = **22 socios > 20**
+
+**Problema Legal:**
+- Se excede el límite de Art. 4.3 LGS
+
+**Soluciones:**
+
+**Opción A: Transformación en S.A. o S.A.C.**
+```
+Procedimiento:
+1. Junta General aprueba transformación (acuerdo calificado)
+2. Nueva razón social: "Constructora Familiar S.A."
+3. Ajuste de estatuto a régimen de S.A.
+4. Inscripción en SUNARP
+5. Plazo: 6 meses desde la sucesión
+```
+
+**Opción B: Consolidación de participaciones**
+```
+- Los 8 herederos unifican su 30% en una sola persona jurídica
+- Crean "Inversiones Herederos S.R.L." que será el socio único con 30%
+- Total socios de Constructora: 15 - 1 + 1 = 15 socios ✓
+```
+
+**Opción C: Venta de participaciones**
+```
+- Algunos herederos venden sus participaciones a los socios existentes
+- Ejemplo: 4 herederos venden, 4 conservan
+- Total socios: 15 - 1 + 4 = 18 socios ✓
+```
+
+### Caso 2: Transferencia con Derecho de Adquisición Preferente
+
+**Situación:**
+- "Servicios Profesionales S.R.L." tiene 5 socios
+- Capital: S/ 200,000
+- Socio E (10%, S/ 20,000) quiere vender a tercero por S/ 50,000
+- Socio A (40%) quiere ejercer derecho preferente
+
+**Procedimiento:**
+
+**15 de mayo:** Socio E notifica a Gerencia
+**20 de mayo:** Gerencia notifica a socios A, B, C, D (dentro de 10 días)
+**10 de junio:** Socio A comunica ejercicio de derecho preferente (dentro de 30 días)
+
+**Compra:**
+- Socio A compra la participación de E por S/ 50,000
+- Nuevas participaciones:
+  - Socio A: 40% + 10% = 50%
+  - Socio B: 25% (sin cambio)
+  - Socio C: 15% (sin cambio)
+  - Socio D: 10% (sin cambio)
+
+**Formalización:**
+```
+1. Minuta de transferencia
+2. Escritura Pública (costo aprox. S/ 500-800)
+3. Inscripción SUNARP (plazo 7-15 días hábiles)
+4. Actualización de Estatuto
+```
+
+## 📚 Conexiones
+
+### Dentro del Curso
+- [[concepto-sociedad]] - Elementos esenciales de toda sociedad
+- [[sociedad-anonima-concepto]] - Comparación con S.A.
+- [[03-indice-unidad-3-sociedades]] - Índice de formas societarias
+
+### Con Otras Materias
+- **Derecho Registral:** Inscripción de transferencias en SUNARP
+- **Derecho Sucesorio:** Sucesión de participaciones
+- **Tributación:** Ganancia de capital en venta de participaciones
+
+## 🔑 Referencias Normativas
+
+- **Ley N° 26887 - LGS:**
+  - **Art. 4.3:** Límite de 20 socios
+  - **Arts. 283-294:** Sociedad Comercial de Responsabilidad Limitada
+  - **Art. 284:** Participaciones sociales
+  - **Art. 285:** Transferencia de participaciones (escritura pública)
+  - **Art. 287:** Órganos sociales, quórums
+  - **Art. 290:** Derecho de adquisición preferente
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es el número máximo de socios en una S.R.L.?
+2. ¿Qué diferencia hay entre "participaciones" (S.R.L.) y "acciones" (S.A.)?
+3. ¿Es obligatorio que una S.R.L. tenga Directorio?
+4. ¿Qué es el "derecho de adquisición preferente" y cómo se ejerce?
+5. ¿Qué sucede si una S.R.L. excede de 20 socios?
+6. ¿Qué formalidades se requieren para transferir participaciones en una S.R.L.?
+7. ¿Cuáles son las principales ventajas de una S.R.L. sobre una S.A.?
+
+---
+
+**Elaborado por el Comité de Expertos:** Pedagogos, Documentadores, Psicólogos del Conocimiento, Expertos en Obsidian, Abogados y Contadores especializados en marco normativo peruano.

@@ -1,0 +1,428 @@
+---
+title: El Directorio - Órgano Colegiado de Administración de la Sociedad Anónima
+tags:
+  - derecho-empresarial
+  - sociedades
+  - directorio
+  - LGS
+  - gobierno-corporativo
+  - Art-153-LGS
+aliases:
+  - Directorio
+  - Board of Directors
+  - Consejo de Administración
+  - Órgano Colegiado
+---
+
+# El Directorio - Órgano Colegiado de Administración de la Sociedad Anónima
+
+## 🎯 Concepto
+
+El **Directorio** es el órgano colegiado elegido por la Junta General de Accionistas, encargado de la **dirección, administración y representación** de la sociedad anónima, con las facultades de gestión y representación legal necesarias para la administración de la sociedad, dentro del marco del objeto social.
+
+**Base Legal:** Artículos 153-184 de la Ley General de Sociedades N° 26887
+
+**Art. 153 LGS:**
+
+> "El directorio es **órgano colegiado** elegido por la junta general. Cuando una o más clases de acciones tengan derecho a elegir un determinado número de directores, la elección de dichos directores se hará en junta especial."
+
+## 📊 Obligatoriedad del Directorio según Tipo de Sociedad
+
+### Tabla de Obligatoriedad
+
+| Tipo de Sociedad | ¿Directorio Obligatorio? | Base Legal | Observación |
+|------------------|-------------------------|------------|-------------|
+| **S.A. (Sociedad Anónima)** | ✅ **SÍ - OBLIGATORIO** | Art. 153 LGS | Mínimo 3 directores |
+| **S.A.A. (Sociedad Anónima Abierta)** | ✅ **SÍ - OBLIGATORIO** | Art. 153 + 249 LGS | Mínimo 3 directores |
+| **S.A.C. (Sociedad Anónima Cerrada)** | ❌ **NO - FACULTATIVO** | Art. 247 LGS | Si no tiene, la gerencia asume funciones |
+| **S.R.L. (Sociedad de Responsabilidad Limitada)** | ❌ **NO - FACULTATIVO** | Art. 283 LGS | Generalmente no lo tienen |
+
+```mermaid
+graph TD
+    A[Tipos de Sociedad] --> B[S.A.]
+    A --> C[S.A.A.]
+    A --> D[S.A.C.]
+    A --> E[S.R.L.]
+    
+    B --> B1[Directorio<br/>OBLIGATORIO<br/>≥ 3 miembros]
+    C --> C1[Directorio<br/>OBLIGATORIO<br/>≥ 3 miembros]
+    D --> D1[Directorio<br/>FACULTATIVO]
+    E --> E1[Directorio<br/>FACULTATIVO]
+    
+    style B1 fill:#ffe1e1
+    style C1 fill:#ffe1e1
+    style D1 fill:#e1ffe1
+    style E1 fill:#e1ffe1
+```
+
+## 👥 Composición del Directorio
+
+### Número de Directores (Art. 155 LGS)
+
+> "El número de directores debe ser cuando menos **tres (3)**. Cuando existan menos de tres directores titulares no se puede elegir directores suplentes, salvo disposición diversa del estatuto."
+
+**Reglas:**
+
+1. **Mínimo:** 3 directores (para S.A. y S.A.A.)
+2. **Máximo:** No hay límite legal (el estatuto lo determina)
+3. **Número par o impar:** Preferible **impar** para evitar empates en votaciones
+4. **Directores suplentes:** Permitidos (salvo si hay menos de 3 titulares)
+
+**Ejemplo de composiciones típicas:**
+
+| Tamaño de Empresa | N° Directores | Composición Típica |
+|-------------------|---------------|-------------------|
+| **Pequeña** | 3 | 1 Presidente, 2 Directores |
+| **Mediana** | 5 | 1 Presidente, 4 Directores |
+| **Grande** | 7-9 | 1 Presidente, 6-8 Directores (algunos independientes) |
+| **SAA con buen gobierno** | 9-11 | Incluye Directores Independientes, Comités especializados |
+
+### Requisitos para ser Director (Art. 161 LGS)
+
+**Capacidad:**
+- No es necesario ser accionista (salvo que estatuto lo exija)
+- No es necesario tener título profesional específico
+- Puede ser persona natural o jurídica (Art. 162)
+
+**Impedimentos (Art. 161 LGS):**
+
+> "**No pueden ser directores:**
+> 
+> 1. Los incapaces;
+> 2. Los quebrados;
+> 3. Los funcionarios y servidores públicos que presten servicios en entidades que realicen actividad empresarial respecto de las cuales su institución tenga facultades de supervisión o control, con excepción de los que representan la participación del Estado en tales entidades;
+> 4. Los funcionarios y servidores públicos que presten servicios en entidades que contratan con las empresas del Estado o con entidades que prestan servicios públicos, en cuanto tengan facultades de supervisión o control respecto de dichas contrataciones, con excepción de los que representan al Estado en tales entidades;
+> 5. Quienes tengan pleitos pendientes con la sociedad en calidad de demandantes o estén sujetos a acción social de responsabilidad iniciada por la sociedad."
+
+### Directores Independientes (Buen Gobierno Corporativo)
+
+**Concepto:** Director que no tiene vínculos patrimoniales, laborales ni familiares con la sociedad, sus accionistas mayoritarios ni su administración.
+
+**Aplicación en Perú:**
+- **SAA listadas en Bolsa:** Código de Buen Gobierno Corporativo de SMV recomienda al menos 2 directores independientes
+- **SA/SAC:** No es obligatorio, pero es buena práctica
+
+**Ventajas:**
+- Visión objetiva e imparcial
+- Protección de accionistas minoritarios
+- Mejor gobierno corporativo
+- Mayor confianza de inversionistas y entidades financieras
+
+## ⚖️ Funciones y Atribuciones del Directorio
+
+### Art. 172 LGS - Atribuciones del Directorio
+
+> "El directorio tiene las **facultades de gestión y de representación legal** necesarias para la administración de la sociedad dentro de su objeto, con excepción de los asuntos que la ley o el estatuto atribuyan a la junta general."
+
+### Clasificación de Funciones
+
+```mermaid
+graph TD
+    A[Funciones del Directorio] --> B[Funciones de GESTIÓN]
+    A --> C[Funciones de REPRESENTACIÓN]
+    A --> D[Funciones de SUPERVISIÓN]
+    A --> E[Funciones de INFORMACIÓN]
+    
+    B --> B1[Políticas generales<br/>Planes estratégicos<br/>Presupuestos]
+    C --> C1[Representar a la sociedad<br/>Celebrar contratos<br/>Delegable en Gerencia]
+    D --> D1[Supervisar gerencia<br/>Control interno<br/>Gestión de riesgos]
+    E --> E1[Formular EE.FF.<br/>Elaborar Memoria<br/>Convocar Junta]
+```
+
+### Funciones Específicas del Directorio
+
+**1. Funciones de Gestión y Estrategia:**
+- Definir políticas generales de la sociedad
+- Aprobar planes estratégicos y presupuestos
+- Decidir inversiones significativas
+- Aprobar estructura organizacional
+- Crear comités especializados (Auditoría, Riesgos, etc.)
+
+**2. Funciones de Representación:**
+- Representar a la sociedad judicial y extrajudicialmente
+- Celebrar contratos en nombre de la sociedad
+- **Delegable** en Gerencia (Art. 174)
+
+**3. Funciones de Supervisión:**
+- Supervisar la gestión de la Gerencia
+- Evaluar el sistema de control interno
+- Vigilar el cumplimiento de políticas y procedimientos
+- Supervisar gestión de riesgos
+
+**4. Funciones Informativas (Arts. 221-224):**
+- **Formular** Estados Financieros (Art. 221)
+- Elaborar Memoria Anual (Art. 222)
+- Presentar propuesta de aplicación de utilidades
+- Convocar a Junta General
+
+### Delegación de Facultades (Art. 174 LGS)
+
+**Principio:**
+> "El directorio puede **delegar sus facultades de representación** en favor del gerente general o de directores delegados."
+
+**Facultades NO delegables:**
+
+| Función | Razón de No Delegación |
+|---------|----------------------|
+| **Formulación de Estados Financieros** | Obligación legal del Directorio (Art. 221) |
+| **Elaboración de Memoria** | Obligación legal del Directorio (Art. 222) |
+| **Convocatoria a Junta General** | Función de gobierno corporativo |
+| **Propuesta de aplicación de utilidades** | Decisión estratégica |
+| **Designación de Gerente General** | Función de supervisión |
+| **Acordar emisión de obligaciones** | Decisión financiera estratégica |
+
+## 📅 Sesiones del Directorio
+
+### Art. 167 LGS - Sesiones del Directorio
+
+**Periodicidad:**
+> "El directorio sesiona, por lo menos, cada tres meses, salvo disposición contraria del estatuto."
+
+**Frecuencia típica:**
+- **Mínimo legal:** Cada 3 meses (4 sesiones anuales)
+- **Práctica recomendada:** Mensual (12 sesiones anuales)
+- **Empresas grandes/SAA:** Mensual + sesiones extraordinarias según necesidad
+
+### Quórum y Mayoría (Art. 168 LGS)
+
+**Quórum:**
+> "Para que el directorio sesione se requiere la **concurrencia de más de la mitad de sus miembros**."
+
+**Mayoría para aprobar acuerdos:**
+> "Los acuerdos de directorio se adoptan por **mayoría absoluta de votos de los directores participantes**."
+
+**Ejemplo:**
+```
+Directorio de 5 miembros:
+
+Quórum: Más de la mitad = Al menos 3 directores
+
+Si asisten 4 directores:
+Mayoría absoluta = Más de 2 votos = Al menos 3 votos
+
+Votación: 3 a favor, 1 en contra
+Resultado: APROBADO ✓
+
+Votación: 2 a favor, 2 en contra
+Resultado: RECHAZADO (empate, no hay mayoría)
+```
+
+### Voto Dirimente del Presidente (Art. 168 LGS)
+
+> "En caso de **empate**, decide el Presidente del directorio."
+
+**Ejemplo:**
+```
+Directorio de 4 miembros (número par):
+
+Asisten: 4 directores
+Votación sobre inversión importante:
+- Director A (Presidente): A favor
+- Director B: A favor
+- Director C: En contra
+- Director D: En contra
+
+Resultado: 2 votos a favor, 2 en contra = EMPATE
+
+Solución: El Presidente (Director A) tiene voto dirimente
+Resultado final: APROBADO por voto dirimente del Presidente
+```
+
+### Acta de Sesiones de Directorio (Art. 170 LGS)
+
+**Contenido del acta:**
+- Fecha, hora y lugar de sesión
+- Directores presentes
+- Asuntos tratados
+- Acuerdos adoptados
+- Votos disidentes (si los hubiere)
+
+**Libro de Actas:**
+- Debe llevarse **Libro de Actas de Directorio** (Art. 135 LGS)
+- Legalizado ante Notario Público
+- Actas firmadas por directores presentes
+
+## 💼 Remuneración de los Directores (Art. 166 LGS)
+
+### Principio General
+
+> "El cargo de director es retribuido. La remuneración del directorio es fijada por el estatuto o, si éste no lo hiciera, por la **junta general**."
+
+**Criterios para determinar remuneración:**
+1. **Monto fijo mensual:** Dieta por cada sesión
+2. **Porcentaje de utilidades:** % de utilidades netas
+3. **Mixto:** Fijo + variable según resultados
+
+### Tipos de Remuneración
+
+| Modalidad | Descripción | Ventajas | Desventajas |
+|-----------|-------------|----------|-------------|
+| **Dieta por sesión** | Monto fijo por cada sesión a la que asista | Simple, incentiva asistencia | Puede ser costoso si hay muchas sesiones |
+| **Honorario mensual** | Monto fijo mensual independiente de sesiones | Predecible, simple | No incentiva asistencia |
+| **Porcentaje de utilidades** | % de utilidad neta (ej: 5% de utilidades) | Alinea intereses con accionistas | Variable, puede ser cero si no hay utilidades |
+| **Mixto** | Dieta + bono por resultados | Equilibrado | Más complejo de administrar |
+
+**Ejemplo de Remuneración:**
+
+**Acuerdo de Junta General:**
+> "Se acuerda fijar la remuneración del Directorio en los siguientes términos:
+> 
+> - **Dieta por sesión:** S/ 5,000 por cada sesión a la que asista
+> - **Bono anual:** 5% de la utilidad neta del ejercicio, distribuible entre los directores proporcionalmente a su asistencia
+> - **Reembolso de gastos:** Pasajes, hospedaje y alimentación en viajes por actividades de la sociedad"
+
+**Cálculo anual (ejemplo):**
+```
+Director A:
+- Asistió a 10 de 12 sesiones: 10 × S/ 5,000 = S/ 50,000
+- Utilidad neta del ejercicio: S/ 1,000,000
+- Bono anual: 5% × 1,000,000 = S/ 50,000 (total Directorio)
+- Proporción por asistencia: (10/12) / Σ(asistencias) × 50,000
+- Remuneración total: S/ 50,000 + bono proporcional
+```
+
+## ⚠️ Responsabilidad de los Directores
+
+### Art. 177 LGS - Responsabilidad Solidaria
+
+> "Los directores responden, **ilimitada y solidariamente**, ante la sociedad, los accionistas y los terceros por los daños y perjuicios que causen por los acuerdos o actos contrarios a la ley, al estatuto o por los realizados con dolo, abuso de facultades o negligencia grave."
+
+### Tipos de Responsabilidad
+
+```mermaid
+graph TD
+    A[Responsabilidad de Directores] --> B[Por actos ILEGALES<br/>Contra la ley]
+    A --> C[Por actos CONTRARIOS<br/>al Estatuto]
+    A --> D[Por DOLO<br/>Intención de dañar]
+    A --> E[Por ABUSO<br/>de facultades]
+    A --> F[Por NEGLIGENCIA GRAVE<br/>Falta de diligencia]
+    
+    style B fill:#ffe1e1
+    style C fill:#ffe1e1
+    style D fill:#ffe1e1
+    style E fill:#ffe1e1
+    style F fill:#ffe1e1
+```
+
+### Características de la Responsabilidad
+
+**1. Ilimitada:**
+- Los directores responden con todo su patrimonio personal
+- No solo con lo que reciben como remuneración
+
+**2. Solidaria:**
+- Cualquier director puede ser demandado por el total del daño
+- Luego puede repetir contra los demás directores responsables
+
+**3. Frente a tres sujetos:**
+- **Sociedad:** Acción social de responsabilidad (Art. 181)
+- **Accionistas:** Acción individual de accionistas (Art. 182)
+- **Terceros (acreedores, etc.):** Acción de terceros (Art. 183)
+
+### Exoneración de Responsabilidad (Art. 178 LGS)
+
+**Un director se exonera si:**
+
+1. **Salvó su voto:** Dejó constancia en acta de su voto en contra del acuerdo
+2. **Renunció antes:** Renunció después del acuerdo y antes de que se produzca el daño
+3. **No tuvo conocimiento:** No asistió ni conoció del acuerdo (debe probarlo)
+
+**Ejemplo de salvamento de voto:**
+
+**Extracto de Acta de Directorio N° 45:**
+> "El Director Carlos Ruiz manifestó su voto en contra del acuerdo de inversión en el proyecto inmobiliario por considerar que no se ha realizado el debido estudio de factibilidad y representa un riesgo excesivo para la sociedad. Solicitó que su voto disidente se deje expresamente en acta."
+
+→ Si el proyecto fracasa y causa pérdidas, el Director Ruiz **NO será responsable** porque salvó su voto.
+
+### Plazo de Prescripción (Art. 181 LGS)
+
+> "La acción social de responsabilidad prescribe a los **dos (2) años** de la fecha de adopción del acuerdo o de la de realización del acto que originó el daño, sin perjuicio del plazo de prescripción de la acción penal si el acto implicó delito."
+
+## 📋 Casos Prácticos
+
+### Caso 1: Responsabilidad por Aprobación de Estados Financieros Falsos
+
+**Situación:**
+- El Directorio de "Comercial Andes S.A." aprobó Estados Financieros sobrevaluando activos por S/ 5,000,000
+- En base a esos EE.FF., la Junta aprobó dividendos por S/ 2,000,000
+- Al año siguiente se descubre el fraude
+- Los acreedores no pueden cobrar sus acreencias por insolvencia de la sociedad
+
+**Responsabilidad:**
+- **Directores responsables:** Solidariamente por S/ 2,000,000 (dividendos pagados indebidamente) + daños a acreedores
+- **Gerente:** También responsable si participó en la elaboración
+- **Acreedores pueden demandar** a directores personalmente (Art. 183)
+
+**Defensa del Director Díaz:**
+> "No asistí a la sesión en que se aprobaron los EE.FF. y no tuve conocimiento del fraude."
+
+**Resultado:** Si prueba que efectivamente no conocía, podría exonerarse. Pero debe probar que actuó con diligencia ordinaria.
+
+### Caso 2: Conflicto de Intereses
+
+**Situación:**
+- "Inversiones Sur S.A." tiene 5 directores
+- El Director García es también dueño de "Construcciones García S.A.C."
+- El Directorio aprueba contratar a "Construcciones García S.A.C." para una obra por S/ 10,000,000
+- El precio está 30% por encima del mercado
+- Director García votó a favor (sin revelar conflicto)
+
+**Problema Legal:**
+- Conflicto de intereses (Art. 179 LGS)
+- Operación con parte relacionada (Art. 176 LGS)
+
+**Consecuencias:**
+- El acuerdo puede ser **impugnado** por cualquier accionista
+- Director García responde por **daños y perjuicios** (sobrecosto de 30%)
+- Otros directores también pueden ser responsables si conocían el conflicto
+
+**Solución correcta según LGS:**
+1. Director García debió **revelar** su interés
+2. Debió **abstenerse** de votar
+3. El contrato debió aprobarse por **mayoría** de los demás directores
+4. El acuerdo debió **ratificarse** en Junta General si es operación significativa
+
+## 📚 Conexiones
+
+### Dentro del Curso
+- [[junta-general-accionistas]] - Órgano que elige al Directorio
+- [[gerencia]] - Órgano ejecutor designado por el Directorio
+- [[sociedad-anonima-concepto]] - El Directorio es uno de los 3 órganos de la S.A.
+- [[estados-financieros-lgs]] - Formulados por el Directorio
+- [[memoria-anual]] - Elaborada por el Directorio
+- [[03-indice-unidad-3-sociedades]] - Índice de sociedades
+
+### Con Otras Materias
+- **Gobierno Corporativo:** Buenas prácticas del Directorio
+- **Ética Profesional:** Deberes fiduciarios de los directores
+- **Derecho Penal:** Delitos cometidos por directores (Art. 198 Código Penal - Administración fraudulenta)
+
+## 🔑 Referencias Normativas
+
+- **Ley N° 26887 - LGS:**
+  - **Art. 153:** El Directorio como órgano colegiado
+  - **Art. 155:** Número de directores (mínimo 3)
+  - **Art. 161:** Impedimentos para ser director
+  - **Art. 166:** Remuneración
+  - **Art. 167:** Sesiones (mínimo cada 3 meses)
+  - **Art. 168:** Quórum y mayoría
+  - **Art. 172:** Atribuciones
+  - **Art. 174:** Delegación de facultades
+  - **Art. 177-184:** Responsabilidad de directores
+
+- **Código de Buen Gobierno Corporativo (SMV):**
+  - Principios para SAA listadas en Bolsa
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es el número mínimo de directores en una S.A.?
+2. ¿Con qué frecuencia mínima debe sesionar el Directorio?
+3. ¿Qué funciones NO puede delegar el Directorio en la Gerencia?
+4. ¿Qué tipo de responsabilidad tienen los directores por sus actos ilegales?
+5. ¿Cómo puede un director exonerarse de responsabilidad por un acuerdo dañino?
+6. ¿Quién fija la remuneración de los directores?
+7. ¿Qué se necesita para que el Directorio sesione válidamente (quórum)?
+
+---
+
+**Elaborado por el Comité de Expertos:** Pedagogos, Documentadores, Psicólogos del Conocimiento, Expertos en Obsidian, Abogados y Contadores especializados en marco normativo peruano.

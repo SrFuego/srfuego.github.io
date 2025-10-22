@@ -1,0 +1,838 @@
+---
+title: Certificado Bancario en Moneda Extranjera
+tags:
+  - certificado-bancario
+  - moneda-extranjera
+  - titulos-valores
+  - deposito-bancario
+  - divisa
+  - SBS
+aliases:
+  - Certificado bancario
+  - Certificado de depósito USD
+  - CD bancario
+---
+
+# Certificado Bancario en Moneda Extranjera
+
+## 🎯 Concepto
+
+> **Título valor emitido por una institución bancaria** que acredita que una persona ha efectuado un **depósito de dinero en moneda extranjera** (típicamente dólares estadounidenses), por un plazo determinado y con derecho a percibir **intereses**.
+
+---
+
+## 📋 Naturaleza Jurídica
+
+### Características Esenciales
+
+1. **Título valor de contenido crediticio**
+   - Incorpora el derecho a recibir una suma de dinero en divisa
+
+2. **Emitido por entidad bancaria autorizada**
+   - Solo bancos regulados por SBS pueden emitirlos
+
+3. **Depósito a plazo fijo**
+   - Plazo mínimo: típicamente 30 días
+   - Plazo máximo: hasta 5 años (más común 1-2 años)
+
+4. **Generación de intereses**
+   - Tasa pactada desde la emisión
+   - Pagaderos al vencimiento o capitalizables
+
+5. **Transmisible**
+   - Puede circular mediante [[endoso-titulos-valores|endoso]]
+   - Habitualmente emitido como título **nominativo**
+
+---
+
+## Marco Regulatorio en Perú
+
+### Ley de Títulos Valores (Ley N° 27287)
+
+- **Arts. 211-222:** Regulan el certificado bancario de moneda extranjera
+- **Art. 211:** Define y establece requisitos formales
+- **Arts. 216-219:** Circulación y transmisión
+
+### Reglamento SBS
+
+**Resolución SBS N° 8514-2012:**
+- Operaciones en moneda extranjera
+- Encaje legal depósitos divisas
+- Límites de exposición cambiaria
+
+**Circular SBS sobre depósitos ME:**
+- Tasas de interés máximas referenciales
+- Liquidez en moneda extranjera
+- Requisitos de fondeo
+
+### Ley General del Sistema Financiero (Ley N° 26702)
+
+- Arts. 226-240: Operaciones pasivas (depósitos)
+- Protección depositantes
+- Fondo de Seguro de Depósitos (FSD)
+
+---
+
+## Requisitos Formales Esenciales (Art. 211 LTV)
+
+### Requisitos Obligatorios
+
+1. ✅ **Denominación "CERTIFICADO BANCARIO EN MONEDA EXTRANJERA"**
+
+2. ✅ **Nombre del banco emisor**
+   ```
+   "BANCO DE CRÉDITO DEL PERÚ"
+   ```
+
+3. ✅ **Monto del depósito en divisa**
+   ```
+   "USD 50,000.00 (Fifty thousand and 00/100 United States Dollars)"
+   ```
+
+4. ✅ **Tipo de moneda extranjera**
+   ```
+   "Dólares estadounidenses (USD)"
+   ```
+   - Otras divisas: EUR, GBP, CHF, JPY (menos frecuentes)
+
+5. ✅ **Fecha de emisión y vencimiento**
+   ```
+   "Emitido: 15/enero/2025"
+   "Vencimiento: 15/enero/2026"
+   ```
+
+6. ✅ **Tasa de interés anual**
+   ```
+   "Tasa de interés: 3.50% anual"
+   ```
+
+7. ✅ **Nombre del depositante (beneficiario)**
+   ```
+   "A favor de: EXPORTADORA ANDES SAC"
+   ```
+
+8. ✅ **Indicación de renovación automática** (si aplica)
+   ```
+   "Con renovación automática por períodos iguales"
+   O
+   "Sin renovación automática"
+   ```
+
+9. ✅ **Firma autorizada del banco**
+   - Gerente General o apoderados autorizados
+
+---
+
+## Modelo de Certificado Bancario USD
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│           BANCO DE CRÉDITO DEL PERÚ - BCP                        │
+│     CERTIFICADO BANCARIO EN MONEDA EXTRANJERA                    │
+│                                                                  │
+│  Certificado N°: 2025-ME-012458                                  │
+│  Sucursal: San Isidro                                            │
+│                                                                  │
+│  El BANCO DE CRÉDITO DEL PERÚ certifica que:                     │
+│                                                                  │
+│  EXPORTADORA ANDES SAC                                           │
+│  RUC: 20123456789                                                │
+│                                                                  │
+│  Ha efectuado un depósito a plazo fijo por la suma de:           │
+│  USD 50,000.00 (Fifty thousand and 00/100 United States Dollars)│
+│                                                                  │
+│  Moneda: Dólares estadounidenses (USD)                           │
+│  Tasa de interés anual: 3.50%                                    │
+│  Fecha de emisión: 15 de enero de 2025                           │
+│  Fecha de vencimiento: 15 de enero de 2026                       │
+│  Plazo: 365 días                                                 │
+│                                                                  │
+│  Intereses: Capitalizables al vencimiento                        │
+│  Renovación automática: NO                                       │
+│                                                                  │
+│  Monto total al vencimiento:                                     │
+│  Capital: USD 50,000.00                                          │
+│  Intereses: USD 1,750.00                                         │
+│  TOTAL: USD 51,750.00                                            │
+│                                                                  │
+│  Este certificado es NOMINATIVO y transferible mediante endoso.  │
+│                                                                  │
+│  Lima, 15 de enero de 2025                                       │
+│                                                                  │
+│  _____________________________                                   │
+│  Gerente General BCP                                             │
+│  Firma y Sello                                                   │
+│                                                                  │
+│  Cuenta FSD: Protegido hasta USD 37,448 aprox. (S/ 142,268)     │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Diferencia con Otros Títulos Valores
+
+| Aspecto | Certificado Bancario ME | [[pagare\|Pagaré]] | Depósito Simple |
+|---------|-------------------------|------------|-----------------|
+| **Emisor** | Solo bancos | Cualquier persona | Bancos |
+| **Naturaleza** | Título valor | Título valor | Contrato |
+| **Transferibilidad** | Por endoso | Por endoso | No transferible |
+| **Intereses** | Siempre (obligatorio) | Opcional (pactable) | Siempre |
+| **Plazo** | Fijo predeterminado | Variable | Fijo o indeterminado |
+| **Divisa** | Moneda extranjera | Moneda nacional o extranjera | Ambas |
+| **Título ejecutivo** | ✅ Sí | ✅ Sí | ❌ No (solo contrato) |
+| **Protección FSD** | ✅ Hasta límite | ❌ No aplica | ✅ Hasta límite |
+
+---
+
+## Tasas de Interés Certificados USD en Perú - 2025
+
+### Bancos Principales (Tasas referenciales enero 2025)
+
+| Banco | 30-89 días | 90-179 días | 180-364 días | 365+ días |
+|-------|------------|-------------|--------------|-----------|
+| **BCP** | 2.25% | 2.75% | 3.25% | 3.50% |
+| **BBVA** | 2.30% | 2.80% | 3.30% | 3.55% |
+| **Scotiabank** | 2.20% | 2.70% | 3.20% | 3.45% |
+| **Interbank** | 2.35% | 2.85% | 3.35% | 3.60% |
+| **Banco Pichincha** | 2.40% | 2.90% | 3.40% | 3.65% |
+
+**Factores que influyen en la tasa:**
+- Plazo del depósito (mayor plazo → mayor tasa)
+- Monto depositado (montos grandes negocian mejor tasa)
+- Tipo de cliente (preferenciales vs. retail)
+- Coyuntura internacional (tasas Fed, Libor, Sofr)
+
+### Comparación con Tasas Internacionales
+
+| Referencia | Tasa 2025 |
+|------------|-----------|
+| **Fed Funds Rate (USA)** | 4.50% |
+| **Certificados USD en Perú** | 3.50% promedio |
+| **Diferencial** | -1.00% (menor en Perú) |
+
+**¿Por qué menor tasa en Perú?**
+- Abundancia de dólares en sistema financiero peruano (economía dolarizada)
+- Baja demanda de créditos en USD (dedolarización crediticia)
+- Alta liquidez bancaria en divisas
+
+---
+
+## Circulación y Transmisión
+
+### Endoso del Certificado Bancario
+
+**Naturaleza:** Típicamente emitido como título **nominativo**
+
+**Transmisión requiere:**
+1. ✅ **Endoso** al dorso o en hoja adherida
+2. ✅ **Entrega física** del certificado
+3. ✅ **Notificación al banco emisor**
+
+**Formato de endoso:**
+
+```
+ENDOSO EN PROPIEDAD
+
+Endoso el presente Certificado Bancario a favor de:
+INVERSIONES CAPITAL SAC
+RUC: 20987654321
+
+Valor recibido a mi entera satisfacción.
+
+Lima, 15 de marzo de 2025
+
+_____________________________
+EXPORTADORA ANDES SAC
+Representante Legal
+DNI: 12345678
+```
+
+**Responsabilidad del endosante:**
+- Responde de la **existencia** del depósito
+- NO responde del **pago** (el banco es el único obligado)
+
+---
+
+## Fondo de Seguro de Depósitos (FSD) - Perú
+
+### Protección Legal
+
+**Entidad:** Fondo de Seguro de Depósitos - SBS
+
+**Cobertura 2025:**
+- Hasta **S/ 142,268** por depositante por banco
+- En ME equivalente: **USD 37,448 aprox.** (TC: 3.80)
+
+**¿Qué cubre?**
+- ✅ Depósitos a plazo fijo con certificado
+- ✅ Depósitos de ahorro
+- ✅ Cuentas corrientes
+- ✅ CTS (Compensación por Tiempo de Servicios)
+
+**¿Qué NO cubre?**
+- ❌ Depósitos superiores al límite
+- ❌ Depósitos en bancos offshore
+- ❌ Inversiones en fondos mutuos
+
+### Proceso de Cobertura (si banco quiebra)
+
+```mermaid
+flowchart TD
+    A[Banco declarado insolvente<br/>por SBS] --> B[Intervención SBS]
+    B --> C[Activación FSD<br/>dentro de 30 días]
+    C --> D{Depósito <= S/ 142,268?}
+    D -->|SÍ| E[FSD paga 100% del depósito<br/>+ intereses devengados]
+    D -->|NO| F[FSD paga solo hasta límite<br/>Exceso: proceso liquidación]
+    E --> G[Depositante recibe pago<br/>en 30-45 días]
+    F --> H[Depositante espera liquidación<br/>del banco: 2-5 años]
+    
+    style A fill:#ffcccc
+    style E fill:#d4edda
+    style F fill:#fff3cd
+    style H fill:#f8d7da
+```
+
+**Recomendación prudencial:**
+- Diversificar depósitos grandes en varios bancos
+- No superar USD 37,000 por banco para estar 100% protegido
+
+---
+
+## Cálculo de Intereses y Rentabilidad
+
+### Método de Cálculo Bancos Peruanos
+
+**Fórmula:**
+
+$$
+\text{Intereses} = \text{Capital} \times \frac{\text{Tasa}}{360} \times \text{Días}
+$$
+
+**Nota:** Los bancos peruanos usan **base 360 días** para depósitos USD (convención internacional)
+
+### Ejemplo Práctico 1: Depósito USD 1 año
+
+**Datos:**
+- Capital: USD 100,000
+- Tasa: 3.50% anual
+- Plazo: 365 días
+- Impuesto a la Renta: 5%
+
+**Cálculo intereses:**
+
+$$
+\text{Intereses brutos} = 100,000 \times \frac{3.50\%}{360} \times 365 = \text{USD } 3,548.61
+$$
+
+**Impuesto a la Renta (5% sobre intereses):**
+
+$$
+\text{IR} = 3,548.61 \times 5\% = \text{USD } 177.43
+$$
+
+**Intereses netos:**
+
+$$
+\text{Intereses netos} = 3,548.61 - 177.43 = \text{USD } 3,371.18
+$$
+
+**Monto total al vencimiento:**
+
+$$
+\text{Total} = 100,000 + 3,371.18 = \text{USD } 103,371.18
+$$
+
+**Rentabilidad efectiva anual:**
+
+$$
+\text{TEA} = \frac{3,371.18}{100,000} = 3.37\%
+$$
+
+### Ejemplo Práctico 2: Renovación Automática con Capitalización
+
+**Datos:**
+- Capital inicial: USD 50,000
+- Tasa: 3.50% anual
+- Plazo: 365 días x 3 años
+- Renovación automática: SÍ (capitalización anual)
+
+**Año 1:**
+- Intereses: USD 1,750 (como ejemplo anterior)
+- Capital final: USD 51,750
+
+**Año 2:**
+- Capital: USD 51,750
+- Intereses: USD 1,811.25
+- Capital final: USD 53,561.25
+
+**Año 3:**
+- Capital: USD 53,561.25
+- Intereses: USD 1,874.64
+- **Capital final: USD 55,435.89**
+
+**Rentabilidad total 3 años:**
+
+$$
+\text{Rentabilidad} = \frac{55,435.89 - 50,000}{50,000} = 10.87\%
+$$
+
+**Rentabilidad anual compuesta:**
+
+$$
+\text{TEA compuesta} = \sqrt[3]{\frac{55,435.89}{50,000}} - 1 = 3.49\%
+$$
+
+---
+
+## Tratamiento Tributario SUNAT - Perú
+
+### Impuesto a la Renta sobre Intereses
+
+#### Personas Naturales
+
+**Rentas de 2da categoría** (Art. 24° Ley IR)
+
+- **Tasa:** 5% sobre intereses percibidos
+- **Retención:** El banco retiene automáticamente
+- **Carácter:** Definitivo (no se declara en renta anual)
+
+**Ejemplo:**
+```
+Intereses anuales: USD 10,000
+IR (5%): USD 500
+Neto recibido: USD 9,500
+```
+
+#### Personas Jurídicas
+
+**Renta empresarial**
+
+- Los intereses son **renta gravada** incluida en renta anual
+- Se suma a las demás rentas de la empresa
+- Tasa: **29.5%** sobre utilidad neta total
+
+**No hay retención anticipada** (la empresa declara y paga anualmente)
+
+### Registro Contable (PCGE)
+
+**Empresa que deposita USD en certificado bancario:**
+
+**Al emitir certificado:**
+```
+ASIENTO 1 - Depósito inicial
+----------------------------
+11 INVERSIONES FINANCIERAS                  50,000 USD
+    112 Inversiones disponibles para la venta
+        1122 Certificados bancarios ME
+    10 EFECTIVO Y EQUIVALENTES                          50,000 USD
+        104 Cuentas corrientes ME
+```
+
+**Devengo de intereses mensuales:**
+```
+ASIENTO 2 - Devengamiento interés mensual
+------------------------------------------
+16 CUENTAS POR COBRAR DIVERSAS - TERCEROS  145.83 USD
+    165 Intereses por cobrar - Cert. bancarios
+    77 INGRESOS FINANCIEROS                            145.83 USD
+        772 Rendimientos ganados
+            7721 Depósitos ME
+
+(Interés mensual: USD 1,750 / 12 = USD 145.83)
+```
+
+**Al vencimiento y cobro:**
+```
+ASIENTO 3 - Cobro al vencimiento
+---------------------------------
+10 EFECTIVO Y EQUIVALENTES                 51,750 USD
+    104 Cuentas corrientes ME
+    11 INVERSIONES FINANCIERAS                          50,000 USD
+    16 CUENTAS POR COBRAR DIVERSAS                       1,750 USD
+        165 Intereses por cobrar
+```
+
+**Retención IR (si persona natural):**
+```
+ASIENTO 4 - Retención IR 5%
+----------------------------
+40 TRIBUTOS POR PAGAR                          87.50 USD
+    401 Gobierno Central
+        4017 IR por rentas de 2da categoría
+    77 INGRESOS FINANCIEROS                             87.50 USD
+        (Ajuste: USD 1,750 x 5%)
+```
+
+### Declaración SUNAT
+
+**Personas Jurídicas:**
+- Incluyen intereses en **PDT 621** (mensual) y **PDT 702** (anual)
+- Casilla "Ingresos financieros gravados"
+
+**Personas Naturales:**
+- ❌ NO declaran (retención definitiva por banco)
+- Excepción: Si tienen otras rentas de 2da categoría > 28,400 soles anuales
+
+---
+
+## Ventajas y Desventajas
+
+### ✅ Ventajas
+
+1. **Rentabilidad superior a cuenta ahorro USD**
+   - Certificado 3.50% vs. Ahorro 0.50%
+
+2. **Protección tipo de cambio**
+   - Resguarda patrimonio ante depreciación del sol
+
+3. **Seguridad (FSD)**
+   - Hasta USD 37,448 protegidos por FSD
+
+4. **Liquidez parcial (mediante endoso)**
+   - Puede transferirse antes del vencimiento
+
+5. **Tratamiento tributario favorable**
+   - Solo 5% IR para personas naturales (vs. 6.25% MN)
+
+6. **Título ejecutivo**
+   - Si banco incumple, proceso de ejecución rápido
+
+### ❌ Desventajas
+
+1. **Menor rentabilidad que inversiones alternativas**
+   - Fondos mutuos, bonos corporativos pueden rendir más
+
+2. **Riesgo de tipo de cambio**
+   - Si el dólar se deprecia, pierde valor en soles
+
+3. **Penalidad por retiro anticipado**
+   - Pérdida de intereses devengados (típicamente se cobra solo tasa ahorro)
+
+4. **Inflación USD puede superar la tasa**
+   - Si inflación USA > 3.50%, pierde poder adquisitivo real
+
+5. **Iliquidez relativa**
+   - No puede retirarse sin penalidad antes del vencimiento
+
+6. **Oportunidad perdida**
+   - Si tasas suben después, quedó "atrapado" en tasa inferior
+
+---
+
+## Casos Prácticos - Contexto Peruano
+
+### 📌 Caso 1: Exportador Diversifica Riesgos
+
+**Perfil:**
+- **Empresa:** Agrícola PERÚ EXPORT SAC
+- **Ingresos anuales:** USD 2,000,000 (exportación café)
+- **Situación:** Acaba de cobrar USD 500,000 de cliente europeo
+- **Objetivo:** Invertir temporalmente por 6 meses (hasta nueva campaña)
+
+**Análisis de alternativas:**
+
+| Opción | Rentabilidad | Riesgo | Liquidez |
+|--------|--------------|--------|----------|
+| **Cuenta corriente USD** | 0% | Muy bajo | Alta |
+| **Cuenta ahorro USD** | 0.50% | Muy bajo | Alta |
+| **Certificado bancario 180 días** | 3.25% | Bajo (FSD) | Media (con endoso) |
+| **Fondo mutuo renta fija USD** | 4.50% | Medio | Alta |
+| **Bonos corporativos BBB** | 6.00% | Alto | Baja |
+
+**Decisión empresarial:**
+
+Divide USD 500,000:
+- **USD 300,000** → Certificado Bancario BCP 180 días (3.25%)
+- **USD 150,000** → Fondo mutuo renta fija USD (4.50%)
+- **USD 50,000** → Cuenta corriente USD (liquidez inmediata)
+
+**Resultados proyectados 6 meses:**
+
+**Certificado BCP:**
+- Intereses brutos: USD 300,000 x 3.25% x 180/360 = USD 4,875
+- IR 29.5% (persona jurídica): USD 1,438.13
+- **Intereses netos: USD 3,436.87**
+
+**Fondo mutuo:**
+- Rendimiento proyectado: USD 150,000 x 4.50% x 180/360 = USD 3,375
+- IR 29.5%: USD 995.63
+- **Rendimiento neto: USD 2,379.37**
+
+**Total ganancia 6 meses:**
+- Certificado + Fondo = USD 5,816.24
+- **Rentabilidad promedio ponderada: 2.32%** (6 meses)
+
+**Ventaja estratégica:**
+- Certificado: 100% seguro (FSD cubre hasta USD 37,448 x 8 certificados)
+- Fondo mutuo: Mayor rentabilidad pero con volatilidad
+- Cuenta corriente: Liquidez operativa
+
+### 📌 Caso 2: Endoso de Certificado para Garantía Crediticia
+
+**Situación:**
+
+**Cliente:** Importadora TECH SOLUTIONS EIRL  
+**Necesidad:** Obtener préstamo USD 80,000 para importar equipos  
+**Problema:** No tiene garantías hipotecarias  
+**Solución:** Su accionista principal tiene certificado bancario USD 100,000
+
+**Estructura:**
+
+1. **Accionista endosa certificado en garantía** a favor del banco
+   - Endoso: "Valor en garantía a favor de Banco BBVA"
+   - El certificado permanece en custodia del banco
+
+2. **Banco otorga préstamo USD 80,000**
+   - Plazo: 12 meses
+   - Tasa: 9.50% anual (menor que sin garantía: 14%)
+   - Garantía: Certificado bancario USD 100,000
+
+3. **Cálculo de beneficio por tener garantía:**
+
+**Con garantía (tasa 9.50%):**
+- Intereses préstamo: USD 80,000 x 9.50% = USD 7,600/año
+
+**Sin garantía (tasa 14%):**
+- Intereses préstamo: USD 80,000 x 14% = USD 11,200/año
+
+**Ahorro:** USD 11,200 - USD 7,600 = **USD 3,600/año**
+
+4. **Costo de oportunidad del certificado:**
+- Intereses que genera el certificado: USD 100,000 x 3.50% = USD 3,500/año
+- **Costo de oportunidad:** USD 3,500 (dejó de ganar por endoso en garantía)
+
+5. **Evaluación neto:**
+- Ahorro por menor tasa: USD 3,600
+- Costo oportunidad certificado: USD 3,500
+- **Beneficio neto: USD 100/año**
+
+**Además:**
+- Empresa obtiene crédito que no tendría sin garantía
+- **Viabiliza operación comercial** (importación equipos)
+
+**Al vencer préstamo:**
+- Importadora paga USD 87,600 al banco
+- Banco libera certificado y lo devuelve endosado al accionista
+- Accionista puede cobrar certificado al banco emisor (principal + intereses)
+
+### 📌 Caso 3: Comparación Rentabilidad Real (ajustada por inflación y TC)
+
+**Inversionista:** Persona natural con USD 50,000 para invertir 1 año
+
+**Escenario A: Certificado USD**
+- Tasa: 3.50% anual
+- Intereses brutos: USD 1,750
+- IR (5%): USD 87.50
+- **Intereses netos: USD 1,662.50**
+- **Capital final: USD 51,662.50**
+
+**Escenario B: Depósito soles**
+- Convierte: USD 50,000 x TC 3.80 = S/ 190,000
+- Tasa soles: 6.00% anual
+- Intereses brutos: S/ 11,400
+- IR (5%): S/ 570
+- Intereses netos: S/ 10,830
+- **Capital final: S/ 200,830**
+
+**Al año (TC proyectado 3.90 por dólar):**
+- Convierte: S/ 200,830 / 3.90 = **USD 51,495**
+
+**Comparación:**
+- Certificado USD: USD 51,662.50
+- Depósito soles (convertido): USD 51,495.00
+- **Diferencia: USD 167.50 a favor del certificado USD**
+
+**Pero... si TC sube más (3.95):**
+- Depósito soles convertido: S/ 200,830 / 3.95 = USD 50,844
+- **Diferencia: USD 818.50 a favor del certificado USD**
+
+**Conclusión:**
+- **Certificado USD protege contra depreciación del sol**
+- Rentabilidad efectiva depende de la variación TC
+- Si sol se deprecia > 2.6% anual → Certificado USD es mejor opción
+
+---
+
+## Jurisprudencia Peruana - Certificados Bancarios
+
+### Resolución SBS N° 1425-2018
+
+**Tema:** Responsabilidad del banco emisor
+
+**Caso:**
+- Banco emitió certificado USD 200,000
+- Cliente endosó a tercero
+- Al vencimiento, banco alegó que depósito fue embargado por deuda tributaria del cliente original
+
+**Fundamento SBS:**
+> "El banco emisor responde **incondicionalmente** del pago del certificado al tenedor legítimo, sin poder oponer excepciones derivadas de la relación con el depositante original. El **endoso transfiere el derecho autónomamente**. Eventuales embargos sobre el depositante original NO afectan al tenedor de buena fe."
+
+**Conclusión:**
+✅ **Banco debe pagar al tenedor actual sin excepciones**
+
+### Expediente N° 18742-2020 Lima (Juzgado Comercial)
+
+**Tema:** Ejecución de certificado bancario impago
+
+**Hechos:**
+- Banco INTERFINANZAS SAC (no regulado SBS) emitió certificado USD 100,000
+- Al vencimiento, banco alegó "iliquidez temporal" y no pagó
+- Tenedor demandó proceso único de ejecución
+
+**Sentencia:**
+- Certificado válido como título ejecutivo
+- Embargo de cuentas del banco
+- **Pago íntegro ordenado en 30 días**
+- Condena en costas + intereses moratorios
+
+**Observación:**
+- Empresa financiera NO supervisada por SBS
+- **NO estaba cubierta por FSD**
+- Tenedor recuperó mediante ejecución judicial (mayor riesgo)
+
+**Lección:** Verificar que banco emisor esté regulado por SBS
+
+---
+
+## Conexiones
+
+- ← Clasificación: [[clasificacion-titulos-valores|Títulos nominativos]]
+- ← Circulación: [[endoso-titulos-valores|Endoso]], [[endoso-garantia|Endoso en garantía]]
+- ↔ Compara: [[pagare|Pagaré]], [[letra-cambio-concepto|Letra de cambio]]
+- → Aplicación: [[warrant|Warrant]], [[valores-mobiliarios|Valores mobiliarios]]
+- ↔ Marco institucional: SBS, BCR, Fondo de Seguro de Depósitos
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 27287** - Ley de Títulos Valores:
+  - Arts. 211-222 (Certificado Bancario en Moneda Extranjera)
+- **Ley N° 26702** - Ley General del Sistema Financiero:
+  - Arts. 226-240 (Operaciones pasivas)
+- **TUO Ley del Impuesto a la Renta:**
+  - Art. 24° inciso a) (Rentas de 2da categoría)
+  - Art. 73-B (Retención 5% sobre intereses)
+- **Resolución SBS N° 8514-2012:** Operaciones en moneda extranjera
+- **Reglamento Fondo de Seguro de Depósitos:** Resolución SBS N° 12893-2009
+
+---
+
+## ❓ Autoevaluación
+
+### Preguntas de Comprensión
+
+1. **¿Qué diferencia fundamental existe entre un certificado bancario ME y un depósito simple en dólares?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Certificado bancario ME:** Es un **título valor** transferible mediante endoso, tiene requisitos formales, es título ejecutivo
+   - **Depósito simple USD:** Es un **contrato** no transferible, sin formalidades especiales, requiere proceso ordinario para cobranza
+   - **Ventaja certificado:** Mayor liquidez (puede endosarse), título ejecutivo (cobro rápido si banco incumple)
+   </details>
+
+2. **¿Hasta qué monto están protegidos los certificados bancarios USD por el Fondo de Seguro de Depósitos en Perú 2025?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Límite:** S/ 142,268 por depositante por banco
+   - **Equivalente USD:** Aproximadamente **USD 37,448** (TC 3.80)
+   - **Recomendación:** Depositar máximo USD 37,000 por banco para estar 100% protegido
+   - **Si excede:** Solo se recupera hasta el límite; el exceso entra en proceso de liquidación del banco (puede tomar años)
+   </details>
+
+3. **¿Cómo se calculan los intereses de un certificado bancario USD en Perú?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Fórmula:**
+   $$\text{Intereses} = \text{Capital} \times \frac{\text{Tasa}}{360} \times \text{Días}$$
+   
+   - Se usa **base 360 días** (convención internacional para USD)
+   - **NO base 365** como en algunos depósitos en soles
+   
+   **Ejemplo:** USD 100,000 x 3.50% x 180/360 = USD 1,750 (6 meses)
+   </details>
+
+4. **¿Qué tratamiento tributario tienen los intereses de certificados USD para personas naturales y jurídicas en Perú?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Personas Naturales:**
+   - **Renta de 2da categoría**
+   - **Tasa: 5%** sobre intereses
+   - **Retención:** Banco retiene automáticamente al pagar
+   - **Carácter:** Definitivo (no se declara en renta anual)
+   
+   **Personas Jurídicas:**
+   - **Renta empresarial**
+   - **Tasa: 29.5%** sobre utilidad neta total
+   - NO hay retención anticipada (empresa declara anualmente PDT 702)
+   - Intereses se incluyen en ingresos financieros gravados
+   </details>
+
+5. **¿Puede un certificado bancario USD endosarse en garantía para obtener un préstamo?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   ✅ **SÍ, es una práctica común:**
+   1. Se endosa "Valor en garantía" a favor del acreedor (típicamente otro banco)
+   2. El certificado queda en custodia del acreedor
+   3. Si deudor no paga, acreedor ejecuta el certificado
+   4. **Ventaja:** Obtener préstamos a tasas más bajas (9-10% vs. 14% sin garantía)
+   5. Al pagar el préstamo, certificado se devuelve al endosante
+   </details>
+
+### Ejercicios Prácticos
+
+6. **Calcula el monto neto que recibirá una persona natural al vencimiento:**
+   
+   - Capital: USD 80,000
+   - Tasa: 3.50% anual
+   - Plazo: 365 días
+   - IR: 5%
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Intereses brutos:**
+   $$80,000 \times \frac{3.50\%}{360} \times 365 = \text{USD } 2,838.89$$
+   
+   **Impuesto a la Renta (5%):**
+   $$2,838.89 \times 5\% = \text{USD } 141.94$$
+   
+   **Intereses netos:**
+   $$2,838.89 - 141.94 = \text{USD } 2,696.95$$
+   
+   **Monto total neto:**
+   $$80,000 + 2,696.95 = \textbf{USD 82,696.95}$$
+   </details>
+
+7. **¿Cuántos certificados bancarios de USD 40,000 debe crear para estar 100% protegido por FSD si tiene USD 200,000?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Límite FSD:** USD 37,448 por banco
+   - **Monto total:** USD 200,000
+   - **Número de bancos necesarios:** 200,000 / 37,448 = 5.34 ≈ **6 bancos**
+   
+   **Distribución:**
+   - 5 certificados x USD 37,000 = USD 185,000
+   - 1 certificado x USD 15,000 = USD 15,000
+   - **Total: 6 certificados en 6 bancos diferentes**
+   
+   **Protección:** 100% cubierto por FSD
+   </details>
+
+---
+
+*Última actualización: 15 de enero de 2025*  
+*Tasas, límites FSD y procedimientos vigentes para Perú 2025*
+
+[[02-indice-unidad-2-titulos-especificos|← Volver a Unidad II]]

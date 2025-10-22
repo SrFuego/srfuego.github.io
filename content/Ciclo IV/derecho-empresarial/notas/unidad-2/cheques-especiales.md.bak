@@ -1,0 +1,573 @@
+---
+title: "Cheques Especiales"
+tags:
+  - derecho-empresarial
+  - titulos-valores
+  - cheque
+  - ley-27287
+  - cheques-especiales
+  - sistema-financiero
+  - SBS
+aliases:
+  - Cheque Cruzado
+  - Cheque Certificado
+  - Cheque de Gerencia
+  - Cheque Garantizado
+  - Cheque de Viajero
+  - Cheque para Abono en Cuenta
+  - Cheque Intransferible
+  - Cheque de Pago Diferido
+---
+
+# Cheques Especiales
+
+## 🎯 Concepto
+
+Los **cheques especiales** son modalidades del cheque común que incorporan **cláusulas, formalidades o características adicionales** destinadas a brindar mayor seguridad, control o funcionalidad específica en su emisión, circulación o pago (Arts. 190-205 Ley N° 27287). Cada tipo de cheque especial tiene requisitos formales propios y efectos jurídicos diferenciados.
+
+Estas modalidades buscan adaptarse a necesidades específicas del tráfico mercantil: evitar el pago en efectivo, restringir la transferencia, garantizar el pago, permitir el cobro en el extranjero o postergar la fecha de pago.
+
+## 📋 Marco Regulatorio Peruano
+
+| Norma | Artículos | Contenido |
+|-------|-----------|-----------|
+| **Ley N° 27287** | Arts. 190-192 | Cheque cruzado |
+| **Ley N° 27287** | Arts. 193-194 | Cheque para abono en cuenta |
+| **Ley N° 27287** | Art. 195 | Cheque intransferible |
+| **Ley N° 27287** | Arts. 196-197 | Cheque certificado |
+| **Ley N° 27287** | Arts. 198-200 | Cheque de gerencia |
+| **Ley N° 27287** | Art. 201 | Cheque garantizado |
+| **Ley N° 27287** | Arts. 202-203 | Cheque de viajero |
+| **Ley N° 27287** | Arts. 204-205 | Cheque de pago diferido |
+| **Ley N° 26702 (Ley SBS)** | Arts. 132-138 | Operaciones con cheques |
+| **Circular SBS** | G-138-2009 | Procedimientos cheques especiales |
+
+## 🔀 Clasificación de Cheques Especiales
+
+```mermaid
+mindmap
+  root((Cheques<br/>Especiales))
+    Seguridad Pago
+      Cruzado
+      Para Abono
+      Intransferible
+    Garantía Fondos
+      Certificado
+      De Gerencia
+      Garantizado
+    Uso Especial
+      De Viajero
+      Pago Diferido
+```
+
+## ✖️ I. CHEQUE CRUZADO (Arts. 190-192)
+
+### Concepto y Finalidad
+
+El **cheque cruzado** es aquel que lleva en el anverso **dos líneas paralelas transversales** que indican que **solo puede ser pagado por el banco girado a otro banco o a un cliente del girado mediante abono en cuenta** (Art. 190).
+
+**Finalidad:** Evitar el pago en efectivo ventanilla, aumentando la seguridad y trazabilidad.
+
+### Tipos de Cruzamiento
+
+#### 1. Cruzamiento General (Art. 190.1)
+
+**Características:**
+- Dos líneas paralelas sin inscripción entre ellas
+- O con la palabra "BANCO" entre las líneas
+- Puede ser pagado por el banco girado a **cualquier banco**
+
+**Modelo:**
+
+```
+╔════════════════════════════════════╗
+║                                    ║
+║      ║║                            ║
+║      ║║  BANCO                     ║
+║      ║║                            ║
+║                                    ║
+║  PÁGUESE A: Juan Pérez Ramos      ║
+║  LA SUMA DE: Dos mil soles        ║
+║  S/ 2,000.00                       ║
+║                                    ║
+║  Lima, 15 de marzo de 2025        ║
+║                                    ║
+║  _______________________           ║
+║       Firma Girador                ║
+╚════════════════════════════════════╝
+```
+
+#### 2. Cruzamiento Especial (Art. 190.2)
+
+**Características:**
+- Entre las líneas se escribe el **nombre de un banco específico**
+- Solo puede ser pagado al banco indicado
+- O a un cliente de ese banco específico mediante abono
+
+**Modelo:**
+
+```
+╔════════════════════════════════════╗
+║                                    ║
+║      ║║                            ║
+║      ║║ Banco de Crédito del Perú  ║
+║      ║║                            ║
+║                                    ║
+║  PÁGUESE A: María López Soto      ║
+║  LA SUMA DE: Cinco mil soles      ║
+║  S/ 5,000.00                       ║
+║                                    ║
+║  Lima, 20 de marzo de 2025        ║
+║                                    ║
+║  _______________________           ║
+║       Firma Girador                ║
+╚════════════════════════════════════╝
+```
+
+### Efectos del Cruzamiento (Art. 191)
+
+| Situación | Efecto Legal |
+|-----------|-------------|
+| **Cruzamiento general** | Banco girado paga solo a otro banco o a su propio cliente (abono) |
+| **Cruzamiento especial** | Solo se paga al banco designado o a cliente de ese banco |
+| **Incumplimiento** | Banco responde por importe del cheque ante el girador (Art. 192) |
+| **Alteración líneas** | Se tiene por no cruzado (nulidad del cruzamiento) |
+
+### Ventajas del Cheque Cruzado
+
+- ✅ Mayor seguridad (reduce robo/hurto)
+- ✅ Trazabilidad bancaria completa
+- ✅ Evita pérdida de efectivo
+- ✅ Evidencia de pago automática
+
+## 💳 II. CHEQUE PARA ABONO EN CUENTA (Arts. 193-194)
+
+### Concepto
+
+El **cheque para abono en cuenta** es aquel que lleva la cláusula **"PARA ABONO EN CUENTA"** insertada transversalmente en el anverso, indicando que **no puede ser pagado en efectivo**, sino únicamente mediante **abono (depósito) en la cuenta bancaria del beneficiario** (Art. 193).
+
+**Efecto:** Imposibilita el cobro en ventanilla.
+
+### Formalidades
+
+- **Cláusula:** "PARA ABONO EN CUENTA" escrita transversalmente
+- **Ubicación:** Anverso del cheque
+- **Irrevocable:** Una vez puesta, no puede borrarse
+- **Complementaria:** Puede combinarse con cruzamiento
+
+**Modelo:**
+
+```
+╔════════════════════════════════════╗
+║                                    ║
+║   P A R A   A B O N O   E N        ║
+║        C U E N T A                 ║
+║                                    ║
+║  PÁGUESE A: Empresa Comercial SAC ║
+║  LA SUMA DE: Diez mil soles       ║
+║  S/ 10,000.00                      ║
+║                                    ║
+║  Lima, 25 de marzo de 2025        ║
+║                                    ║
+║  _______________________           ║
+║       Firma Girador                ║
+╚════════════════════════════════════╝
+```
+
+### Proceso de Cobro
+
+```mermaid
+sequenceDiagram
+    participant B as Beneficiario
+    participant BB as Su Banco
+    participant BG as Banco Girado
+    
+    B->>BB: 1. Deposita cheque en su cuenta
+    BB->>BB: 2. Verifica cláusula PARA ABONO
+    BB->>BG: 3. Presenta cheque en cámara compensación
+    BG->>BG: 4. Verifica fondos
+    BG->>BB: 5. Transfiere fondos
+    BB->>B: 6. Abona en cuenta del beneficiario
+    
+    Note over B,BG: No hay entrega de efectivo en ninguna etapa
+```
+
+### Responsabilidad por Incumplimiento (Art. 194)
+
+Si el banco girado **paga en efectivo** un cheque con cláusula "PARA ABONO EN CUENTA":
+
+- Responde por el importe ante el girador
+- Puede ser sancionado por la SBS
+- El pago es válido pero irregular
+
+## 🔒 III. CHEQUE INTRANSFERIBLE (Art. 195)
+
+### Concepto
+
+El **cheque intransferible** lleva la cláusula **"INTRANSFERIBLE"**, **"NO NEGOCIABLE"** o **"NO A LA ORDEN"** insertada en el anverso, lo que impide su transmisión por endoso (Art. 195).
+
+**Efecto:** Solo puede ser cobrado por el **beneficiario original** designado en el cheque.
+
+### Características
+
+- **Cláusula obligatoria:** Una de las tres mencionadas
+- **Ubicación:** Anverso, de preferencia cerca del nombre del beneficiario
+- **No endosable:** Cualquier endoso es nulo
+- **Solo pago a beneficiario:** Banco solo paga a quien figura como beneficiario
+- **Cobro:** En efectivo o abono (según si tiene cláusula adicional)
+
+**Modelo:**
+
+```
+╔════════════════════════════════════╗
+║                                    ║
+║  INTRANSFERIBLE                    ║
+║                                    ║
+║  PÁGUESE A: Pedro García Ruiz     ║
+║  LA SUMA DE: Tres mil quinientos  ║
+║  S/ 3,500.00                       ║
+║                                    ║
+║  Lima, 28 de marzo de 2025        ║
+║                                    ║
+║  _______________________           ║
+║       Firma Girador                ║
+╚════════════════════════════════════╝
+```
+
+### Ventaja
+
+- ✅ **Seguridad máxima:** Si se pierde o es robado, solo el beneficiario puede cobrarlo (previa identificación)
+
+## ✅ IV. CHEQUE CERTIFICADO (Arts. 196-197)
+
+### Concepto
+
+El **cheque certificado** es aquel en el que el **banco girado certifica** la existencia de fondos suficientes en la cuenta del girador y los **reserva (bloquea) para el pago de ese cheque** durante el plazo de presentación (Art. 196).
+
+**Finalidad:** Dar certeza al beneficiario de que el cheque será pagado (fondos garantizados).
+
+### Requisitos para la Certificación (Art. 196)
+
+1. **Solicitud del girador:** Solo el girador (titular de la cuenta) puede solicitar la certificación
+2. **Fondos disponibles:** Debe haber saldo suficiente en la cuenta
+3. **Constancia en el cheque:** El banco anota en el cheque:
+   - La palabra "CERTIFICADO"
+   - Fecha de certificación
+   - Firma autorizada del banco
+   - Sello del banco
+
+### Efectos de la Certificación (Art. 197)
+
+| Efecto | Descripción |
+|--------|-------------|
+| **Bloqueo de fondos** | Banco reserva (congela) el importe del cheque en la cuenta |
+| **Garantía de pago** | Banco se obliga a pagar el cheque si es presentado en plazo |
+| **No revocable** | Girador no puede revocar el cheque certificado |
+| **Responsabilidad banco** | Si no paga habiendo certificado, responde ante beneficiario |
+| **Vigencia** | Durante todo el plazo de presentación (30 o 90 días) |
+
+### Modelo de Certificación
+
+```
+╔════════════════════════════════════╗
+║  CERTIFICADO                       ║
+║  Fecha: 30/03/2025                 ║
+║  Firma: [Firma Banco]              ║
+║  Sello: [Sello BCP]                ║
+║────────────────────────────────────║
+║                                    ║
+║  PÁGUESE A: Inversiones SAC       ║
+║  LA SUMA DE: Veinte mil soles     ║
+║  S/ 20,000.00                      ║
+║                                    ║
+║  Lima, 30 de marzo de 2025        ║
+║                                    ║
+║  _______________________           ║
+║       Firma Girador                ║
+╚════════════════════════════════════╝
+```
+
+### Asiento Contable (en cuenta del girador)
+
+Cuando el banco certifica:
+
+```
+------------------------- x -------------------------
+1041 CUENTAS CORRIENTES OP.        20,000
+    1044 CTAS. CTE. RESTRINGIDAS       20,000
+Bloqueo de fondos por certificación cheque N° XXX
+------------------------- x -------------------------
+```
+
+Cuando se cobra el cheque:
+
+```
+------------------------- x -------------------------
+1044 CTAS. CTE. RESTRINGIDAS       20,000
+    1041 CUENTAS CORRIENTES OP.        20,000
+Pago de cheque certificado N° XXX
+------------------------- x -------------------------
+```
+
+## 🏦 V. CHEQUE DE GERENCIA (Arts. 198-200)
+
+### Concepto
+
+El **cheque de gerencia** es un cheque girado **por un banco a cargo de sí mismo** (es decir, el banco es girador y girado a la vez), pagadero en cualquiera de sus oficinas (Art. 198).
+
+**Ventaja principal:** Máxima seguridad, ya que el banco garantiza el pago con su propio patrimonio.
+
+### Características Distintivas
+
+```mermaid
+graph TD
+    A[Cliente solicita] --> B[Paga al Banco]
+    B --> C[Banco emite cheque<br/>a nombre del beneficiario]
+    C --> D[Banco es GIRADOR<br/>y GIRADO]
+    D --> E[Beneficiario presenta<br/>en cualquier agencia]
+    E --> F[Banco paga con<br/>sus propios fondos]
+    
+    style D fill:#e1f5ff
+    style F fill:#c8e6c9
+```
+
+| Aspecto | Cheque Común | Cheque de Gerencia |
+|---------|--------------|-------------------|
+| **Girador** | Cliente (persona) | Banco |
+| **Girado** | Banco | El mismo banco |
+| **Fondos** | Cuenta del cliente | Patrimonio del banco |
+| **Seguridad** | Depende de fondos del cliente | Máxima (banco garantiza) |
+| **Vigencia** | 30 o 90 días | Generalmente 1 año |
+
+### Proceso de Emisión
+
+1. **Cliente solicita** cheque de gerencia en ventanilla
+2. **Cliente paga** al banco:
+   - Importe del cheque
+   - Comisión bancaria (aproximadamente S/ 10-25)
+3. **Banco emite** cheque de gerencia a nombre del beneficiario indicado
+4. **Banco entrega** cheque al cliente o directamente al beneficiario
+
+### Modelo de Cheque de Gerencia
+
+```
+╔═══════════════════════════════════════════╗
+║   BANCO DE CRÉDITO DEL PERÚ              ║
+║   CHEQUE DE GERENCIA N° 0045682          ║
+║                                           ║
+║   PÁGUESE A LA ORDEN DE:                 ║
+║   INMOBILIARIA LOS PORTALES S.A.         ║
+║                                           ║
+║   LA SUMA DE: CINCUENTA MIL Y 00/100     ║
+║   SOLES                                   ║
+║                                           ║
+║   S/ 50,000.00                            ║
+║                                           ║
+║   PAGADERO EN TODAS NUESTRAS OFICINAS    ║
+║                                           ║
+║   Lima, 05 de abril de 2025              ║
+║                                           ║
+║   _______________  _______________        ║
+║   Gerente Gral.    Subgerente Op.        ║
+║                                           ║
+║   [Sello del Banco]                      ║
+╚═══════════════════════════════════════════╝
+```
+
+### Usos Comunes
+
+- 💼 Compra de inmuebles (inicial o pago total)
+- 🏗️ Adelantos en contratos de obra
+- 📦 Importaciones (pago a proveedores extranjeros)
+- ⚖️ Depósitos judiciales
+- 🎓 Pago de matrículas universitarias altas
+
+### Ventajas
+
+- ✅ Pago garantizado por el banco
+- ✅ Aceptado como medio de pago de alto valor
+- ✅ No requiere cuenta bancaria del beneficiario
+- ✅ Mayor periodo de vigencia (hasta 1 año)
+
+## 🛡️ VI. CHEQUE GARANTIZADO (Art. 201)
+
+### Concepto
+
+El **cheque garantizado** es emitido al amparo de una **tarjeta especial de garantía** proporcionada por el banco al cliente, con la cual el banco **garantiza el pago** hasta cierto límite por cheque, sin verificar fondos en el momento de la presentación (Art. 201).
+
+**Nota:** Este tipo de cheque es **poco común en Perú** actualmente (más usado en Europa).
+
+### Funcionamiento
+
+1. Banco otorga al cliente una **tarjeta de garantía** con:
+   - Número de identificación
+   - Límite de garantía (ej. hasta S/ 2,000 por cheque)
+   - Firma digitalizada del titular
+
+2. Cliente emite cheque y anota:
+   - Número de tarjeta de garantía en el reverso
+   - Firma frente al beneficiario
+
+3. Beneficiario presenta cheque:
+   - Banco verifica tarjeta activa
+   - Paga hasta el límite garantizado, aunque no haya fondos
+   - Banco carga a cuenta del cliente (incluso genera sobregiro)
+
+### Diferencia con Cheque Certificado
+
+| Aspecto | Cheque Certificado | Cheque Garantizado |
+|---------|-------------------|-------------------|
+| **Garantía** | Por cheque específico | Por tarjeta (múltiples cheques) |
+| **Solicitud** | Cada vez que se certifica | Una vez al obtener tarjeta |
+| **Límite** | Monto del cheque | Monto por cheque (ej. máx. S/ 2,000) |
+| **Fondos bloqueados** | Sí, al certificar | No |
+
+## ✈️ VII. CHEQUE DE VIAJERO (Arts. 202-203)
+
+### Concepto
+
+El **cheque de viajero** (traveler's check) es un cheque emitido por un banco o institución financiera internacional (como American Express, Visa), **pagadero en diversos países** del mundo en diferentes monedas (Art. 202).
+
+**Finalidad:** Permitir al viajero llevar dinero de forma segura sin portar efectivo.
+
+### Características
+
+```mermaid
+graph LR
+    A[Compra en Perú<br/>Paga S/ + comisión] --> B[Recibe cheques<br/>pre-impresos USD]
+    B --> C[Firma al recibir<br/>Primera firma]
+    C --> D[Viaja al extranjero]
+    D --> E[Cobra en banco<br/>Firma segunda vez]
+    E --> F[Recibe efectivo<br/>en moneda local]
+    
+    style A fill:#e1f5ff
+    style C fill:#fff3e0
+    style F fill:#c8e6c9
+```
+
+### Mecanismo de Seguridad: Doble Firma (Art. 203)
+
+1. **Primera firma:** El titular firma al adquirir los cheques (en presencia del banco emisor)
+2. **Segunda firma:** Al cobrar, firma nuevamente en presencia del pagador
+3. **Verificación:** El banco pagador compara ambas firmas antes de pagar
+
+**Si se pierden o roban:** El titular reporta los números de serie, y el banco bloquea esos cheques específicos.
+
+### Denominaciones Comunes
+
+- USD 20, USD 50, USD 100, USD 500
+- EUR 50, EUR 100
+- (Monedas principales)
+
+### Ventajas
+
+- ✅ Aceptación internacional
+- ✅ Seguro contra robo (reemplazo si se pierde)
+- ✅ No caduca
+- ✅ Útil en países con restricciones cambiarias
+
+### Desventajas Actuales
+
+- ❌ Comisiones altas (5-7% del valor)
+- ❌ Difícil encontrar lugares que los acepten (prefieren tarjetas)
+- ❌ Proceso lento en comparación con cajeros ATM
+
+**Estado en Perú (2025):** Uso en **declive** por popularidad de tarjetas de débito/crédito internacionales y cajeros automáticos globales.
+
+## 📅 VIII. CHEQUE DE PAGO DIFERIDO (Arts. 204-205)
+
+### Concepto
+
+El **cheque de pago diferido** es un cheque especial cuya **fecha de emisión es distinta a la fecha de pago**, permitiendo al girador diferir el pago hasta una fecha futura específica, que debe constar en el documento (Art. 204).
+
+**Naturaleza:** Similar a un pagaré, pero con formato de cheque.
+
+### Regulación Específica en Perú
+
+Aunque regulado en Arts. 204-205 de la Ley 27287, el **cheque de pago diferido NO es de uso generalizado en el sistema bancario peruano**. Los bancos no están obligados a emitir chequeras con esta modalidad.
+
+**Razón:** Los bancos prefieren otros instrumentos para financiamiento a corto plazo (líneas de crédito, tarjetas, pagarés).
+
+### Características (Art. 205)
+
+| Característica | Detalle |
+|----------------|---------|
+| **Fecha de pago** | Debe ser posterior a la fecha de emisión (máx. 30 días) |
+| **Presentación** | Solo debe presentarse a partir de la fecha de pago indicada |
+| **Presentación anticipada** | Banco NO debe pagar si se presenta antes de la fecha |
+| **Fondos** | Deben existir a la fecha de pago (no a la de emisión) |
+| **Protesto** | Puede protestarse si a la fecha de pago no hay fondos |
+
+### Modelo Teórico
+
+```
+╔════════════════════════════════════════════╗
+║  CHEQUE DE PAGO DIFERIDO                  ║
+║                                            ║
+║  FECHA DE EMISIÓN: 10 de abril de 2025   ║
+║  FECHA DE PAGO:    10 de mayo de 2025    ║
+║                                            ║
+║  PÁGUESE A: Comercial El Sol EIRL        ║
+║  LA SUMA DE: Quince mil soles            ║
+║  S/ 15,000.00                             ║
+║                                            ║
+║  ___________________________               ║
+║       Firma Girador                       ║
+╚════════════════════════════════════════════╝
+```
+
+### Comparación con Otros Instrumentos
+
+| Aspecto | Cheque Diferido | Pagaré | Letra de Cambio |
+|---------|----------------|--------|-----------------|
+| **Plazo pago** | Máx. 30 días | Libre | Libre |
+| **Aceptación** | No requiere | No requiere | Requiere (girado) |
+| **Uso en Perú** | Muy limitado | Común | Muy común |
+| **Banco** | Requiere cuenta | No | No |
+
+**Recomendación práctica en Perú:** Para pagos diferidos, es más común y seguro usar **letra de cambio** o **pagaré**, que tienen mayor aceptación y claridad jurídica.
+
+## 📊 IX. TABLA COMPARATIVA GENERAL
+
+| Tipo Cheque | Finalidad Principal | Restricción Pago | Uso en Perú (2025) |
+|-------------|---------------------|------------------|-------------------|
+| **Cruzado** | Seguridad (no efectivo) | Solo bancos/abono | Común |
+| **Para Abono** | Trazabilidad total | Solo abono cuenta | Muy común |
+| **Intransferible** | Evitar endoso | Solo beneficiario | Muy común |
+| **Certificado** | Garantía fondos | Fondos bloqueados | Común (alto valor) |
+| **De Gerencia** | Máxima garantía | Banco garantiza | Muy común |
+| **Garantizado** | Múltiples garantías | Tarjeta de garantía | Raro |
+| **De Viajero** | Uso internacional | Doble firma | En declive |
+| **Pago Diferido** | Diferir pago | Fecha futura | Muy raro |
+
+## 📚 Conexiones con Otros Conceptos
+
+- [[cheque-concepto]] - Base del cheque común
+- [[endoso-titulos-valores]] - Restricción del endoso en intransferibles
+- [[clausulas-especiales-garantias]] - Cláusulas que limitan circulación
+- [[protesto-titulos-valores]] - Protesto de cheques especiales
+
+## 🔑 Referencias Normativas Clave
+
+- **Arts. 190-192 Ley 27287:** Cheque cruzado
+- **Arts. 193-194 Ley 27287:** Cheque para abono en cuenta
+- **Art. 195 Ley 27287:** Cheque intransferible
+- **Arts. 196-197 Ley 27287:** Cheque certificado
+- **Arts. 198-200 Ley 27287:** Cheque de gerencia
+- **Art. 201 Ley 27287:** Cheque garantizado
+- **Arts. 202-203 Ley 27287:** Cheque de viajero
+- **Arts. 204-205 Ley 27287:** Cheque de pago diferido
+- **Circular SBS G-138-2009:** Procedimientos cheques especiales
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es la diferencia entre un cheque cruzado general y uno especial?
+2. ¿Qué ocurre si un banco paga en efectivo un cheque con cláusula "PARA ABONO EN CUENTA"?
+3. ¿Puede endosarse un cheque intransferible? ¿Por qué?
+4. ¿Quién puede solicitar la certificación de un cheque: el girador o el beneficiario?
+5. En un cheque de gerencia, ¿quién es el girador y quién es el girado?
+6. ¿Cuál es la ventaja principal de usar un cheque de gerencia en una compra de inmueble?
+7. Explique el mecanismo de doble firma en los cheques de viajero.
+8. ¿Por qué el cheque de pago diferido no es común en el sistema bancario peruano?
+9. ¿Un cheque puede ser simultáneamente cruzado, para abono en cuenta e intransferible?
+10. ¿Cuál de los cheques especiales brinda mayor seguridad de pago al beneficiario y por qué?

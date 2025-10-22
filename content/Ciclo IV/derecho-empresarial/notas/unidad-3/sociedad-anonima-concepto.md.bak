@@ -1,0 +1,407 @@
+---
+title: Sociedad Anónima
+tags:
+  - sociedad-anonima
+  - sociedades
+  - LGS
+  - capital-social
+  - Art-50-LGS
+  - SUNARP
+  - responsabilidad-limitada
+aliases:
+  - SA
+  - S.A.
+  - Sociedad Anónima
+  - Corporación
+---
+
+# Sociedad Anónima
+
+## Definición (Art. 50 LGS)
+
+> Capital representado por **acciones nominativas**. Accionistas **no responden personalmente** por deudas sociales (responsabilidad limitada hasta monto de aportes).
+
+**SUNARP 2025:** 85% de empresas peruanas son SA/SAC. No hay capital mínimo legal.
+
+**Conexiones:** [[junta-general-accionistas|Junta]] • [[directorio|Directorio]] • [[gerencia|Gerencia]] • [[dividendos|Dividendos]] • [[concepto-sociedad|Concepto sociedad]]
+
+---
+
+## Características Esenciales
+
+### 1. Responsabilidad Limitada de los Accionistas
+
+**Regla fundamental:**
+- Los accionistas responden **solo hasta el monto de sus aportes**
+- El patrimonio personal está **protegido**
+- Acreedores sociales solo pueden ejecutar patrimonio de la sociedad
+
+**Excepción - Levantamiento del velo societario:**
+- Fraude, abuso de la forma societaria
+- Confusión patrimonial
+- Subcapitalización intencional
+
+### 2. Capital Representado por Acciones
+
+**Acción:** Unidad mínima de participación en el capital social
+
+**Características de las acciones:**
+- ✅ **Nominativas:** Identifican al titular
+- ✅ **Indivisibles:** No se pueden fraccionar
+- ✅ **Acumulables:** Un accionista puede tener múltiples acciones
+- ✅ **Transmisibles:** Pueden venderse, heredarse, donarse
+
+→ Ver detalle: [[acciones|Acciones: Naturaleza y Tipos]]
+
+### 3. Denominación Social
+
+**Regla:** Debe incluir la indicación **"Sociedad Anónima"** o siglas **"S.A."**
+
+**Ejemplos:**
+```
+Inversiones del Pacífico Sociedad Anónima
+Banco Continental S.A.
+```
+
+**Prohibiciones:**
+- ❌ Denominación idéntica o similar a sociedad preexistente
+- ❌ Nombres que induzcan a confusión sobre el objeto social
+- ❌ Uso de siglas de organismos públicos (salvo autorización)
+
+### 4. Órganos Societarios
+
+**Estructura de gobierno corporativo:**
+
+```mermaid
+graph TD
+    A[Junta General de Accionistas] --> B[Directorio]
+    B --> C[Gerencia]
+    A -.Elige.-> B
+    B -.Designa.-> C
+```
+
+→ Ver detalle: [[organos-sociedad-anonima|Órganos de la Sociedad Anónima]]
+
+---
+
+## Tipos de Sociedad Anónima
+
+### 1. Sociedad Anónima Ordinaria (SA)
+
+**Aplicación:** Por defecto, cuando no se opta por forma especial
+
+**Características:**
+- Sin restricciones específicas de la LGS
+- Directorio obligatorio (mínimo 3 directores)
+- Aplican todas las normas generales de la LGS
+
+### 2. [[sociedad-anonima-cerrada|Sociedad Anónima Cerrada (SAC)]]
+
+**Requisitos (Art. 234 LGS):**
+- **Máximo 20 accionistas**
+- **No tiene acciones inscritas en Bolsa**
+
+**Características especiales:**
+- Denominación: Incluye "S.A.C." o "Sociedad Anónima Cerrada"
+- **Directorio facultativo** (no obligatorio si hay ≤20 accionistas)
+- **Derecho de adquisición preferente:** Accionistas tienen preferencia para comprar acciones de otros
+- **Posibilidad de exclusión de accionistas** (por causas estatutarias)
+- Pensada para sociedades familiares o cerradas
+
+### 3. [[sociedad-anonima-abierta|Sociedad Anónima Abierta (SAA)]]
+
+**Supuestos de SAA (Art. 249 LGS):**
+- Hizo **oferta pública primaria** de acciones
+- Tiene **más de 750 accionistas**
+- Más del **35% del capital** pertenece a 175 o más accionistas (acciones con derecho a voto)
+- Se constituye como tal voluntariamente
+
+**Características especiales:**
+- Denominación: Incluye "S.A.A." o "Sociedad Anónima Abierta"
+- **Directorio obligatorio** (mínimo 3 directores)
+- **Auditoría externa obligatoria** anual
+- **Supervisión por SMV** (Superintendencia del Mercado de Valores)
+- Mayor regulación y transparencia informativa
+
+---
+
+## Constitución de la Sociedad Anónima
+
+### Capital Social
+
+**Mínimo legal:** NO hay mínimo establecido en la LGS (puede ser S/ 1.00 en teoría)
+
+**Suscripción y pago:**
+- **Capital suscrito:** Total de acciones que los accionistas se comprometen a aportar
+- **Capital pagado:** Parte efectivamente aportada
+
+**Reglas de pago (Art. 52 LGS):**
+
+| Tipo de Aporte | Requisito de Pago |
+|----------------|-------------------|
+| **Aportes dinerarios** | Mínimo **25%** al constituir (saldo en 12 meses) |
+| **Aportes no dinerarios** | **100%** al constituir (entregados totalmente) |
+
+### Proceso de Constitución Simultánea
+
+```
+1. Redacción del Pacto Social y Estatuto
+   ↓
+2. Reserva de nombre en SUNARP (opcional pero recomendable)
+   ↓
+3. Otorgamiento de Escritura Pública ante Notario
+   ↓
+4. Inscripción en Registro de Personas Jurídicas (SUNARP)
+   ↓
+5. Nacimiento de la Personalidad Jurídica
+   ↓
+6. Inscripción en SUNAT (RUC)
+```
+
+→ Ver detalle: [[constitucion-sociedad|Constitución de Sociedades]]
+
+---
+
+## Órganos de la Sociedad Anónima
+
+### 1. [[junta-general-accionistas|Junta General de Accionistas]]
+
+**Naturaleza:** Órgano **supremo** de la sociedad
+
+**Competencias:**
+- Modificar el estatuto
+- Aumentar o reducir capital social
+- Elegir y remover directores
+- Aprobar estados financieros
+- Acordar distribución de utilidades
+- Disolver, transformar, fusionar la sociedad
+
+**Tipos:**
+- **Junta Obligatoria Anual:** Dentro de los 3 meses siguientes al cierre del ejercicio
+- **Junta General:** Para asuntos específicos (cuando sea necesario)
+- **Junta Universal:** Con presencia del 100% del capital (sin convocatoria previa)
+
+### 2. [[directorio|El Directorio]]
+
+**Naturaleza:** Órgano **colegiado** de administración
+
+**Composición:**
+- Mínimo **3 directores** (SA, SAA)
+- Facultativo en SAC (si tiene ≤20 accionistas)
+- Nombrados por Junta General
+- Periodo: Máximo 3 años (reelegibles)
+
+**Funciones:**
+- Representar a la sociedad
+- Establecer políticas y estrategias
+- Designar y remover gerentes
+- Supervisar la gestión
+- Convocar a Junta General
+
+### 3. [[gerencia|La Gerencia]]
+
+**Naturaleza:** Órgano **unipersonal o plural** de gestión ejecutiva
+
+**Designación:**
+- Por el Directorio (si existe)
+- Por la Junta General (si no hay Directorio en SAC)
+
+**Funciones:**
+- Administración diaria de la sociedad
+- Ejecución de acuerdos del Directorio
+- Representación procesal (puede demandar y ser demandada)
+- Llevar libros y registros societarios
+- Preparar estados financieros
+
+---
+
+## Derechos de los Accionistas
+
+### Derechos Patrimoniales
+
+1. **Derecho a dividendos:**
+   - Participación en utilidades distribuidas
+   - Según proporción de acciones con derecho a dividendo
+
+2. **Derecho de suscripción preferente:**
+   - En aumentos de capital
+   - Mantener su participación proporcional
+
+3. **Derecho a cuota de liquidación:**
+   - En caso de disolución
+   - Proporcionalmente al capital pagado
+
+### Derechos Políticos (Administrativos)
+
+1. **Derecho de voto:**
+   - En Junta General
+   - Por cada acción con derecho a voto
+
+2. **Derecho de información:**
+   - Acceso a libros y registros (con limitaciones)
+   - Información financiera obligatoria
+
+3. **Derecho de impugnación:**
+   - De acuerdos de Junta y Directorio
+
+4. **Derecho de separación:**
+   - En casos específicos (cambio de objeto social, traslado al extranjero, etc.)
+
+---
+
+## Modificación del Capital Social
+
+### [[modificacion-capital-social|Aumento de Capital]]
+
+**Modalidades:**
+1. **Nuevos aportes:** Accionistas o terceros
+2. **Capitalización de créditos:** Pasivos se convierten en capital
+3. **Capitalización de reservas o utilidades:** Revalúo patrimonial
+4. **Conversión de obligaciones:** Bonos convertibles
+
+**Requisito previo:** Capital anterior debe estar **totalmente pagado** (salvo casos excepcionales)
+
+### Reducción de Capital
+
+**Modalidades:**
+1. **Devolución de aportes:** Entrega de activos a accionistas
+2. **Condonación de dividendos pasivos:** Libera aportes no pagados
+3. **Absorción de pérdidas:** Ajuste por resultados negativos acumulados
+4. **Rescate de acciones:** Compra y cancelación
+
+**Protección de acreedores:**
+- Derecho de oposición (30 días)
+- Si se oponen: Pago o garantía de la deuda
+
+---
+
+## La Memoria y Estados Financieros
+
+### Memoria Anual (Art. 221 LGS)
+
+**Contenido mínimo:**
+1. Situación económica y financiera de la sociedad
+2. Evolución de negocios y resultados
+3. Principales acontecimientos posteriores al cierre
+4. Situación de las subsidiarias (si las hay)
+5. Proyectos y perspectivas
+6. Propuesta de distribución de utilidades
+
+### Estados Financieros (Art. 223 LGS)
+
+**Estados obligatorios:**
+1. **Balance General** (Estado de Situación Financiera)
+2. **Estado de Resultados** (Estado de Ganancias y Pérdidas)
+3. **Estado de Cambios en el Patrimonio Neto**
+4. **Estado de Flujos de Efectivo**
+5. **Notas a los Estados Financieros**
+
+**Preparación:** Conforme a NIC/NIIF (Normas Internacionales)
+
+**Aprobación:** Por Junta General Obligatoria Anual
+
+---
+
+## Reserva Legal y Dividendos
+
+### [[reserva-legal|Reserva Legal]] (Art. 229 LGS)
+
+**Obligación:**
+- Detraer mínimo **10% de la utilidad neta** anual
+- Hasta alcanzar **20% del capital social pagado**
+
+**Finalidad:** Fondo de protección patrimonial
+
+**Uso:** Solo para compensar pérdidas (no se distribuye)
+
+### [[dividendos|Dividendos]] (Art. 230-233 LGS)
+
+**Requisitos para distribuir:**
+1. Utilidad neta del ejercicio (o utilidades acumuladas)
+2. Reserva legal cubierta
+3. Acuerdo de Junta General
+4. Estados financieros auditados (SAA)
+
+**Formas de pago:**
+- Efectivo (típico)
+- Acciones (dividendos en acciones)
+- Especie (excep cional)
+
+**Caducidad:** **3 años** desde que son exigibles
+
+---
+
+## Auditoría Externa
+
+### SAA (Sociedad Anónima Abierta)
+
+✅ **Obligatoria** anualmente
+
+### SA y SAC
+
+⚠️ **Facultativa** (salvo que estatuto o Junta lo exija)
+
+**Finalidad:**
+- Verificar razonabilidad de estados financieros
+- Evaluar control interno
+- Generar confianza en terceros
+
+---
+
+## Ventajas de la Sociedad Anónima
+
+### Para los Accionistas
+
+✅ **Responsabilidad limitada:** Protección patrimonial
+✅ **Liquidez:** Acciones fácilmente transferibles
+✅ **Profesionalización:** Administración delegada en expertos
+✅ **Participación en utilidades:** Dividendos proporcionales
+
+### Para la Empresa
+
+✅ **Acceso a financiamiento:** Emisión de acciones y bonos
+✅ **Continuidad:** Permanencia independiente de socios
+✅ **Escalabilidad:** Facilidad para crecer (aumentos de capital)
+✅ **Credibilidad:** Mayor confianza de proveedores y bancos
+
+---
+
+## Diferencias: SA vs SAC vs SAA
+
+| Aspecto | SA | [[sociedad-anonima-cerrada\|SAC]] | [[sociedad-anonima-abierta\|SAA]] |
+|---------|----|----|-----|
+| **N° accionistas** | Sin límite | Máx. 20 | Mín. 750 (o requisitos) |
+| **Directorio** | Obligatorio (mín. 3) | Facultativo | Obligatorio (mín. 3) |
+| **Acciones en bolsa** | Puede | ❌ No | ✅ Sí |
+| **Auditoría externa** | Facultativa | Facultativa | **Obligatoria** |
+| **Supervisión SMV** | No | No | **Sí** |
+| **Derecho adquisición preferente** | Opcional | **Por defecto** | No |
+| **Transmisión acciones** | Libre | Restringida (preferencia) | Libre |
+
+---
+
+## Conexiones
+
+- ← Concepto base: [[concepto-sociedad|Concepto de Sociedad]]
+- → Proceso: [[constitucion-sociedad|Constitución]], [[aportes-capital-social|Aportes]]
+- → Estructura: [[organos-sociedad-anonima|Órganos]], [[junta-general-accionistas|Junta]], [[directorio|Directorio]], [[gerencia|Gerencia]]
+- → Participación: [[acciones|Acciones]]
+- → Cambios: [[modificacion-capital-social|Modificación de capital]], [[transformacion-sociedades|Transformación]]
+- ↔ Otras formas: [[sociedad-responsabilidad-limitada|SRL]], [[sociedad-colectiva|Sociedad Colectiva]]
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 26887** - Ley General de Sociedades:
+  - Arts. 50-264 (Sociedad Anónima)
+  - Arts. 234-248 (SAC)
+  - Arts. 249-263 (SAA)
+  - Arts. 114-122 (Órganos)
+  - Arts. 220-233 (Estados financieros y utilidades)
+
+---
+
+*Última actualización: 22 de octubre de 2025*
+
+[[03-indice-unidad-3-sociedades|← Volver a Unidad III]]
