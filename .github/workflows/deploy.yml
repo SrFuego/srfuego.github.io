@@ -7,7 +7,7 @@ on:
 
 env:
   # THEME_NAME: halcyon
-  THEME_NAME: neuborder
+  THEME_NAME: material-3
 
 permissions:
   contents: read
