@@ -1,0 +1,495 @@
+---
+title: "Otras Formas Societarias"
+tags:
+  - derecho-empresarial
+  - ley-general-sociedades
+  - sociedad-colectiva
+  - sociedad-comandita
+  - sociedad-civil
+  - formas-societarias
+  - SUNARP
+aliases:
+  - Sociedad Colectiva
+  - Sociedad en Comandita
+  - Sociedad Civil
+  - Formas Societarias Especiales
+---
+
+# Otras Formas Societarias
+
+## 🎯 Concepto
+
+Además de la **Sociedad Anónima** (forma más común) y la **Sociedad de Responsabilidad Limitada**, la Ley General de Sociedades N° 26887 regula otras formas societarias con características específicas que se adaptan a necesidades particulares del comercio y las profesiones liberales. Estas formas incluyen: **Sociedad Colectiva**, **Sociedad en Comandita** (Simple y por Acciones) y **Sociedad Civil** (Ordinaria y de Responsabilidad Limitada).
+
+Estas sociedades se caracterizan generalmente por:
+- Menor número de socios
+- Mayor confianza personal entre socios (intuitu personae)
+- Reglas de administración más flexibles
+- Menor regulación formal
+
+## 📋 Marco Regulatorio Peruano
+
+| Norma | Artículos | Contenido |
+|-------|-----------|-----------|
+| **Ley N° 26887 (LGS)** | Arts. 265-280 | Sociedad Colectiva |
+| **Ley N° 26887 (LGS)** | Arts. 278-293 | Sociedad en Comandita Simple |
+| **Ley N° 26887 (LGS)** | Arts. 281-294 | Sociedad en Comandita por Acciones |
+| **Ley N° 26887 (LGS)** | Arts. 295-303 | Sociedad Civil |
+| **Código Civil** | Arts. 1764-1788 | Contrato de sociedad civil (supletorio) |
+| **Reglamento SUNARP** | Título VII | Inscripción de sociedades especiales |
+
+## 🤝 I. SOCIEDAD COLECTIVA (Arts. 265-280 LGS)
+
+### Concepto y Características
+
+La **Sociedad Colectiva** es una sociedad de personas en la que **todos los socios responden solidaria e ilimitadamente** por las obligaciones sociales (Art. 265 LGS). Es la forma más antigua de sociedad comercial y se caracteriza por la confianza personal entre los socios.
+
+**Características distintivas:**
+
+```mermaid
+mindmap
+  root((Sociedad<br/>Colectiva))
+    Responsabilidad
+      Solidaria
+      Ilimitada
+      Subsidiaria
+    Socios
+      Confianza mutua
+      Participación activa
+      Derecho veto
+    Razón Social
+      Nombres socios
+      y Compañía
+    Administración
+      Todos los socios
+      O algunos
+      Por estatuto
+```
+
+| Aspecto | Característica |
+|---------|----------------|
+| **Responsabilidad** | Solidaria, ilimitada y subsidiaria |
+| **Capital** | No tiene mínimo legal |
+| **Razón Social** | Incluye nombre de todos o algunos socios + "Sociedad Colectiva" o "S.C." |
+| **Administración** | Todos los socios o los designados en estatuto |
+| **Transferencia** | Requiere consentimiento de todos los socios |
+| **Uso en Perú (2025)** | Muy raro (menos del 1% de sociedades) |
+
+### Responsabilidad de los Socios (Art. 265-266)
+
+**Principio fundamental:** Los socios responden **personal, solidaria, ilimitada y subsidiariamente** por las deudas sociales.
+
+**Explicación:**
+
+1. **Personal:** Con su patrimonio personal, no solo con el aporte
+2. **Solidaria:** Los acreedores pueden cobrar a cualquier socio el total
+3. **Ilimitada:** Hasta cubrir toda la deuda, sin tope
+4. **Subsidiaria:** Primero se ejecuta el patrimonio social, luego el personal
+
+**Ejemplo práctico:**
+
+```
+Sociedad Colectiva "Comercial Hermanos Pérez S.C."
+- Socios: Juan Pérez, Carlos Pérez, María Pérez
+- Patrimonio social: S/ 200,000
+- Deuda con proveedor: S/ 500,000
+
+Procedimiento del acreedor:
+1. Demanda a la sociedad → Embarga S/ 200,000 (patrimonio social)
+2. Quedan S/ 300,000 pendientes
+3. Demanda a Juan Pérez (cualquier socio) → Embarga bienes personales por S/ 300,000
+4. Juan Pérez paga y luego puede repetir contra sus hermanos (acción de reembolso)
+```
+
+### Razón Social (Art. 267)
+
+La razón social debe incluir:
+- **Nombre completo** o solo **apellido** de todos o algunos socios
+- Expresión **"Sociedad Colectiva"** o siglas **"S.C."**
+- Si no figuran todos: Agregar **"y Compañía"** o **"y Hermanos"**
+
+**Ejemplos válidos:**
+- "Juan Pérez y Carlos Rodríguez Sociedad Colectiva"
+- "Pérez y Rodríguez S.C."
+- "Hermanos García y Compañía S.C."
+- "García Hnos. S.C."
+
+**Prohibición:** No puede usarse nombre de persona que no sea socio (Art. 267).
+
+### Administración (Arts. 270-273)
+
+#### Modalidades de Administración
+
+**1. Administración Conjunta (por defecto):**
+- Todos los socios administran
+- Decisiones requieren **unanimidad**
+- Cualquier socio puede oponerse a actos de otro
+
+**2. Administración Delegada:**
+- Uno o más socios administradores designados en estatuto
+- Los demás socios no pueden administrar (salvo emergencia)
+- Administradores pueden ser removidos con **mayoría absoluta**
+
+**3. Administración por Terceros:**
+- Excepcional, requiere pacto expreso
+- Designado por acuerdo unánime
+
+#### Facultades de los Administradores (Art. 271)
+
+Los administradores pueden realizar **todos los actos necesarios** para el objeto social, excepto:
+- ❌ Vender o gravar bienes inmuebles (requiere acuerdo de socios)
+- ❌ Modificar estatuto
+- ❌ Admitir nuevos socios
+
+### Transferencia de Participación (Art. 276)
+
+Para que un socio transfiera su participación a un tercero:
+- Requiere **consentimiento unánime** de los demás socios
+- Si se niegan: Debe separarse de la sociedad (previa liquidación de su parte)
+
+**Razón:** El carácter intuitu personae de la sociedad.
+
+### Caso Práctico: Sociedad Colectiva
+
+**Contexto:**
+Tres hermanos deciden formar una sociedad colectiva para comercio de abarrotes.
+
+**Constitución:**
+- **Razón Social:** "Comercial Hermanos Vargas S.C."
+- **Socios:** 
+  - Luis Vargas: 40% participación
+  - Rosa Vargas: 30% participación
+  - Pedro Vargas: 30% participación
+- **Capital:** S/ 150,000 (aportes proporcionales)
+- **Administración:** Luis y Rosa (administradores solidarios)
+
+**Operación y Problema:**
+
+La sociedad compra mercadería a crédito por S/ 400,000. Debido a una crisis, solo logra pagar S/ 100,000. El proveedor demanda.
+
+**Proceso:**
+1. Juzgado embarga el patrimonio social: S/ 150,000 (capital) + S/ 20,000 (activos) = S/ 170,000
+2. Quedan pendientes: S/ 400,000 - S/ 100,000 - S/ 170,000 = S/ 230,000
+3. Proveedor demanda a Rosa Vargas (cualquier socio)
+4. Juzgado embarga inmueble personal de Rosa por S/ 230,000
+5. Rosa paga y ejerce acción de reembolso contra Luis (40%) y Pedro (30%)
+
+**Lección:** La responsabilidad ilimitada hace muy riesgosa esta forma societaria.
+
+## 🎖️ II. SOCIEDAD EN COMANDITA (Arts. 278-294 LGS)
+
+### Concepto General
+
+La **Sociedad en Comandita** tiene dos clases de socios con responsabilidades diferenciadas:
+
+1. **Socios Colectivos (o Comanditados):** Responden solidaria e ilimitadamente
+2. **Socios Comanditarios:** Responden solo hasta el monto de su aporte
+
+**Ratio:** Permite combinar socios gestores (comanditados) con socios capitalistas (comanditarios).
+
+### Tipos de Sociedad en Comandita
+
+```mermaid
+graph TD
+    A[Sociedad en Comandita] --> B[Sociedad en Comandita Simple<br/>Art. 278-280]
+    A --> C[Sociedad en Comandita por Acciones<br/>Art. 281-294]
+    
+    B --> D[Capital dividido en<br/>PARTICIPACIONES]
+    C --> E[Capital dividido en<br/>ACCIONES]
+    
+    style B fill:#fff3e0
+    style C fill:#e1f5ff
+```
+
+### A. Sociedad en Comandita Simple (Arts. 278-280)
+
+#### Características
+
+| Aspecto | Detalle |
+|---------|---------|
+| **Capital** | Dividido en participaciones (no acciones) |
+| **Razón Social** | Nombre socios colectivos + "Sociedad en Comandita" o "S. en C." |
+| **Administración** | Solo socios colectivos |
+| **Transferencia** | Comanditarios: Libre; Colectivos: Consentimiento unánime |
+| **Aplicación supletoria** | Normas de S.R.L. y Sociedad Colectiva |
+
+#### Socios Colectivos
+
+- **Administran** la sociedad (salvo pacto contrario)
+- **Responden ilimitadamente** por deudas sociales
+- Pueden ser **personas naturales o jurídicas**
+- Nombre aparece en razón social
+
+#### Socios Comanditarios
+
+- **No administran** (Art. 279)
+- Responden **solo hasta su aporte** (responsabilidad limitada)
+- Pueden ser personas naturales o jurídicas
+- **No aparecen** en razón social
+
+**Sanción por administrar (Art. 279):** Si un comanditario administra sin estar autorizado, responderá **ilimitadamente** por las obligaciones contraídas en ese periodo.
+
+#### Ejemplo de Razón Social
+
+```
+"García y Rodríguez Sociedad en Comandita Simple"
+o
+"García y Rodríguez S. en C."
+
+Socios colectivos: García, Rodríguez (administran, responsabilidad ilimitada)
+Socios comanditarios: Pérez, Torres (solo aportan capital, responsabilidad limitada)
+```
+
+### B. Sociedad en Comandita por Acciones (Arts. 281-294)
+
+#### Características Distintivas
+
+Similar a la comandita simple, pero:
+
+| Aspecto | Comandita por Acciones |
+|---------|----------------------|
+| **Capital** | Dividido en **acciones** (negociables) |
+| **Órganos** | Requiere **Directorio** (mínimo 3 directores) |
+| **Administración** | Por Directorio y Gerencia |
+| **Comanditarios** | Pueden transferir acciones libremente |
+| **Aplicación supletoria** | Normas de S.A. |
+
+#### Particularidad: Directorio
+
+**Composición del Directorio (Art. 283):**
+- **Mayoría:** Socios colectivos o designados por ellos
+- **Minoría:** Puede incluir comanditarios
+
+**Razón:** Garantiza que los colectivos (con responsabilidad ilimitada) mantengan control de la gestión.
+
+#### Ejemplo Práctico
+
+**"Inversiones Mineras del Sur S. en C. por A."**
+
+```
+Capital social: S/ 5,000,000 (5,000,000 acciones de S/ 1.00 VN)
+
+Socios Colectivos (administradores):
+- Ing. Juan Minaya: 1,500,000 acciones (30%) - Responsabilidad ilimitada
+- Ing. Carlos Roca: 500,000 acciones (10%) - Responsabilidad ilimitada
+
+Socios Comanditarios (capitalistas):
+- Fondo de Inversión Alpha: 2,000,000 acciones (40%) - Responsabilidad limitada
+- Inversionistas varios: 1,000,000 acciones (20%) - Responsabilidad limitada
+
+Directorio: 5 directores
+- 3 designados por colectivos (Juan, Carlos, y un tercero)
+- 2 designados por comanditarios (representantes Fondo Alpha)
+```
+
+### Uso Actual en Perú
+
+**Sociedades en Comandita:** Extremadamente raras (menos de 0.5% del total de sociedades inscritas en SUNARP).
+
+**Razones del desuso:**
+- La S.A.C. y S.R.L. ofrecen responsabilidad limitada para todos
+- Complejidad innecesaria con dos clases de socios
+- Riesgo de responsabilidad ilimitada desincentiva
+
+## 👨‍⚖️ III. SOCIEDAD CIVIL (Arts. 295-303 LGS)
+
+### Concepto y Finalidad
+
+La **Sociedad Civil** es una forma societaria destinada al **ejercicio común de una profesión, oficio, pericia o práctica** (Art. 295 LGS). Es la forma societaria de los **profesionales liberales**.
+
+**Ejemplos típicos:**
+- Estudio de abogados
+- Consultorio médico asociado
+- Oficina de arquitectos
+- Estudio contable
+- Consultora de ingeniería
+
+### Características Generales
+
+| Aspecto | Detalle |
+|---------|---------|
+| **Finalidad** | Ejercicio profesional común |
+| **Ánimo de lucro** | Puede o no tenerlo (Art. 295) |
+| **Socios** | Mínimo 2 profesionales |
+| **Razón Social** | Nombres + "Sociedad Civil" o "S. Civil" |
+| **Duración** | Puede ser indefinida o determinada |
+| **Objeto** | Debe ser lícito y profesional |
+
+### Tipos de Sociedad Civil
+
+```mermaid
+graph LR
+    A[Sociedad Civil] --> B[Sociedad Civil Ordinaria<br/>Art. 295-298]
+    A --> C[Sociedad Civil de<br/>Responsabilidad Limitada<br/>Art. 299-303]
+    
+    B --> D[Responsabilidad<br/>ILIMITADA]
+    C --> E[Responsabilidad<br/>LIMITADA]
+    
+    style D fill:#ffcdd2
+    style E fill:#c8e6c9
+```
+
+### A. Sociedad Civil Ordinaria (Arts. 295-298)
+
+#### Responsabilidad de los Socios
+
+Los socios responden **personal y subsidiariamente**, con beneficio de excusión, por las obligaciones sociales (Art. 295).
+
+**Beneficio de excusión:** Los acreedores deben ejecutar **primero** el patrimonio social antes de ir contra los socios.
+
+**Diferencia con Sociedad Colectiva:**
+- Colectiva: Responsabilidad **solidaria** (acreedor puede ir contra cualquiera por el total)
+- Civil Ordinaria: Responsabilidad **mancomunada** (cada socio responde solo por su parte proporcional)
+
+#### Ejemplo de Responsabilidad
+
+```
+"Estudio Jurídico Pérez y Asociados Sociedad Civil"
+
+Socios:
+- Dr. Juan Pérez: 50%
+- Dra. María García: 30%
+- Dr. Carlos Torres: 20%
+
+Deuda con proveedor de libros: S/ 100,000
+Patrimonio social: S/ 40,000
+
+Procedimiento:
+1. Acreedor ejecuta patrimonio social: S/ 40,000
+2. Quedan S/ 60,000 pendientes
+3. Acreedor demanda a cada socio POR SU PARTE:
+   - Juan Pérez: S/ 30,000 (50% de S/ 60,000)
+   - María García: S/ 18,000 (30% de S/ 60,000)
+   - Carlos Torres: S/ 12,000 (20% de S/ 60,000)
+```
+
+#### Administración (Art. 296)
+
+- **Por defecto:** Todos los socios administran conjuntamente
+- **Delegada:** Puede designarse administradores en estatuto
+- **Decisiones:** Por mayoría de socios (salvo estatuto diga otra cosa)
+
+### B. Sociedad Civil de Responsabilidad Limitada (Arts. 299-303)
+
+#### Característica Principal
+
+Los socios **NO responden personalmente** por las deudas sociales (Art. 299). Su responsabilidad está **limitada al monto de sus aportes**.
+
+**Ventaja:** Protege el patrimonio personal de los profesionales.
+
+#### Razón Social (Art. 300)
+
+Debe incluir:
+- Nombre de uno o más socios
+- Indicación **"Sociedad Civil de Responsabilidad Limitada"** o **"S. Civil de R.L."**
+
+**Ejemplos:**
+```
+"Estudio Contable Ramírez y Asociados S. Civil de R.L."
+"Consultores Médicos del Norte S. Civil de R.L."
+"García & Pérez Arquitectos S. Civil de R.L."
+```
+
+#### Capital Social (Art. 301)
+
+- Dividido en **participaciones** (no acciones)
+- **Transferencia:** Requiere acuerdo de mayoría de socios (salvo estatuto establezca otra mayoría)
+- Aplicación supletoria: Normas de S.R.L.
+
+#### Comparación: Sociedad Civil Ordinaria vs. de R.L.
+
+| Aspecto | Civil Ordinaria | Civil de R.L. |
+|---------|----------------|---------------|
+| **Responsabilidad socios** | Ilimitada subsidiaria | Limitada al aporte |
+| **Siglas** | "S. Civil" | "S. Civil de R.L." |
+| **Capital** | No especificado | Dividido en participaciones |
+| **Transferencia** | Más flexible | Requiere acuerdo socios |
+| **Uso en Perú** | Raro | Más común |
+
+### Caso Práctico: Sociedad Civil de R.L.
+
+**Contexto:**
+Tres médicos especialistas deciden asociarse para abrir una clínica especializada.
+
+**Constitución:**
+- **Razón Social:** "Centro Médico Especializado Lima S. Civil de R.L."
+- **Socios:**
+  - Dr. Roberto Salazar (Cardiólogo): 40% - Aporte S/ 80,000
+  - Dra. Ana Morales (Neumóloga): 35% - Aporte S/ 70,000
+  - Dr. Luis Campos (Gastroenterólogo): 25% - Aporte S/ 50,000
+- **Capital Total:** S/ 200,000
+- **Objeto:** Servicios médicos especializados
+- **Administración:** Dr. Salazar (administrador designado)
+
+**Operación:**
+- Alquilan local médico: S/ 5,000/mes
+- Contratan personal: 2 enfermeras, 1 recepcionista
+- Compran equipos médicos a crédito: S/ 150,000
+
+**Problema:**
+Después de 6 meses, la clínica no genera ingresos suficientes. Adeudan S/ 180,000 al proveedor de equipos. El patrimonio social solo tiene S/ 30,000.
+
+**Solución:**
+- Proveedor ejecuta patrimonio social: S/ 30,000
+- Quedan S/ 150,000 pendientes
+- **Los médicos NO responden con patrimonio personal** (responsabilidad limitada)
+- Proveedor solo puede solicitar declaración de insolvencia de la sociedad
+
+**Ventaja:** Los tres médicos protegieron sus patrimonios personales.
+
+## 📊 IV. TABLA COMPARATIVA GENERAL
+
+| Característica | S.A. / S.A.C. | S.R.L. | Colectiva | Comandita | Civil Ordinaria | Civil de R.L. |
+|----------------|---------------|---------|-----------|-----------|-----------------|---------------|
+| **Responsabilidad** | Limitada | Limitada | Ilimitada | Mixta | Ilimitada subsidiaria | Limitada |
+| **Capital dividido en** | Acciones | Participaciones | Participaciones | Varía | Participaciones | Participaciones |
+| **Mín. socios** | 2 (SAC: 1) | 2 (máx. 20) | 2 | 2 | 2 | 2 |
+| **Transferencia** | Libre | Preferente | Unánime | Varía | Libre | Mayoría |
+| **Administración** | Directorio/Gerencia | Gerencia | Todos/Algunos | Colectivos | Todos/Algunos | Todos/Algunos |
+| **Finalidad** | Comercial | Comercial | Comercial | Comercial | Profesional | Profesional |
+| **Uso en Perú (2025)** | 75% | 20% | <0.5% | <0.5% | 1% | 3% |
+
+## 🏛️ V. INSCRIPCIÓN EN SUNARP
+
+### Documentos Requeridos (todas las formas)
+
+1. **Escritura Pública** de constitución
+2. **Pago de derechos registrales:**
+   - Sociedades comerciales: 0.96% UIT por cada S/ 10,000 de capital
+   - Sociedades civiles: 0.64% UIT por cada S/ 10,000 de capital
+3. **Comprobante de pago** de reserva de nombre (S/ 20.00)
+4. **Formato de solicitud** (Sistema SID-SUNARP)
+
+### Plazos de Inscripción
+
+- **Calificación:** 7 días hábiles desde presentación
+- **Observaciones:** 35 días para subsanar
+- **Inscripción efectiva:** 1-2 días después de aprobación
+
+## 📚 Conexiones con Otros Conceptos
+
+- [[concepto-sociedad]] - Elementos esenciales comunes
+- [[sociedad-anonima-concepto]] - Comparación con forma más común
+- [[sociedad-responsabilidad-limitada]] - Alternativa con responsabilidad limitada
+- [[disolucion-liquidacion]] - Fin del ciclo societario
+
+## 🔑 Referencias Normativas Clave
+
+- **Arts. 265-280 LGS:** Sociedad Colectiva
+- **Arts. 278-294 LGS:** Sociedades en Comandita
+- **Arts. 295-303 LGS:** Sociedades Civiles
+- **Código Civil Arts. 1764-1788:** Contrato de sociedad civil
+- **Reglamento SUNARP:** Inscripción de sociedades especiales
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿En qué se diferencia la responsabilidad de los socios en una Sociedad Colectiva vs. una Sociedad Civil Ordinaria?
+2. ¿Puede un socio comanditario administrar la sociedad en comandita? ¿Qué consecuencias tiene si lo hace?
+3. ¿Cuál es la principal diferencia entre una Sociedad en Comandita Simple y una por Acciones?
+4. ¿Por qué las Sociedades Colectivas y en Comandita son tan poco usadas en Perú actualmente?
+5. ¿Puede una Sociedad Civil tener ánimo de lucro? Fundamente con el artículo respectivo.
+6. Si un abogado y un contador quieren asociarse para ofrecer servicios, ¿qué tipo de sociedad les recomendaría? ¿Por qué?
+7. ¿Cómo se divide el capital social en una Sociedad Civil de R.L.?
+8. Si una Sociedad Colectiva debe S/ 500,000 y solo tiene S/ 100,000 de patrimonio, ¿cómo responden los socios?
+9. ¿Qué significa el "beneficio de excusión" en la Sociedad Civil Ordinaria?
+10. ¿Cuál es el porcentaje de sociedades inscritas en SUNARP que corresponde a Sociedades Colectivas en la actualidad?

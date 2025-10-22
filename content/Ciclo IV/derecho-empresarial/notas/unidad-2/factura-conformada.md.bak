@@ -1,0 +1,562 @@
+---
+title: "Factura Conformada"
+tags:
+  - derecho-empresarial
+  - titulos-valores
+  - ley-27287
+  - factura-conformada
+  - credito-comercial
+  - SUNAT
+aliases:
+  - Factura Negociable
+  - Crédito Comercial
+  - Factura Comercial
+  - Título Valor de Crédito
+---
+
+# Factura Conformada
+
+## 🎯 Concepto
+
+La **factura conformada** es un título valor que documenta y representa un **crédito comercial** originado en la compraventa de bienes muebles o prestación de servicios a plazo, emitida por el vendedor-acreedor y **conformada (aceptada) por el comprador-deudor** (Arts. 163-175 Ley N° 27287).
+
+Este título valor **instrumentaliza la deuda** del comprador, permitiendo al vendedor:
+- Tener un documento ejecutable judicialmente
+- **Descontar la factura** en entidades financieras (obtener liquidez inmediata)
+- **Endosar** el crédito a terceros
+
+**Particularidad peruana:** La factura conformada es ampliamente utilizada en el comercio nacional para **financiar capital de trabajo** mediante el descuento de facturas en bancos.
+
+## 📋 Marco Regulatorio Peruano
+
+| Norma | Artículos | Contenido |
+|-------|-----------|-----------|
+| **Ley N° 27287** | Arts. 163-175 | Factura conformada y negociable |
+| **Resolución SBS N° 1021-98** | Anexo 4 | Operaciones de descuento de facturas |
+| **TUO Ley IGV** | Arts. 4°-8° | Emisión de comprobantes de pago |
+| **Reglamento Comprobantes** | Arts. 6°-10° | Requisitos formales de facturas |
+| **SUNAT** | RCP 007-99/SUNAT | Facturas comerciales |
+
+## 📄 I. REQUISITOS ESENCIALES (Art. 164)
+
+### Requisitos Formales Obligatorios
+
+```mermaid
+mindmap
+  root((Factura<br/>Conformada))
+    Denominación
+      "FACTURA CONFORMADA"
+      Ubicación visible
+    Partes
+      Vendedor emisor
+      Comprador deudor
+    Operación
+      Descripción bienes/servicios
+      Precios unitarios
+      Cantidades
+    Valores
+      Importe total venta
+      Tributos IGV
+      Monto neto a pagar
+    Lugar y Fecha
+      Emisión
+      Vencimiento pago
+    Conformidad
+      Firma comprador
+      Sello empresa
+```
+
+La factura conformada debe contener (Art. 164):
+
+1. **Denominación:** "FACTURA CONFORMADA" de manera destacada
+2. **Nombre, numeración y domicilio:**
+   - Del vendedor (acreedor-emisor)
+   - Del comprador (deudor)
+3. **Descripción detallada:**
+   - Bienes vendidos o servicios prestados
+   - Precios unitarios
+   - Cantidad
+4. **Importe total de la venta:** Incluyendo IGV
+5. **Lugar y fecha de emisión**
+6. **Lugar y fecha de vencimiento** del pago
+7. **Modalidad del pago:** Contado o crédito (si es crédito, plazo)
+8. **Cláusula de intereses:** Si se pacta (tasa moratoria)
+9. **Firma del comprador** (conformidad) o de su representante autorizado
+10. **Firma del vendedor-emisor**
+
+### Modelo de Factura Conformada
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    FACTURA CONFORMADA                             ║
+║                                                                    ║
+║  VENDEDOR (Emisor):                    RUC: 20451236987          ║
+║  DISTRIBUIDORA IMPORTACIONES DEL NORTE SAC                       ║
+║  Av. Larco 1234, Miraflores - Lima                               ║
+║                                                                    ║
+║  COMPRADOR (Deudor):                   RUC: 20523698741          ║
+║  SUPERMERCADOS LA FAMILIA SRL                                    ║
+║  Jr. Huancayo 567, Cercado de Lima - Lima                        ║
+║                                                                    ║
+║  N° FACTURA: 001-0012458               FECHA: 10/04/2025         ║
+║  LUGAR EMISIÓN: Lima, Perú             VENCIMIENTO: 10/06/2025   ║
+║  FORMA DE PAGO: Crédito 60 días                                  ║
+║                                                                    ║
+║  ┌────────────────────────────────────────────────────────────┐  ║
+║  │ DESCRIPCIÓN          │ CANT │ P.UNIT │   SUBTOTAL          │  ║
+║  ├────────────────────────────────────────────────────────────┤  ║
+║  │ Arroz Superior 50kg  │ 200  │ 120.00 │    24,000.00        │  ║
+║  │ Azúcar Rubia 50kg    │ 150  │  95.00 │    14,250.00        │  ║
+║  │ Aceite Vegetal 1L    │ 300  │  12.00 │     3,600.00        │  ║
+║  │ Fideo Espagueti 500g │ 500  │   3.50 │     1,750.00        │  ║
+║  └────────────────────────────────────────────────────────────┘  ║
+║                                                                    ║
+║  SUB-TOTAL:                                        S/ 43,600.00   ║
+║  IGV (18%):                                        S/  7,848.00   ║
+║  ─────────────────────────────────────────────────────────────   ║
+║  TOTAL A PAGAR:                                    S/ 51,448.00   ║
+║                                                                    ║
+║  INTERESES MORATORIOS: 2% mensual por mora en el pago            ║
+║                                                                    ║
+║  ______________________________    ______________________________║
+║  Firma del VENDEDOR (Emisor)       Firma del COMPRADOR (Acepta) ║
+║  Juan Carlos Mendoza Ríos          Rosa María Vilchez Torres    ║
+║  Gerente General                   Gerente de Compras            ║
+║  DNI: 08745236                     DNI: 42563987                 ║
+║                                                                    ║
+║  SELLO:                            SELLO:                         ║
+║  [Sello Distribuidora]             [Sello Supermercados]         ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+## ✅ II. CONFORMIDAD (ACEPTACIÓN) - Art. 165
+
+### Concepto de Conformidad
+
+La **conformidad** es el acto mediante el cual el **comprador reconoce y acepta:**
+1. La recepción de los bienes o servicios
+2. Su conformidad con las especificaciones pactadas
+3. La obligación de pagar el importe en la fecha de vencimiento
+
+**Efectos jurídicos:**
+- Convierte la factura comercial en **título valor ejecutable**
+- El comprador se constituye en **deudor cambiario**
+- Genera **acción cambiaria** a favor del tenedor legítimo
+
+### Formas de Dar la Conformidad
+
+#### 1. Conformidad Expresa (Art. 165.1)
+
+El comprador **firma la factura** de puño y letra, indicando:
+- Fecha de conformidad
+- Sello de la empresa
+- Identificación del firmante (cargo, DNI)
+
+**Es la forma más común y recomendada.**
+
+#### 2. Conformidad Presunta (Art. 165.2)
+
+Se presume la conformidad cuando el comprador:
+- **Recibe los bienes** sin hacer observaciones
+- Transcurren **8 días hábiles** desde la recepción sin formular reclamo por escrito
+
+**Nota:** La presunción debe ser acreditada por el vendedor (guía de remisión firmada, comprobantes de entrega).
+
+#### 3. Conformidad por Contrato Marco (Art. 165.3)
+
+Cuando existe un **contrato de suministro** o relación comercial regular, se puede pactar que:
+- Todas las facturas se entiendan conformadas automáticamente al recibir las mercaderías
+- Sin necesidad de firma específica en cada factura
+- Debe constar en contrato escrito
+
+### Negativa de Conformidad (Art. 166)
+
+El comprador puede **negarse a dar la conformidad** en los siguientes casos:
+
+| Causal | Descripción | Efecto |
+|--------|-------------|--------|
+| **Bienes no conformes** | No cumplen especificaciones pactadas | Reclamo y observaciones por escrito |
+| **Cantidad incorrecta** | Menos unidades de las facturadas | Ajuste de factura o devolución |
+| **Servicios no prestados** | No se ejecutó el servicio facturado | Anulación de la factura |
+| **Vicios ocultos** | Defectos no detectables al momento | Reclamo dentro de 8 días |
+
+**Procedimiento:**
+1. Comprador notifica por **escrito** al vendedor (dentro de 8 días)
+2. Indica específicamente los defectos o incumplimientos
+3. Vendedor debe corregir o anular factura
+
+## 🔄 III. CIRCULACIÓN Y ENDOSO (Arts. 167-169)
+
+### Transmisión por Endoso
+
+La factura conformada es un **título valor a la orden**, por lo tanto:
+
+- ✅ **Puede endosarse** a terceros (bancos, factoring, otros proveedores)
+- ✅ **Transmite el crédito** al endosatario
+- ✅ **El endosante responde solidariamente** del pago
+
+### Endoso para Descuento Bancario
+
+```mermaid
+sequenceDiagram
+    participant V as Vendedor<br/>(Tenedor)
+    participant B as Banco<br/>(Endosatario)
+    participant C as Comprador<br/>(Deudor)
+    
+    V->>B: 1. Presenta factura conformada<br/>Endoso en propiedad
+    B->>B: 2. Evalúa riesgo crediticio<br/>del comprador
+    B->>V: 3. Anticipa fondos (70-90%)<br/>Descuenta intereses
+    Note over V,B: Vendedor obtiene liquidez inmediata
+    
+    C->>B: 4. Al vencimiento:<br/>Comprador paga al banco
+    B->>V: 5. Liquida saldo (si hay)
+    
+    alt Comprador no paga
+        B->>V: 6. Ejerce acción de regreso<br/>contra endosante
+    end
+```
+
+**Ejemplo numérico de descuento:**
+
+```
+Valor factura conformada:        S/ 51,448.00
+Vencimiento:                      60 días
+Tasa descuento bancaria:          18% anual (1.5% mensual)
+Días adelantados:                 60 días (2 meses)
+
+Intereses descontados:
+  S/ 51,448 × 1.5% × 2 = S/ 1,543.44
+
+Comisión bancaria (0.5%):         S/ 257.24
+───────────────────────────────────────────
+Total descuentos:                 S/ 1,800.68
+
+NETO RECIBIDO POR VENDEDOR:       S/ 49,647.32
+```
+
+El vendedor recibe S/ 49,647.32 de inmediato (liquidez), en lugar de esperar 60 días.
+
+### Responsabilidad Solidaria (Art. 169)
+
+Al endosar la factura conformada:
+
+- **Endosante (vendedor)** responde solidariamente si el comprador no paga
+- **Banco puede accionar** contra comprador (deudor principal) o vendedor (obligado de regreso)
+- **Prescripción de acción:** 3 años desde vencimiento (Art. 168)
+
+## 📅 IV. VENCIMIENTO Y PAGO (Arts. 170-171)
+
+### Formas de Vencimiento (Art. 170)
+
+La factura conformada puede tener las siguientes modalidades de vencimiento:
+
+#### 1. A Fecha Fija
+
+**Ejemplo:** "Vencimiento: 10 de junio de 2025"
+
+Es la modalidad más común en el comercio.
+
+#### 2. A Cierto Plazo desde la Fecha de Emisión
+
+**Ejemplo:** "Vencimiento: 60 días desde la emisión (10/04/2025)"
+
+Vence el 09/06/2025.
+
+#### 3. A Cierto Plazo desde la Fecha de Conformidad
+
+**Ejemplo:** "Vencimiento: 30 días desde la conformidad"
+
+Si se conformó el 15/04/2025, vence el 15/05/2025.
+
+### Plazo Máximo (Art. 171)
+
+La Ley establece un **plazo máximo de 1 año** desde la fecha de emisión para el vencimiento de la factura conformada.
+
+**Razón:** Evitar que se utilice como instrumento de crédito de largo plazo (para eso existen bonos, pagarés de largo plazo, etc.).
+
+**Si se fija plazo mayor a 1 año:** Se considera automáticamente reducido a 1 año.
+
+### Pago (Art. 172)
+
+El **pago debe hacerse**:
+
+- En el **domicilio del comprador** (salvo pacto distinto)
+- En la **fecha de vencimiento** indicada
+- Al **tenedor legítimo** del título (quien lo porte con cadena de endosos)
+
+**Medios de pago aceptados:**
+- Efectivo (poco común por montos altos)
+- Transferencia bancaria
+- Cheque de gerencia
+- Compensación (si existe deuda recíproca)
+
+## 💰 V. INTERESES (Art. 173)
+
+### Intereses Compensatorios
+
+Son los intereses que **remuneren el crédito** otorgado durante el plazo.
+
+**Ejemplo:**
+```
+Valor venta (sin IGV):        S/ 43,600.00
+Plazo:                        90 días
+Tasa interés compensatorio:   12% anual
+
+Intereses = S/ 43,600 × 12% × (90/360) = S/ 1,308.00
+
+TOTAL A PAGAR AL VENCIMIENTO:  S/ 51,448.00 + S/ 1,308.00 = S/ 52,756.00
+```
+
+### Intereses Moratorios (Art. 173)
+
+Son los intereses que se generan por **retraso en el pago** después del vencimiento.
+
+**Características:**
+- Tasa debe estar **expresamente pactada** en la factura
+- Si no se pactó, aplica **interés legal** (fijado por el BCR)
+- Se calculan sobre el **monto total adeudado** (capital + intereses compensatorios)
+- Generan responsabilidad solidaria del endosante
+
+**Tasa de interés moratorio civil (2025):** Aproximadamente 3% mensual (36% anual) según BCR.
+
+**Cláusula típica:**
+> "En caso de mora, se aplicará un interés moratorio del 2% mensual sobre el saldo adeudado."
+
+**Ejemplo de mora:**
+```
+Monto vencido:                S/ 51,448.00
+Días de mora:                 30 días (1 mes)
+Tasa interés moratorio:       2% mensual
+
+Interés moratorio:
+  S/ 51,448 × 2% = S/ 1,028.96
+
+TOTAL ADEUDADO:               S/ 52,476.96
+```
+
+## ⚖️ VI. ACCIONES CAMBIARIAS (Arts. 174-175)
+
+### Acción Cambiaria Directa
+
+El **tenedor legítimo** de la factura conformada puede ejercer acción cambiaria directa contra:
+
+1. **Comprador (obligado principal):** Quien firmó la conformidad
+2. **Avalistas** (si los hay)
+
+**Requisitos:**
+- Factura conformada (firmada)
+- Vencimiento del plazo
+- Falta de pago
+
+**Proceso:**
+- **Vía:** Proceso Único de Ejecución (muy rápido)
+- **Plazo:** Aproximadamente 3-6 meses hasta sentencia
+- **Efectos:** Embargo de cuentas, inmuebles, garantías
+
+### Acción Cambiaria de Regreso
+
+El tenedor puede ejercer acción de regreso contra:
+
+1. **Endosantes anteriores** (vendedor original y sucesivos)
+2. **Avalistas de los endosantes**
+
+**Requisitos adicionales:**
+- **Protesto** o formalidad sustitutoria (Art. 84)
+- O cláusula "sin protesto" en la factura
+
+**Responsabilidad solidaria:** Todos los endosantes responden solidariamente por el total.
+
+### Protesto de Factura Conformada
+
+El **protesto** (o formalidad sustitutoria) debe realizarse:
+
+- Dentro de los **8 días hábiles** siguientes al vencimiento (Art. 174)
+- Ante **notario público** o **juez de paz**
+- Contenido: Constancia de falta de pago con fecha exacta
+
+**Formalidad sustitutoria (más común):**
+- Certificado bancario de **cuenta cerrada** o **fondos insuficientes**
+- Declaración de no pago emitida por cámara de compensación
+
+## 🏢 VII. FACTORING Y DESCUENTO DE FACTURAS
+
+### El Factoring en Perú
+
+El **factoring** es una operación financiera mediante la cual una empresa (cliente) transfiere sus facturas conformadas pendientes de cobro a una entidad especializada (factor), quien adelanta el importe de las facturas a cambio de una comisión.
+
+```mermaid
+graph LR
+    A[Vendedor<br/>con facturas] --> B[Empresa Factoring]
+    B --> C[Anticipa 80-95%<br/>del valor]
+    C --> A
+    D[Comprador] --> B
+    B --> E[Cobra facturas<br/>al vencimiento]
+    E --> B
+    B --> A
+    
+    style B fill:#e1f5ff
+    style C fill:#c8e6c9
+```
+
+### Tipos de Factoring
+
+#### 1. Factoring con Recurso
+
+- **Riesgo de incobrabilidad:** Asumido por el vendedor (cliente)
+- Si comprador no paga, el factor **cobra al vendedor**
+- **Costo:** Menor (10-18% anual)
+
+#### 2. Factoring sin Recurso
+
+- **Riesgo de incobrabilidad:** Asumido por el factor
+- Si comprador no paga, el factor **asume la pérdida**
+- **Costo:** Mayor (20-30% anual)
+- Requiere evaluación crediticia exhaustiva del comprador
+
+### Principales Empresas de Factoring en Perú (2025)
+
+- **BCP Factoring**
+- **BBVA Factoring**
+- **Interbank Factoring**
+- **Factoring Total**
+- **Quantum Factoring**
+
+### Ventajas del Factoring
+
+- ✅ Liquidez inmediata (mejora flujo de caja)
+- ✅ No incrementa pasivo (no es deuda)
+- ✅ Terceriza cobranza
+- ✅ Reduce riesgo de incobrabilidad (si es sin recurso)
+
+### Asientos Contables del Factoring (con recurso)
+
+**En el Vendedor (al vender facturas):**
+
+```
+------------------------- x -------------------------
+10 EFECTIVO Y EQUIV.               49,000
+67 GASTOS FINANCIEROS               2,448
+    12 CUENTAS POR COBRAR COM.         51,448
+Por venta de factura conformada a empresa factoring
+Importe factura S/ 51,448, anticipo 95% menos comisión 3%
+------------------------- x -------------------------
+```
+
+**Al vencimiento (si comprador paga):**
+
+```
+No hay asiento adicional (operación cerrada)
+```
+
+**Si comprador NO paga (factoring con recurso):**
+
+```
+------------------------- x -------------------------
+12 CUENTAS POR COBRAR COM.         51,448
+    10 EFECTIVO Y EQUIV.                51,448
+Por recuperación de factura impaga, devolvemos fondos
+------------------------- x -------------------------
+```
+
+## 📊 VIII. CASO PRÁCTICO INTEGRAL
+
+### Contexto
+
+**Vendedor:** "Importadora Textil del Sur SAC" (RUC: 20451236987)  
+**Comprador:** "Confecciones Andinas EIRL" (RUC: 20368745123)  
+
+**Operación:** Venta de 5,000 metros de tela denim a crédito 90 días.
+
+### Operación Comercial (10/03/2025)
+
+```
+Tela denim 5,000 metros × S/ 25.00/metro = S/ 125,000.00
+IGV (18%):                                   S/  22,500.00
+─────────────────────────────────────────────────────────
+TOTAL FACTURA:                               S/ 147,500.00
+
+Forma de pago: Crédito 90 días
+Vencimiento: 08/06/2025
+Interés compensatorio: 0% (incluido en precio)
+Interés moratorio: 2% mensual
+```
+
+### Emisión y Conformidad (15/03/2025)
+
+- Importadora Textil emite factura conformada N° 001-00458
+- Confecciones Andinas recibe tela el 15/03/2025
+- Gerente de Confecciones **firma conformidad** en la factura
+
+### Descuento en Banco (20/03/2025)
+
+Importadora Textil decide descontar la factura en el BCP:
+
+```
+Valor factura:                    S/ 147,500.00
+Días hasta vencimiento:           80 días
+Tasa descuento BCP:               15% anual (1.25% mensual)
+Comisión:                         0.8%
+
+Intereses = S/ 147,500 × 15% × (80/360) = S/ 4,916.67
+Comisión  = S/ 147,500 × 0.8%            = S/ 1,180.00
+──────────────────────────────────────────────────────
+Total descuentos:                          S/ 6,096.67
+
+NETO RECIBIDO:                             S/ 141,403.33
+```
+
+Importadora Textil recibe **S/ 141,403.33 de inmediato** (mejora su capital de trabajo).
+
+### Vencimiento y Pago (08/06/2025)
+
+**Escenario A - Pago Normal:**
+
+Confecciones Andinas paga al BCP los S/ 147,500.00 al vencimiento.
+
+- **BCP:** Cobró su anticipo + intereses (operación cerrada)
+- **Importadora:** Ya recibió S/ 141,403.33 (operación cerrada)
+- **Confecciones:** Pagó su deuda (liberada)
+
+**Escenario B - Mora de 30 días:**
+
+Confecciones Andinas paga recién el 08/07/2025 (30 días tarde).
+
+```
+Monto adeudado:                   S/ 147,500.00
+Interés moratorio (2% × 1 mes):   S/   2,950.00
+─────────────────────────────────────────────
+TOTAL A PAGAR:                    S/ 150,450.00
+```
+
+**Responsables solidarios:**
+1. Confecciones Andinas (deudor principal)
+2. Importadora Textil (endosante)
+
+El BCP cobra a Confecciones Andinas. Si no paga, acciona contra Importadora Textil (acción de regreso).
+
+## 📚 Conexiones con Otros Conceptos
+
+- [[endoso-titulos-valores]] - Mecanismo de circulación de facturas
+- [[clausulas-especiales-garantias]] - Cláusula de intereses
+- [[letra-cambio-concepto]] - Título valor similar con aceptación
+- [[sistemas-informacion-empresarial]] - Registro contable de facturas
+
+## 🔑 Referencias Normativas Clave
+
+- **Arts. 163-175 Ley N° 27287:** Factura conformada
+- **Resolución SBS N° 1021-98:** Descuento de facturas
+- **TUO Ley IGV:** Emisión de comprobantes de pago
+- **RCP 007-99/SUNAT:** Facturas comerciales
+
+## ❓ Preguntas de Autoevaluación
+
+1. ¿Cuál es la diferencia entre una factura comercial y una factura conformada?
+2. ¿Qué significa la "conformidad" en una factura conformada y qué efectos tiene?
+3. ¿Puede el comprador negarse a dar la conformidad? ¿En qué casos?
+4. ¿Cuál es el plazo máximo de vencimiento que puede tener una factura conformada según la Ley 27287?
+5. Explique cómo funciona el descuento de facturas en un banco.
+6. ¿Qué es el factoring con recurso y en qué se diferencia del factoring sin recurso?
+7. Si una factura conformada por S/ 100,000 tiene un interés moratorio del 2% mensual y se paga 45 días tarde, ¿cuánto se debe pagar en total?
+8. ¿Contra quiénes puede ejercer acción cambiaria el banco que descontó una factura conformada?
+9. ¿Es obligatorio protestar una factura conformada para ejercer acción de regreso contra los endosantes?
+10. ¿Qué ventaja principal obtiene un vendedor al descontar sus facturas conformadas en lugar de esperar el vencimiento?

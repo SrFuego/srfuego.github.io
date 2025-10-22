@@ -1,0 +1,969 @@
+---
+title: El Pagaré
+tags:
+  - pagare
+  - titulos-valores
+  - promesa-pago
+  - credito
+aliases:
+  - Pagaré
+  - Nota de crédito
+  - Vale
+---
+
+# El Pagaré
+
+## Definición
+
+> **Título valor** que contiene la **promesa incondicional** de pagar una suma determinada de dinero, realizada por el emitente a favor del beneficiario, en el lugar y fecha especificados.
+
+---
+
+## Diferencia Fundamental con la Letra de Cambio
+
+| Aspecto | Pagaré | [[letra-cambio-concepto\|Letra de Cambio]] |
+|---------|--------|------------------------|
+| **Naturaleza** | **Promesa** de pago | **Orden** de pago |
+| **Sujetos** | 2 (emitente y beneficiario) | 3 (librador, girado, tomador) |
+| **Obligado principal** | Emitente (desde el inicio) | Girado (solo tras aceptación) |
+| **Requiere aceptación** | ❌ No | ✅ Sí (para obligar al girado) |
+
+**Clave conceptual:**
+- **Letra:** "Tú (girado) pagarás"
+- **Pagaré:** "Yo (emitente) pagaré"
+
+---
+
+## Sujetos Intervinientes
+
+### 1. Emitente (Suscriptor)
+
+**Rol:** Quien crea el pagaré y promete pagar
+
+**Obligaciones:**
+- Es el **obligado principal y directo** desde la emisión
+- Debe pagar al vencimiento
+- Responde solidariamente con endosantes (si los hay)
+
+**Diferencia con librador de letra:**
+- No necesita que tercero "acepte"
+- Su obligación nace con la firma del título
+
+### 2. Beneficiario (Tomador/Tenedor)
+
+**Rol:** A cuyo favor se emite el pagaré
+
+**Derechos:**
+- Exigir el pago al vencimiento
+- [[endoso-titulos-valores|Endosar]] el pagaré
+- Ejercer acciones cambiarias
+- Protestar por falta de pago
+
+### 3. Endosantes (Eventuales)
+
+- Quienes transmiten el pagaré mediante [[endoso-propiedad|endoso]]
+- Responden solidariamente si el emitente no paga
+
+---
+
+## Requisitos Formales Esenciales (Art. 154 LTV)
+
+1. ✅ **Denominación "PAGARÉ"**
+   ```
+   "PAGARÉ"
+   ```
+
+2. ✅ **Promesa incondicional** de pagar suma determinada
+   ```
+   "Prometo pagar incondicionalmente a la orden de..."
+   ```
+
+3. ✅ **Indicación del vencimiento**
+   - Si se omite: pagadero **a la vista**
+   - Formas: fecha fija, a la vista, a cierto plazo
+
+4. ✅ **Nombre del beneficiario**
+   ```
+   "A la orden de: Juan Pérez García"
+   ```
+
+5. ✅ **Lugar y fecha de emisión**
+   ```
+   "Lima, 15 de abril de 2025"
+   ```
+
+6. ✅ **Lugar de pago**
+   - Si se omite: domicilio del emitente
+
+7. ✅ **Firma del emitente**
+   - Manuscrita o mecánica autorizada
+   - Requisito indispensable
+
+---
+
+## Modelo de Pagaré
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                        PAGARÉ                            │
+│                                                          │
+│  Por el presente PAGARÉ prometo pagar incondicionalmente│
+│  a la orden de:                                          │
+│  Sr./Sra.: MARÍA ELENA TORRES VEGA                      │
+│  DNI: 12345678                                           │
+│                                                          │
+│  La suma de S/ 30,000.00 (Treinta mil y 00/100 Soles)   │
+│  Con intereses compensatorios del 10% anual             │
+│                                                          │
+│  Vencimiento: 30 de julio de 2025                        │
+│  Lugar de pago: Lima, Perú                               │
+│                                                          │
+│  Lima, 30 de abril de 2025                               │
+│                                                          │
+│  ________________________                                │
+│  CARLOS RAMÍREZ SANTOS                                   │
+│  Emitente                                                │
+│  DNI: 87654321                                           │
+│  Domicilio: Av. Arequipa 456, Lima                       │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Formas de Vencimiento
+
+### 1. A Fecha Fija
+
+```
+"Vencimiento: 30 de diciembre de 2025"
+```
+- Día calendario específico
+- La más común en la práctica
+
+### 2. A la Vista
+
+```
+"Pagadero a la vista"
+```
+- Se paga al momento de presentarse
+- Si no se indica vencimiento: se presume a la vista
+
+### 3. A Cierto Plazo de su Emisión
+
+```
+"A 90 días fecha"
+"A 3 meses de su emisión"
+```
+- Se cuenta desde la fecha de emisión del pagaré
+
+---
+
+## Cláusulas Especiales Frecuentes
+
+### 1. Intereses
+
+**Compensatorios:**
+```
+"Con intereses compensatorios del 8% anual desde la emisión"
+```
+- Retribuyen el uso del capital prestado
+- Se generan desde la emisión hasta el vencimiento
+- Son pactables libremente
+
+**Moratorios:**
+```
+"Con intereses moratorios del 2% mensual desde el vencimiento"
+```
+- Sancionan el retraso en el pago
+- Se generan desde el vencimiento hasta el pago efectivo
+- Son pactables, pero no pueden ser usurarios
+
+**Tasas de Interés Legal en Perú - BCR 2025:**
+
+| Tipo de interés | Tasa anual | Tasa mensual | Tasa diaria |
+|-----------------|------------|--------------|-------------|
+| **Interés legal** (Art. 1244 CC) | 8.00% | 0.67% | 0.022% |
+| **Interés moratorio** (Art. 1246 CC) | 24.00% | 2.00% | 0.067% |
+
+**Fuente:** Banco Central de Reserva del Perú (BCR) - Circular actualizada enero 2025
+
+**¿Cuándo aplican las tasas legales?**
+- Cuando el pagaré **NO especifica tasa de interés**
+- Judicialmente, si el juez las aplica por omisión del acreedor
+- Automáticamente desde la mora (si no se pactó tasa moratoria)
+
+**Ejemplo de cálculo - Contexto Peruano:**
+
+```
+Pagaré: S/ 30,000
+Vencimiento: 30 de abril de 2025
+Fecha de pago efectivo: 30 de julio de 2025 (90 días de retraso)
+Tasa moratoria pactada: 2% mensual
+```
+
+**Cálculo:**
+- Capital: S/ 30,000
+- Días de mora: 90 días = 3 meses
+- Intereses moratorios: S/ 30,000 x 2% x 3 = **S/ 1,800**
+- **Monto total a pagar:** S/ 31,800
+
+**Si NO se pactó interés moratorio (aplica tasa legal):**
+- Tasa legal moratoria: 2% mensual (BCR)
+- Intereses legales: S/ 30,000 x 2% x 3 = **S/ 1,800**
+- **Resultado idéntico en este caso**
+
+### 2. Sin Protesto
+
+```
+"Sin protesto"
+```
+- Exime de la obligación de protestar formalmente
+- Facilita las acciones de cobro
+
+### 3. Cláusula Penal
+
+```
+"En caso de incumplimiento se aplicará una penalidad del 10% del monto"
+```
+
+---
+
+## Circulación del Pagaré
+
+### Transmisión por Endoso
+
+El pagaré es un **título a la orden** por naturaleza:
+- Se transmite mediante [[endoso-propiedad|endoso + entrega]]
+- Cada endosante responde solidariamente
+- Crea cadena de responsabilidad
+
+**Ejemplo de cadena:**
+```
+Emitente → Beneficiario → Endosatario A → Endosatario B → Tenedor Final
+```
+
+**Responsabilidad:**
+- Si el Emitente NO paga, el Tenedor Final puede demandar a:
+  - Emitente (obligado principal)
+  - Beneficiario (si endosó)
+  - Endosatario A (si endosó)
+  - Endosatario B (si endosó)
+
+---
+
+## Pago del Pagaré
+
+### Presentación para el Pago
+
+- Debe presentarse el **día del vencimiento** o días hábiles siguientes
+- Lugar: Domicilio del emitente (salvo pacto distinto)
+
+### Pago Parcial
+
+- El emitente puede realizar pagos parciales
+- El tenedor debe aceptarlos
+- Se anota el pago parcial al reverso del pagaré
+
+### Devolución del Pagaré
+
+- Una vez pagado **totalmente**, el pagaré debe:
+  - Devolverse al emitente
+  - Cancelarse (anotación "PAGADO" + firma)
+
+---
+
+## Protesto del Pagaré
+
+### Finalidad
+
+Dejar constancia del **rechazo de pago** para:
+- Conservar acciones cambiarias de regreso
+- Evidencia para procesos judiciales
+- Requisito para acciones contra endosantes
+
+### Plazo
+
+- **8 días hábiles** siguientes al vencimiento o rechazo (Art. 78 LTV)
+
+### Excepción
+
+- Si tiene cláusula **"sin protesto"**: no es necesario protestar
+- Acciones de regreso se conservan automáticamente
+
+### Procedimiento de Protesto Notarial en Perú
+
+```mermaid
+flowchart TD
+    A[Vencimiento pagaré sin pago] --> B{¿Tiene cláusula 'sin protesto'?}
+    B -->|SÍ| C[NO requiere protesto<br/>Acción directa]
+    B -->|NO| D[Tenedor acude a notario<br/>dentro de 8 días hábiles]
+    D --> E[Notario presenta pagaré<br/>en domicilio del deudor]
+    E --> F{¿Deudor paga?}
+    F -->|SÍ| G[Recibo pago<br/>Devuelve pagaré<br/>FIN]
+    F -->|NO| H[Notario levanta acta<br/>de protesto por falta de pago]
+    H --> I[Notario devuelve pagaré<br/>con constancia protesto]
+    I --> J[Tenedor conserva acciones<br/>contra todos los obligados]
+    
+    style A fill:#ffcccc
+    style C fill:#d4edda
+    style G fill:#d4edda
+    style H fill:#fff3cd
+    style J fill:#d1ecf1
+```
+
+**Costos protesto notarial Lima 2025:**
+
+| Concepto | Rango de costo |
+|----------|----------------|
+| **Derechos notariales** | S/ 80 - S/ 120 |
+| **Traslado del notario** | S/ 50 - S/ 80 |
+| **Acta de protesto** | S/ 30 - S/ 50 |
+| **Certificaciones adicionales** | S/ 20 c/u |
+| **Total aproximado** | **S/ 180 - S/ 270** |
+
+**Observación:** Estos costos se agregan a la deuda y son recuperables del deudor
+
+---
+
+## Función Económica del Pagaré
+
+### 1. Instrumento de Crédito Directo
+
+- Formaliza un préstamo o crédito
+- El deudor reconoce expresamente la deuda
+
+**Caso típico:**
+```
+Banco presta S/ 50,000 a Empresa X
+Empresa X emite pagaré a favor del Banco
+El pagaré es título ejecutivo para cobro rápido
+```
+
+### 2. Garantía Documentaria
+
+- Documenta obligaciones de pago
+- Facilita la ejecución judicial (proceso rápido)
+
+### 3. Instrumento Negociable
+
+- Puede ser [[endoso-propiedad|endosado]] o [[endoso-garantia|dado en garantía]]
+- Puede descontarse en instituciones financieras
+
+---
+
+## Ventajas del Pagaré
+
+### Vs. Contrato de Préstamo Simple
+
+| Aspecto | Pagaré | Contrato Simple |
+|---------|--------|-----------------|
+| **Prueba de la deuda** | Título ejecutivo | Documento privado |
+| **Proceso de cobro** | Ejecutivo (rápido) | Ordinario (lento) |
+| **Transferibilidad** | Por endoso (fácil) | Por cesión (complejo) |
+| **Presunción legal** | Debe pagarse | Debe probarse la deuda |
+
+### Para el Acreedor
+
+✅ **Título ejecutivo:** Proceso de cobro simplificado
+✅ **Negociable:** Puede endosarlo o descontarlo
+✅ **Solidaridad:** Responsabilidad de endosantes
+✅ **Prueba documental:** Reconocimiento expreso de deuda
+
+### Para el Deudor
+
+✅ **Simplicidad:** Menos requisitos que letra de cambio
+✅ **Certeza:** Términos claros de pago
+✅ **Flexibilidad:** Puede pactar plazos
+
+---
+
+## Diferencias: Pagaré vs. Factura Conformada
+
+| Aspecto | Pagaré | [[factura-conformada\|Factura Conformada]] |
+|---------|--------|--------------------------|
+| **Origen** | Cualquier relación crediticia | Solo compraventa de bienes/servicios |
+| **Naturaleza** | Abstracto | Causal (ligado a la compraventa) |
+| **Requisitos** | Título autónomo | Requiere factura comercial subyacente |
+| **Circulación** | Amplia | Más limitada |
+
+---
+
+## Plazos de Prescripción
+
+| Acción | Plazo |
+|--------|-------|
+| **Acción directa** (contra emitente) | 3 años desde vencimiento |
+| **Acción de regreso** (contra endosantes) | 1 año desde protesto o vencimiento |
+| **Acción de regreso** (entre endosantes) | 6 meses desde que pagó |
+
+---
+
+## Tratamiento Tributario SUNAT - Perú
+
+### Impuesto a la Renta (IR)
+
+**Para el acreedor (quien presta):**
+
+Los **intereses percibidos** son renta gravada:
+
+| Tipo persona | Régimen | Tasa IR |
+|--------------|---------|---------|
+| **Persona Natural** | Rentas de 2da categoría | **6.25%** retención definitiva |
+| **Persona Jurídica** | Renta empresarial | **29.5%** anual sobre utilidad |
+
+**Ejemplo - Persona Natural:**
+- Intereses compensatorios percibidos: S/ 5,000
+- Retención IR (6.25%): S/ 312.50
+- Neto a recibir: S/ 4,687.50
+
+**Para el deudor (quien paga):**
+
+Los **intereses pagados** son:
+- ❌ **NO deducibles** para personas naturales
+- ✅ **Deducibles como gasto** para empresas (si cumplen criterios causalidad, generalidad, devengado)
+
+**Criterios de deducibilidad empresarial:**
+1. Causalidad: El préstamo debe generar renta gravada o mantener fuente
+2. Fehaciencia: Debe existir el pagaré como sustento
+3. Tasa razonable: No puede exceder tasa de mercado
+
+### Impuesto General a las Ventas (IGV)
+
+⚠️ Los intereses y operaciones con pagarés **NO están gravados con IGV**
+
+Fundamento: Art. 2° Ley IGV - Las operaciones financieras están inafectas
+
+### Obligaciones Formales SUNAT
+
+**Registro contable:**
+
+Emisor del pagaré (deudor):
+```
+ASIENTO - Al emitir pagaré
+------------------------------
+46 CUENTAS POR PAGAR DIVERSAS - TERCEROS     30,000
+    465 Pagarés
+    10 EFECTIVO Y EQUIVALENTES DE EFECTIVO              30,000
+        104 Cuentas corrientes
+
+ASIENTO - Al vencer con intereses
+------------------------------
+46 CUENTAS POR PAGAR DIVERSAS - TERCEROS     30,000
+67 GASTOS FINANCIEROS                         1,800
+    673 Intereses por préstamos
+    10 EFECTIVO Y EQUIVALENTES                          31,800
+```
+
+Tenedor del pagaré (acreedor):
+```
+ASIENTO - Al recibir pagaré
+------------------------------
+12 CUENTAS POR COBRAR COMERCIALES - TERCEROS  30,000
+    123 Letras (o subcuenta pagarés)
+    10 EFECTIVO Y EQUIVALENTES                          30,000
+
+ASIENTO - Al cobrar con intereses
+------------------------------
+10 EFECTIVO Y EQUIVALENTES                    31,800
+    12 CUENTAS POR COBRAR COMERCIALES                   30,000
+    77 INGRESOS FINANCIEROS                              1,800
+        772 Rendimientos ganados
+```
+
+**Libro de Inventarios y Balances:**
+- Los pagarés deben detallarse en el rubro "Cuentas por Cobrar Comerciales" o "Cuentas por Pagar Diversas"
+
+**Registro de Compras/Ventas:**
+- ❌ NO se registran pagarés (no son compraventa de bienes/servicios)
+
+### Proceso Único de Ejecución en Perú
+
+**Marco legal:** Código Procesal Civil - Arts. 688-703
+
+```mermaid
+flowchart TD
+    A[Pagaré impago + protesto<br/>o sin protesto] --> B[Demanda ante Juzgado<br/>Civil/Comercial]
+    B --> C[Admisión demanda<br/>Plazo: 5 días]
+    C --> D[Notificación al ejecutado<br/>+  Mandato ejecutivo]
+    D --> E{Ejecutado tiene 5 días}
+    E -->|Paga| F[FIN - Pago total<br/>+ costas]
+    E -->|Contradice| G[Puede alegar solo excepciones<br/>taxativas Art. 690-6 CPC]
+    G --> H[Audiencia única<br/>Plazo: 10 días]
+    H --> I{¿Excepción fundada?}
+    I -->|SÍ| J[Sentencia desestima<br/>ejecución]
+    I -->|NO| K[Sentencia ordena<br/>remate de bienes]
+    E -->|No hace nada| K
+    K --> L[Embargo y remate<br/>de bienes del deudor]
+    L --> M[Pago al acreedor<br/>+ intereses + costas]
+    
+    style A fill:#ffcccc
+    style F fill:#d4edda
+    style J fill:#fff3cd
+    style M fill:#d4edda
+```
+
+**Excepciones que el deudor puede alegar (Art. 690-6 CPC):**
+
+1. ✅ Inexigibilidad o iliquidez de la obligación
+2. ✅ Nulidad formal o falsedad del título
+3. ✅ Extinción de la obligación (pago, prescripción, novación, etc.)
+4. ❌ NO puede alegar defensas del contrato subyacente (principio de abstracción)
+
+**Costos aproximados proceso único Lima 2025:**
+
+| Concepto | Costo |
+|----------|-------|
+| **Arancel judicial** | 5.69% UIT x capital ejecutado |
+| **Tasa judicial demanda** | S/ 424 (1 UIT) |
+| **Notificaciones** | S/ 150 - S/ 300 |
+| **Honorarios abogado** | 10-20% del monto recuperado |
+| **Embargo y remate** | 3% del valor rematado |
+
+**Ejemplo - Pagaré S/ 50,000:**
+- Arancel: 5.69% UIT x 50,000 = S/ 2,845
+- Tasa judicial: S/ 424
+- Notificaciones: S/ 200
+- **Subtotal costas recuperables:** S/ 3,469
+- Honorarios abogado (15%): S/ 7,500
+- **Total inversión acreedor:** S/ 10,969 (recuperable del deudor)
+
+**Duración promedio:**
+- **Sin contradicción:** 3-4 meses
+- **Con contradicción:** 6-12 meses
+- **Con apelación:** 18-24 meses
+
+## Aplicaciones Prácticas Comunes en Perú
+
+### 1. Préstamos Personales/Empresariales
+
+```
+Acreedor: Banco / Empresa financiera / Prestamista particular
+Deudor: Persona natural / jurídica
+Pagaré: Documenta el préstamo con título ejecutivo
+```
+
+**Ventaja fiscal:** Intereses deducibles para empresas
+
+### 2. Financiamiento de Proveedores (Capital de Trabajo)
+
+```
+Proveedor vende mercadería a crédito S/ 80,000
+Comprador emite pagaré a 90 días
+Proveedor puede descontar el pagaré en banco
+Banco adelanta el 85% (S/ 68,000) y cobra comisión
+```
+
+**Ventaja:** Proveedor obtiene liquidez inmediata
+
+### 3. Fraccionamiento de Deudas (Facilidades de Pago)
+
+```
+Deuda total: S/ 100,000
+Se emiten 10 pagarés de S/ 10,000 c/u
+Con vencimientos mensuales progresivos
+```
+
+**Ventaja:** Deudor evita demanda judicial, acreedor asegura cobro escalonado
+
+### 4. Garantía de Contratos (Arrendamiento Comercial)
+
+```
+Contrato de arrendamiento local comercial
+Renta mensual: S/ 5,000
+Inquilino emite 12 pagarés mensuales
+Propietario tiene título ejecutivo si no paga
+```
+
+**Ventaja:** Proceso de desalojo más ágil con título ejecutivo
+
+---
+
+---
+
+## Jurisprudencia Peruana sobre Pagarés
+
+### Casación N° 1425-2017 Lima
+
+**Corte Suprema - Sala Civil Transitoria**
+
+**Tema:** Oponibilidad de excepciones en pagaré abstracto
+
+**Hechos:**
+- Demandado alegó que el préstamo nunca se le entregó
+- Pretendió oponer excepción de causa falsa en proceso único
+- Pagaré cumplía todos los requisitos formales
+
+**Fundamento:**
+> "El pagaré es un **título abstracto** que se desvincula de la causa que le dio origen. En proceso único de ejecución, el deudor **NO puede alegar defensas del negocio subyacente** (como falta de entrega del dinero). Solo puede oponer las excepciones taxativas del Art. 690-6 CPC. La discusión sobre la causa debe ventilarse en proceso ordinario aparte."
+
+**Conclusión:**
+✅ **Abstracción cambiaria prevalece en proceso ejecutivo**
+❌ **Defensas causales NO son oponibles en ejecución**
+
+### Casación N° 3847-2016 Arequipa
+
+**Tema:** Intereses usurarios pactados en pagaré
+
+**Hechos:**
+- Pagaré pactaba intereses compensatorios del 18% mensual (216% anual)
+- Deudor alegó usura y nulidad del pacto de intereses
+- Acreedor demandó ejecución del monto total
+
+**Fundamento:**
+> "Los intereses pactados que excedan las tasas de mercado de manera desproporcionada configuran **usura prohibida** (Art. 1243 CC). La cláusula de intereses puede declararse **nula parcialmente**, manteniéndose la validez del título. Se aplica la tasa legal del BCR (8% anual compensatorio)."
+
+**Conclusión:**
+⚖️ **Tasas excesivas pueden reducirse a tasa legal**
+✅ **El pagaré mantiene validez en su capital**
+
+### Expediente N° 22418-2020 Lima (1ra Instancia)
+
+**Tema:** Prescripción de acción directa contra emitente
+
+**Hechos:**
+- Pagaré vencido el 15/marzo/2017
+- Demanda presentada el 20/marzo/2020 (3 años y 5 días)
+- Deudor alegó prescripción
+
+**Fundamento:**
+- Art. 96 Ley 27287: Acción directa prescribe a los **3 años**
+- Se computa desde el vencimiento del título
+- Exceso de 5 días determina prescripción consumada
+
+**Conclusión:**
+❌ **Prescripción operada por exceder 3 años**
+⏱️ **El cómputo es exacto, no admite tolerancia**
+
+### Casación N° 4562-2019 Cusco
+
+**Tema:** Solidaridad de endosantes en cadena
+
+**Hechos:**
+- Pagaré endosado en cadena: Emitente → A → B → C → Tenedor Final
+- Emitente no pagó al vencimiento
+- Tenedor Final demandó solo al último endosante (C)
+
+**Fundamento:**
+> "La solidaridad cambiaria permite al tenedor **elegir contra quién accionar**: emitente, todos los endosantes o solo alguno de ellos. El endosante demandado tiene **acción de regreso** contra los anteriores si paga. La elección del acreedor es libre y estratégica."
+
+**Conclusión:**
+✅ **Tenedor puede demandar a cualquier obligado (solidaridad)**
+✅ **Quien paga puede repetir contra anteriores**
+
+---
+
+## Casos Prácticos Complejos - Perú 2025
+
+### 📌 Caso 1: Descuento de Pagarés en Banco (Anticipo de Proveedor)
+
+**Situación:**
+
+**Distribuidora ABC SAC** (proveedor) vende mercadería a **Retail XYZ SA** (cliente):
+- Monto: S/ 200,000
+- Plazo: 90 días
+- Cliente emite pagaré a favor de ABC
+
+**Problema de ABC:** Necesita liquidez inmediata para pagar a sus proveedores
+
+**Solución:** Descuento de pagaré en Banco de Crédito
+
+**Proceso:**
+
+1. **ABC endosa pagaré en procuración al Banco**
+   - Endoso: "Valor en cobro"
+   - Banco actúa como mandatario
+
+2. **Banco calcula descuento:**
+   - Valor nominal: S/ 200,000
+   - Días por vencer: 90 días
+   - **Tasa de descuento:** 12% anual = 1% mensual
+   - Descuento: S/ 200,000 x 12% x (90/360) = **S/ 6,000**
+   - **Comisión bancaria:** 0.5% = S/ 1,000
+   - **Gastos administrativos:** S/ 300
+
+3. **Liquidación al proveedor ABC:**
+   ```
+   Valor nominal pagaré:        S/ 200,000
+   (-) Descuento por intereses:  S/   6,000
+   (-) Comisión bancaria:        S/   1,000
+   (-) Gastos administrativos:   S/     300
+   --------------------------------
+   NETO RECIBIDO POR ABC:        S/ 193,700
+   ```
+
+4. **Al vencimiento (90 días después):**
+   - Banco presenta pagaré a Retail XYZ
+   - Retail XYZ paga S/ 200,000 al Banco
+   - Banco retiene S/ 200,000 (reembolso del anticipo + intereses)
+   - ABC no recibe nada adicional (ya cobró anticipadamente)
+
+**Análisis costo-beneficio para ABC:**
+
+- **Costo financiero:** S/ 7,300 (descuento + comisión + gastos)
+- **Costo financiero anualizado:** (S/ 7,300 / S/ 193,700) x (360/90) = **15.07% anual**
+- **Ventaja:** Liquidez inmediata para continuar operaciones
+- **Alternativa:** Préstamo bancario tradicional (interés 18-22% anual) → descuento es más barato
+
+### 📌 Caso 2: Ejecución de Pagaré con Contradicción
+
+**Situación:**
+
+**Acreedor:** FINANCIERA PRESTA SAC  
+**Deudor:** COMERCIAL LÓPEZ EIRL  
+**Pagaré:** S/ 80,000 vencido hace 2 meses  
+**Intereses moratorios pactados:** 2.5% mensual
+
+**Cronología:**
+
+**15/enero/2025:** Vencimiento pagaré - López no paga
+
+**25/enero/2025:** Financiera realiza protesto notarial
+- Costo protesto: S/ 220
+- Acta de protesto levantada
+
+**05/febrero/2025:** Financiera presenta demanda proceso único
+- Capital: S/ 80,000
+- Intereses moratorios (21 días): S/ 1,400
+- Costas protesto: S/ 220
+- **Total demandado: S/ 81,620**
+
+**18/febrero/2025:** Juzgado admite demanda y notifica a López
+
+**25/febrero/2025:** López presenta contradicción
+- **Excepción alegada:** "Prescripción de la acción" (infundada - solo 41 días desde vencimiento)
+- **Otra excepción:** "Pago documentado" (adjunta voucher transferencia bancaria)
+
+**15/marzo/2025:** Audiencia única
+- **Prueba de López:** Voucher transferencia S/ 80,000 a cuenta de Financiera (fecha 10/enero/2025)
+- **Defensa de Financiera:** La transferencia fue por otra operación (préstamo diferente)
+- **Contradicción probatoria**
+
+**30/marzo/2025:** Sentencia Juez
+
+**Fundamento:**
+- El deudor acreditó fehacientemente el pago mediante voucher bancario
+- Principio de buena fe: La transferencia coincide con monto y fecha cercana
+- Carga de la prueba: Financiera no acreditó que la transferencia fue por otro concepto
+
+**Fallo:**
+✅ **Sentencia declara FUNDADA la excepción de pago**  
+❌ **Desestima la demanda de ejecución**  
+⚖️ **Condena a Financiera al pago de costas del proceso**
+
+**Consecuencias:**
+- López se libera de la obligación (pago acreditado)
+- Financiera debe pagar costas: S/ 1,500 aproximadamente
+- Financiera pierde: costas propias + costas del deudor = S/ 5,000 total
+- **Lección:** Verificar exhaustivamente los pagos recibidos antes de demandar
+
+**Costos totales Financiera:**
+```
+Protesto notarial:               S/    220
+Arancel judicial:                S/  2,845
+Honorarios abogado:              S/  8,000
+Costas proceso (perdió):         S/  1,500
+----------------------------------------
+TOTAL PÉRDIDA FINANCIERA:        S/ 12,565
+```
+
+### 📌 Caso 3: Cadena de Endosos - Acción de Regreso
+
+**Situación:**
+
+**Emitente:** Constructora ALFA SAC - Emite pagaré S/ 150,000  
+**Beneficiario:** Proveedor BETA EIRL - Recibe pagaré  
+**Endoso 1:** BETA endosa a GAMMA SAC (descuento)  
+**Endoso 2:** GAMMA endosa a Banco DELTA (refinanciación)  
+**Tenedor Final:** Banco DELTA
+
+**Al vencimiento:** Constructora ALFA no paga (problemas financieros)
+
+**Acciones del Banco DELTA:**
+
+1. **Protesta pagaré** (costo S/ 250)
+
+2. **Acción directa contra ALFA (emitente):**
+   - Demanda S/ 150,000 + intereses S/ 9,000 + costas
+   - ALFA no tiene bienes embargables (insolvente)
+   - **Embargo infructuoso**
+
+3. **Acción de regreso contra GAMMA (endosante 2):**
+   - Demanda mismos montos
+   - GAMMA tiene bienes embargables
+   - Sentencia favorable a DELTA
+   - **GAMMA paga S/ 159,250**
+
+4. **Acción de regreso de GAMMA contra BETA (endosante 1):**
+   - GAMMA demanda a BETA para recuperar lo pagado
+   - BETA debe pagar: S/ 159,250 + nuevos intereses S/ 2,500 = **S/ 161,750**
+   - **BETA paga**
+
+5. **Acción de regreso de BETA contra ALFA (emitente):**
+   - BETA demanda a ALFA
+   - ALFA sigue insolvente
+   - **BETA asume pérdida final**
+
+**Resultado final:**
+
+| Sujeto | Situación |
+|--------|-----------|
+| **Banco DELTA** | ✅ Recuperó S/ 159,250 de GAMMA |
+| **GAMMA** | ✅ Recuperó S/ 161,750 de BETA |
+| **BETA** | ❌ Perdió S/ 161,750 (ALFA insolvente) |
+| **ALFA** | ❌ Debe S/ 161,750 (no pagó) |
+
+**Lección:** El riesgo final lo asume el último que pudo cobrar al deudor insolvente. La cadena de solidaridad protege a los tenedores posteriores pero perjudica a endosantes iniciales.
+
+---
+
+## Conexiones
+
+- ← Fundamento: [[principios-titulos-valores|Principios cambiarios]]
+- ← Clasificación: [[clasificacion-titulos-valores|Título a la orden]]
+- ← Circulación: [[endoso-titulos-valores|El endoso]]
+- ← Garantías: [[clausulas-especiales-garantias|Cláusulas y garantías]]
+- ↔ Compara: [[letra-cambio-concepto|Letra de cambio]], [[cheque-concepto|Cheque]]
+- ↔ Relacionado: [[factura-conformada|Factura conformada]]
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 27287** - Ley de Títulos Valores:
+  - Arts. 154-173 (El Pagaré)
+  - Art. 154 (Requisitos formales)
+  - Arts. 160-164 (Circulación y endoso)
+  - Art. 96 (Prescripción acción directa)
+- **Código Procesal Civil:**
+  - Arts. 688-703 (Proceso Único de Ejecución)
+  - Art. 690-6 (Excepciones en ejecución de títulos valores)
+- **Código Civil:**
+  - Art. 1243 (Prohibición usura)
+  - Art. 1244 (Interés legal)
+  - Art. 1246 (Interés moratorio)
+- **Banco Central de Reserva:**
+  - Circular sobre tasas de interés legal 2025
+
+---
+
+## ❓ Autoevaluación
+
+### Preguntas de Comprensión
+
+1. **¿Qué diferencia fundamental existe entre un pagaré y una letra de cambio en cuanto a sujetos intervinientes?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Pagaré:** 2 sujetos (emitente y beneficiario). Emitente promete pagar directamente.
+   - **Letra de cambio:** 3 sujetos (librador, girado, tomador). Librador ordena al girado pagar.
+   - **Pagaré:** "Yo pagaré" (promesa)
+   - **Letra:** "Tú pagarás" (orden)
+   - **Obligado principal pagaré:** Emitente desde el inicio
+   - **Obligado principal letra:** Girado solo si acepta
+   </details>
+
+2. **¿Cuáles son las tasas de interés legal en Perú según el BCR 2025?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Interés legal compensatorio:** 8% anual (0.67% mensual)
+   - **Interés legal moratorio:** 24% anual (2% mensual)
+   - **Fuente:** Banco Central de Reserva del Perú
+   - **Aplicación:** Cuando el pagaré NO especifica tasa, o por determinación judicial
+   </details>
+
+3. **¿Qué excepciones puede oponer el deudor en un proceso único de ejecución de pagaré?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   Solo excepciones **taxativas del Art. 690-6 CPC:**
+   1. ✅ Inexigibilidad o iliquidez de la obligación
+   2. ✅ Nulidad formal o falsedad del título
+   3. ✅ Extinción de la obligación (pago, prescripción, etc.)
+   
+   **NO puede oponer:**
+   - ❌ Defensas del negocio causal (falta de entrega del dinero, incumplimiento de contrato)
+   - ❌ Vicios del consentimiento del contrato subyacente
+   - **Fundamento:** Principio de abstracción cambiaria
+   </details>
+
+4. **¿Cuánto cuesta aproximadamente un proceso de ejecución de pagaré de S/ 100,000 en Lima 2025?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Costos recuperables del deudor:**
+   - Protesto notarial: S/ 220
+   - Arancel judicial (5.69% UIT): S/ 5,690
+   - Tasa judicial: S/ 424
+   - Notificaciones: S/ 250
+   - **Subtotal:** S/ 6,584
+   
+   **Costos del acreedor:**
+   - Honorarios abogado (15%): S/ 15,000
+   - **TOTAL INVERSIÓN:** S/ 21,584 (recuperable si gana)
+   
+   **Duración:** 3-4 meses sin contradicción, 6-12 meses con contradicción
+   </details>
+
+5. **¿Cómo funciona el descuento de pagarés en un banco peruano?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   1. **Proveedor endosa pagaré** al banco (endoso en propiedad o procuración)
+   2. **Banco calcula:**
+      - Descuento por intereses (ej. 12% anual por días faltantes)
+      - Comisión bancaria (ej. 0.5% del valor)
+      - Gastos administrativos
+   3. **Banco adelanta:** Valor nominal - descuentos
+   4. **Al vencimiento:** Banco cobra pagaré al emisor
+   5. **Ventaja:** Proveedor obtiene liquidez inmediata (antes del vencimiento)
+   6. **Costo:** Típicamente 12-18% anual (más barato que préstamo tradicional)
+   </details>
+
+### Ejercicios Prácticos
+
+6. **Calcula los intereses moratorios de un pagaré impago:**
+   
+   - Capital: S/ 45,000
+   - Vencimiento: 01/febrero/2025
+   - Pago efectivo: 15/mayo/2025
+   - Tasa moratoria pactada: 2.5% mensual
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Cálculo:**
+   - Días de mora: 01/feb - 15/may = 103 días = **3.43 meses**
+   - Tasa: 2.5% mensual
+   - Intereses: S/ 45,000 x 2.5% x 3.43 = **S/ 3,859.25**
+   - **Monto total:** S/ 45,000 + S/ 3,859.25 = **S/ 48,859.25**
+   </details>
+
+7. **Determina si prescribió la acción:**
+   
+   - Pagaré vencido: 20/marzo/2022
+   - Fecha actual: 25/marzo/2025
+   - ¿Puede el acreedor demandar?
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Análisis:**
+   - Plazo prescripción acción directa: **3 años** (Art. 96 LTV)
+   - Tiempo transcurrido: 20/mar/2022 - 25/mar/2025 = **3 años y 5 días**
+   - **Conclusión:** ❌ **SÍ prescribió** (excedió los 3 años exactos)
+   - El acreedor **NO puede demandar** en proceso ejecutivo
+   - Solo podría intentar acción ordinaria de cobro (más larga y difícil)
+   </details>
+
+---
+
+*Última actualización: 15 de enero de 2025*  
+*Tasas, costos y procedimientos vigentes para Perú 2025*
+
+[[02-indice-unidad-2-titulos-especificos|← Volver a Unidad II]]

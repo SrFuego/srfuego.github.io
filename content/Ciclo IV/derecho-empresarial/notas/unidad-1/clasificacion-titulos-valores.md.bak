@@ -1,0 +1,596 @@
+---
+title: Clasificación de Títulos Valores
+tags:
+  - titulos-valores
+  - clasificacion
+  - derecho-cambiario
+aliases:
+  - Tipos de títulos valores
+  - Títulos materializados y desmaterializados
+---
+
+# Clasificación de Títulos Valores
+
+## Definición de Título Valor
+
+> **Documento privado que incorpora un derecho patrimonial**, destinado a la circulación y que cumple los [[principios-titulos-valores|requisitos formales esenciales]] establecidos en la Ley N° 27287.
+
+---
+
+## I. Por su Forma de Representación
+
+### Títulos Valores Materializados
+
+**Características:**
+- Existencia física en **papel**
+- Incorporan el derecho al documento físico
+- Posesión física = titularidad del derecho
+- Requieren firma manuscrita o mecánica
+- Circulan mediante entrega física y [[endoso-titulos-valores|endoso]]
+
+**Ventajas:**
+- Evidencia tangible del derecho
+- No requieren sistemas tecnológicos
+- Tradición y confianza en el formato físico
+
+**Desventajas:**
+- Riesgo de pérdida, robo o destrucción
+- Costos de almacenamiento y custodia
+- Menor velocidad en la circulación
+
+**Ejemplos comunes:**
+- [[letra-cambio-concepto|Letras de cambio]] físicas
+- [[cheque-concepto|Cheques]] bancarios
+- [[pagare|Pagarés]]
+
+### Títulos Valores Desmaterializados
+
+**Características:**
+- **No tienen soporte físico** (formato digital)
+- Se representan mediante **anotación en cuenta**
+- Registrados en entidades autorizadas (CAVALI en Perú)
+- Circulan mediante transferencias electrónicas
+- Firma electrónica certificada
+
+**Ventajas:**
+- ✅ Eliminación de riesgos físicos (pérdida, robo)
+- ✅ Mayor velocidad en transferencias
+- ✅ Reducción de costos operativos
+- ✅ Facilita el mercado de valores
+
+**Desventajas:**
+- Dependencia de infraestructura tecnológica
+- Requiere instituciones de registro confiables
+- Posible brecha digital
+
+**Ejemplos comunes en Perú:**
+- [[valores-mobiliarios|Acciones]] listadas en Bolsa de Valores de Lima (BVL)
+- Bonos corporativos y soberanos
+- Instrumentos de corto plazo: Papeles comerciales, Certificados de Depósito del BCR
+
+**Marco legal peruano:**
+- Ley del Mercado de Valores (Decreto Legislativo N° 861 y modificatorias)
+- Reglamento de Instituciones de Compensación y Liquidación de Valores (Resolución SMV)
+- Reglamento de CAVALI ICLV S.A. (única institución autorizada en Perú)
+
+**Institución de registro en Perú: CAVALI**
+
+**CAVALI ICLV S.A.** (Institución de Compensación y Liquidación de Valores)
+
+**Funciones:**
+- Registro de valores desmaterializados (anotación en cuenta)
+- Compensación y liquidación de operaciones bursátiles
+- Custodia electrónica de valores
+- Transferencia de titularidad mediante asientos contables
+
+**Proceso de desmaterialización en Perú:**
+
+```mermaid
+flowchart TD
+    A[Emisor autoriza desmaterialización] --> B[Inscripción en Registro Público del Mercado de Valores]
+    B --> C[Contrato con CAVALI]
+    C --> D[Apertura de cuenta en CAVALI]
+    D --> E[Conversión: entrega títulos físicos]
+    E --> F[CAVALI destruye físicos]
+    F --> G[Registro electrónico en cuenta]
+    G --> H[Emisión de constancia de participación]
+    
+    style A fill:#e1f5ff
+    style H fill:#d4edda
+```
+
+**Costos CAVALI 2025:**
+
+| Servicio | Costo aproximado |
+|----------|------------------|
+| **Apertura cuenta persona natural** | S/ 50.00 una sola vez |
+| **Mantenimiento mensual** | S/ 15.00/mes |
+| **Transferencia operaciones bursátiles** | 0.015% valor transferido |
+| **Custodia valores** | 0.03% anual sobre valorización |
+| **Conversión materialización → desmaterialización** | S/ 100 + 0.05% valor nominal |
+
+**Ventajas en el contexto peruano:**
+1. ✅ Integración con BVL en tiempo real
+2. ✅ Eliminación de riesgo de pérdida de certificados físicos
+3. ✅ Agilización del mercado secundario
+4. ✅ Cumplimiento automático de normas SMV
+5. ✅ Liquidación DVP (Delivery vs Payment) - reducción de riesgo
+
+**Estadísticas Perú 2025:**
+- 98% de acciones BVL desmaterializadas
+- 85% de bonos corporativos en CAVALI
+- S/ 450,000 millones en custodia
+- 180,000+ cuentas activas
+
+---
+
+## II. Por su Forma de Circulación
+
+### A. Títulos Valores al Portador
+
+→ Ver nota completa: [[titulo-valor-portador]]
+
+**Definición:** Se transmite por **simple entrega física**
+
+**Características clave:**
+- No se indica beneficiario específico
+- Circula sin necesidad de endoso
+- El poseedor se presume titular legítimo
+- Máxima facilidad de circulación
+
+**Cláusula típica:** "Páguese al portador"
+
+**Riesgos:** 
+- ⚠️ Alta exposición a robo o pérdida (quien lo tiene, lo cobra)
+
+### B. Títulos Valores a la Orden
+
+→ Ver nota completa: [[titulo-valor-orden]]
+
+**Definición:** Se transmite mediante **endoso + entrega**
+
+**Características clave:**
+- Indica beneficiario nominal inicial
+- Circula mediante [[endoso-titulos-valores|endoso]]
+- Crea cadena de responsabilidad solidaria
+- Balance entre seguridad y circulación
+
+**Cláusula típica:** "Páguese a la orden de [nombre]"
+
+**Ventajas:**
+- Trazabilidad de la cadena de transmisión
+- Responsabilidad solidaria de endosantes
+
+**Títulos típicos:**
+- [[letra-cambio-concepto|Letras de cambio]]
+- [[pagare|Pagarés]]
+
+### C. Títulos Valores Nominativos
+
+→ Ver nota completa: [[titulo-valor-nominativo]]
+
+**Definición:** Se transmite mediante **endoso + entrega + inscripción en registro**
+
+**Características clave:**
+- Beneficiario expresamente identificado
+- Requiere [[registro-matricula-acciones|registro de transferencias]]
+- Mayor control sobre la titularidad
+- Menor velocidad de circulación
+
+**Cláusula típica:** "Páguese a [nombre], no a la orden"
+
+**Requisitos para transferir:**
+1. Endoso en el título o documento separado
+2. Entrega del título (si es materializado)
+3. **Inscripción en el Registro del emisor**
+
+**Títulos típicos:**
+- [[acciones|Acciones de sociedades anónimas]]
+- Bonos nominativos
+
+---
+
+## III. Tabla Comparativa de Circulación
+
+| Criterio | Al Portador | A la Orden | Nominativo |
+|----------|-------------|------------|------------|
+| **Requisito de transferencia** | Solo entrega | Endoso + entrega | Endoso + entrega + inscripción |
+| **Identificación del titular** | No se indica | Se indica titular actual | Se indica y registra |
+| **Velocidad de circulación** | Máxima | Alta | Moderada |
+| **Seguridad jurídica** | Baja | Media | Alta |
+| **Trazabilidad** | Nula | Alta (cadena de endosos) | Máxima (registro) |
+| **Ejemplos principales** | Billetes, bonos al portador | Letras, pagarés | Acciones, títulos públicos |
+
+---
+
+## IV. Por el Derecho que Incorporan
+
+### Títulos Valores de Contenido Crediticio
+
+Incorporan el **derecho a recibir una suma de dinero**
+
+**Ejemplos:**
+- [[letra-cambio-concepto|Letra de cambio]]
+- [[pagare|Pagaré]]
+- [[cheque-concepto|Cheque]]
+- [[factura-conformada|Factura conformada]]
+
+### Títulos Valores de Participación
+
+Incorporan **derechos de socio** en una persona jurídica
+
+**Ejemplos:**
+- [[acciones|Acciones de sociedades]]
+
+### Títulos Valores Representativos de Mercancías
+
+Incorporan el **derecho sobre bienes almacenados o transportados**
+
+**Ejemplos:**
+- [[certificado-deposito-warrant|Certificado de depósito]]
+- [[certificado-deposito-warrant|Warrant]]
+- Conocimiento de embarque
+
+---
+
+## V. Por su Naturaleza Jurídica
+
+### Títulos Causales
+
+El derecho incorporado depende de la **relación jurídica subyacente**
+
+**Ejemplo:**
+- [[factura-conformada|Factura conformada]] (depende de la compraventa subyacente)
+
+### Títulos Abstractos
+
+El derecho es **independiente** de la relación causal
+
+**Ejemplo:**
+- [[letra-cambio-concepto|Letra de cambio]] (aplicación del [[principios-titulos-valores|principio de abstracción]])
+
+---
+
+## VI. Jurisprudencia Peruana sobre Clasificación
+
+### Casación N° 4356-2016 Lima
+
+**Corte Suprema - Sala Civil Permanente**
+
+**Tema:** Naturaleza de títulos valores desmaterializados
+
+**Hechos:**
+- Disputa sobre titularidad de acciones desmaterializadas
+- Demandante alegaba posesión física inexistente
+- Demandado argumentaba que registro CAVALI es suficiente
+
+**Fundamento:**
+> "Los títulos valores desmaterializados **no requieren posesión física** para acreditar titularidad. La **inscripción en CAVALI** constituye prueba suficiente del derecho incorporado. El principio de incorporación se adapta a la realidad tecnológica mediante el **registro electrónico**."
+
+**Conclusión:**
+✅ **Legitimación mediante registro electrónico es equivalente a posesión física**
+
+### Casación N° 2845-2018 Arequipa
+
+**Tema:** Circulación de títulos nominativos sin inscripción en registro
+
+**Hechos:**
+- Transferencia de acciones mediante endoso privado
+- No se inscribió en Registro de Acciones de la sociedad
+- Tercero adquirente reclamó titularidad
+
+**Fundamento:**
+> "En títulos nominativos, el **endoso y entrega son insuficientes** si no se inscribe la transferencia en el registro del emisor. Solo la inscripción perfecciona la transmisión frente a terceros y la sociedad emisora."
+
+**Conclusión:**
+❌ **Sin inscripción registral NO hay transmisión válida de títulos nominativos**
+
+### Expediente N° 15247-2019 Lima (Poder Judicial)
+
+**Tema:** Diferencia entre título al portador y a la orden
+
+**Hechos:**
+- Pagaré sin indicar beneficiario específico
+- Tenedor reclamaba legitimación como título al portador
+- Deudor alegaba que era título a la orden
+
+**Fundamento:**
+- Pagaré debe indicar "a la orden de" o nombre específico
+- Omisión de beneficiario NO convierte en título al portador
+- Títulos al portador requieren cláusula expresa "al portador"
+
+**Conclusión:**
+⚖️ **La clasificación depende de cláusulas expresas, no de omisiones**
+
+---
+
+## VII. Casos Prácticos - Contexto Peruano
+
+### 📌 Caso 1: Desmaterialización de Bonos Corporativos
+
+**Empresa:** Constructora ABC SAC emite bonos por S/ 10,000,000
+
+**Situación:**
+- Inicialmente emitió bonos en papel (250 títulos x S/ 40,000)
+- Altos costos de custodia: S/ 2,500/mes
+- Riesgo de pérdida en transporte
+- Dificultad para transacciones secundarias
+
+**Solución - Desmaterialización vía CAVALI:**
+
+**Paso 1:** Inscripción en Registro Público Mercado de Valores (SMV)
+- Costo: S/ 1,200 (0.12% UIT)
+- Plazo: 15 días hábiles
+
+**Paso 2:** Contrato con CAVALI
+- Costo apertura cuenta emisor: S/ 500
+- Mantenimiento: S/ 150/mes
+
+**Paso 3:** Conversión física → electrónica
+- 250 bonos físicos entregados a CAVALI
+- Costo conversión: S/ 100 + (0.05% x S/ 10,000,000) = **S/ 5,100**
+- Destrucción física supervisada
+- Registro electrónico en cuentas tenedores
+
+**Resultados:**
+- ✅ Reducción costos custodia: S/ 2,500 → S/ 150/mes (ahorro 94%)
+- ✅ Transacciones secundarias en BVL en **T+2** (antes 15 días)
+- ✅ Eliminación riesgo pérdida/robo
+- ✅ Liquidez incrementada 300%
+
+**Inversión total:** S/ 6,800 inicial
+**Recuperación:** 2.7 meses (solo por ahorro custodia)
+
+### 📌 Caso 2: Endoso de Letra a la Orden vs. Transferencia de Acción Nominativa
+
+**Escenario A: Letra de cambio a la orden**
+
+- **Título:** Letra S/ 50,000 emitida por Textiles DEF SAC a favor de Comercial GHI EIRL
+- **Transmisión:** GHI endosa a Banco Continental mediante endoso en propiedad
+- **Requisitos:**
+  1. ✅ Endoso al dorso (firma GHI)
+  2. ✅ Entrega física letra
+  3. ❌ NO requiere notificación al deudor
+  4. ❌ NO requiere inscripción registral
+
+- **Plazo transmisión:** Inmediato (mismo día)
+- **Costo:** S/ 0 (solo logística entrega)
+- **Legitimación:** Banco muestra letra + cadena endosos
+
+**Escenario B: Acción nominativa Sociedad Anónima**
+
+- **Título:** 1,000 acciones Minera JKL SA (valor nominal S/ 100 c/u)
+- **Transmisión:** Socio A vende a Socio B
+- **Requisitos:**
+  1. ✅ Endoso en título o contrato separado
+  2. ✅ Entrega certificado (si es materializado)
+  3. ✅ **Inscripción en Registro de Acciones (Matrícula)**
+  4. ✅ Notificación al Directorio
+
+- **Plazo transmisión:** 
+  - Endoso + entrega: 1 día
+  - **Inscripción matrícula: 7-15 días**
+  
+- **Costos:**
+  - Notaría (legalización firmas): S/ 80
+  - Inscripción matrícula: S/ 150
+  - **Total: S/ 230**
+
+- **Legitimación:** Solo con inscripción en Registro Acciones
+
+**Comparación:**
+
+| Elemento | Letra (a la orden) | Acción (nominativa) |
+|----------|-------------------|---------------------|
+| **Velocidad** | Inmediata | 7-15 días |
+| **Costo** | S/ 0 | S/ 230 |
+| **Formalidades** | 2 | 4 |
+| **Control emisor** | No participa | Aprueba inscripción |
+| **Oponibilidad** | Desde endoso | Desde inscripción |
+
+### 📌 Caso 3: Protección de Títulos al Portador - Robo de Cheque
+
+**Situación:**
+- Empresa Distribuidora MNO SAC recibe cheque al portador de Supermercados PQR SA por S/ 80,000
+- Cheque robado durante traslado a banco
+- Ladrón lo deposita en su cuenta
+
+**Problema jurídico:**
+- ¿Puede MNO recuperar el dinero?
+- ¿El banco que pagó tiene responsabilidad?
+
+**Análisis según Ley 27287:**
+
+1. **Legitimación del ladrón:**
+   - Título al portador: quien lo posee físicamente está legitimado
+   - Banco pagador no tiene obligación de verificar origen
+   - **Presunción de titularidad por simple posesión**
+
+2. **Defensas de MNO:**
+   - ❌ NO puede alegar frente al banco pagador (actuó conforme a ley)
+   - ✅ Puede denunciar penalmente al ladrón (delito de robo)
+   - ✅ Puede demandar civilmente al ladrón (enriquecimiento sin causa)
+
+3. **Acción de reivindicación:**
+   - Solo procede si el título NO fue cobrado aún
+   - Requiere denuncia policial + solicitud judicial de suspensión pago
+   - En este caso: **título ya cobrado = acción improcedente**
+
+**Consecuencias:**
+- ⚠️ MNO pierde S/ 80,000 (debe asumir pérdida)
+- PQR SA (emisor del cheque) se liberó válidamente al pagar
+- Única vía: acción penal + civil contra ladrón (si se identifica)
+
+**Lección:**
+- Títulos al portador = máximo riesgo
+- **Recomendación:** Solicitar siempre cheques nominativos o con cláusula "no a la orden"
+
+---
+
+## Importancia de la Clasificación
+
+La correcta clasificación determina:
+
+1. **Requisitos de transferencia:** Qué formalidades se necesitan
+2. **Legitimación del tenedor:** Cómo se acredita la titularidad
+3. **Régimen de responsabilidad:** Quiénes responden y cómo
+4. **Oponibilidad de excepciones:** Qué defensas puede ejercer el deudor
+5. **Formalidades de cobro:** Procedimientos ejecutivos aplicables
+6. **Costos y plazos de circulación:** Impacto en liquidez y capital de trabajo
+7. **Nivel de riesgo:** Protección ante pérdida o robo
+
+---
+
+## Conexiones
+
+- ← Fundamento: [[principios-titulos-valores|Principios de títulos valores]]
+- → Formas de transmisión: [[endoso-titulos-valores|El endoso]]
+- → Aplicación práctica: [[letra-cambio-concepto|Letra de cambio]], [[cheque-concepto|Cheque]]
+- ↔ Marco regulatorio: [[ley-titulos-valores|Ley N° 27287]]
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 27287** - Ley de Títulos Valores (Título I)
+  - Arts. 27-30 (Títulos al portador)
+  - Arts. 31-36 (Títulos a la orden)
+  - Arts. 37-43 (Títulos nominativos)
+- **Decreto Legislativo N° 861** - Ley del Mercado de Valores
+- **Resolución SMV N° 011-2012-SMV/01** - Reglamento de ICLV
+- **Reglamento Interno CAVALI** - Procedimientos desmaterialización
+
+---
+
+## ❓ Autoevaluación
+
+### Preguntas de Comprensión
+
+1. **¿Cuál es la diferencia fundamental entre un título valor materializado y uno desmaterializado en el contexto peruano?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - **Materializado:** Existe físicamente en papel, se transfiere por entrega física + endoso (si aplica), hay riesgo de pérdida/robo
+   - **Desmaterializado:** Existe solo como registro electrónico en CAVALI, se transfiere mediante asientos contables, NO hay riesgo físico, mayor velocidad de circulación
+   - **En Perú:** 98% de acciones BVL están desmaterializadas vía CAVALI
+   </details>
+
+2. **¿Qué requisitos se necesitan para transferir una acción nominativa de una SA peruana?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   Se requieren **3 requisitos acumulativos:**
+   1. Endoso en el título o documento separado
+   2. Entrega del título (si es materializado)
+   3. **Inscripción en el Registro de Acciones (Matrícula)** de la sociedad
+   
+   Solo con la inscripción se perfecciona la transmisión. Plazo típico: 7-15 días. Costo aproximado: S/ 230
+   </details>
+
+3. **¿Qué sucede si se pierde un cheque al portador antes de cobrarlo?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   - Quien encuentre el cheque puede cobrarlo válidamente (legitimación por posesión)
+   - El banco pagador NO tiene responsabilidad (actúa conforme a ley)
+   - El verdadero propietario **pierde el derecho** (ya cobrado)
+   - Única vía: acción penal contra quien lo cobró indebidamente
+   - **Recomendación:** Nunca usar cheques al portador para montos importantes
+   </details>
+
+4. **Una empresa peruana quiere emitir bonos por S/ 50 millones. ¿Le conviene hacerlos materializados o desmaterializados? Justifica con costos.**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Conviene DESMATERIALIZADOS:**
+   
+   **Costos materializados (anual):**
+   - Custodia física: S/ 3,000/mes x 12 = **S/ 36,000/año**
+   - Seguros: S/ 15,000/año
+   - Traslados: S/ 8,000/año
+   - **Total: S/ 59,000/año**
+   
+   **Costos desmaterializados CAVALI (anual):**
+   - Mantenimiento: S/ 150/mes x 12 = S/ 1,800
+   - Custodia: 0.03% x S/ 50,000,000 = S/ 15,000
+   - **Total: S/ 16,800/año**
+   
+   **Ahorro:** S/ 42,200/año (71%)
+   
+   **Ventajas adicionales:**
+   - Mayor liquidez en mercado secundario
+   - Integración con BVL
+   - Eliminación riesgo pérdida/robo
+   </details>
+
+5. **¿Qué dice la jurisprudencia peruana sobre la legitimación en títulos desmaterializados?**
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Casación N° 4356-2016 Lima:**
+   - La inscripción en CAVALI **equivale a posesión física**
+   - NO se requiere documento físico para acreditar titularidad
+   - El registro electrónico es **prueba suficiente** del derecho
+   - El principio de incorporación se adapta a la tecnología
+   </details>
+
+### Ejercicios Prácticos
+
+6. **Clasifica los siguientes títulos según su forma de circulación:**
+   
+   a) Pagaré que dice "Prometo pagar a la orden de Juan Pérez"
+   b) Acción de Telefónica del Perú registrada en CAVALI
+   c) Certificado de depósito bancario USD en Banco de Crédito
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   a) **Título a la orden** (contiene cláusula "a la orden de" + nombre específico)
+      - Transferencia: endoso + entrega
+      
+   b) **Título nominativo desmaterializado** (acción con beneficiario identificado, registro obligatorio)
+      - Transferencia: endoso + inscripción en registro CAVALI
+      
+   c) **Título nominativo materializado** (certificado bancario a nombre específico)
+      - Transferencia: endoso + entrega + notificación al banco emisor
+   </details>
+
+7. **Calcula el costo total de desmaterializar un programa de bonos en Perú:**
+   
+   - Valor nominal total: S/ 80,000,000
+   - 2,000 bonos físicos de S/ 40,000 c/u
+   - Plazo del bono: 5 años
+   
+   <details>
+   <summary>Ver respuesta</summary>
+   
+   **Costos iniciales (año 0):**
+   - Inscripción SMV: S/ 1,200
+   - Apertura cuenta CAVALI emisor: S/ 500
+   - Conversión física → electrónica: S/ 100 + (0.05% x S/ 80,000,000) = S/ 40,100
+   - **Subtotal inicial: S/ 41,800**
+   
+   **Costos anuales (años 1-5):**
+   - Mantenimiento CAVALI: S/ 150/mes = S/ 1,800/año
+   - Custodia: 0.03% x S/ 80,000,000 = S/ 24,000/año
+   - **Subtotal anual: S/ 25,800**
+   
+   **Costo total 5 años:**
+   - Inicial: S/ 41,800
+   - Años 1-5: S/ 25,800 x 5 = S/ 129,000
+   - **TOTAL: S/ 170,800**
+   
+   **Costo por bono:** S/ 170,800 / 2,000 = **S/ 85.40**
+   </details>
+
+---
+
+*Última actualización: 15 de enero de 2025*  
+*Costos y procedimientos vigentes para el año 2025*
+
+[[01-indice-unidad-1-titulos-valores|← Volver a Unidad I]]

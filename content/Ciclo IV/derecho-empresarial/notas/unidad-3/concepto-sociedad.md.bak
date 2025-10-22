@@ -1,0 +1,317 @@
+---
+title: Concepto de Sociedad según la Ley General de Sociedades
+tags:
+  - sociedades
+  - ley-general-sociedades
+  - derecho-societario
+  - persona-juridica
+aliases:
+  - Sociedad
+  - Sociedad mercantil
+  - Persona jurídica societaria
+---
+
+# Concepto de Sociedad
+
+## Definición Legal (Art. 1 LGS)
+
+> **Sociedad:** Aquellos que convienen **aportar bienes o servicios** para el ejercicio en común de **actividades económicas**, constituyendo una **persona jurídica** distinta de sus socios.
+
+---
+
+## Elementos Esenciales de la Sociedad
+
+### 1. Pluralidad de Socios (Art. 4 LGS)
+
+**Regla general:** Se requieren **mínimo 2 socios**
+
+**Excepciones - Sociedades unipersonales:**
+- Sociedad Anónima Cerrada (SAC) con un solo accionista
+- Desde la constitución o por concentración posterior de acciones
+- Debe regularizarse en **6 meses** si se produce concentración
+
+**Consecuencia de no mantener pluralidad:**
+- Causal de disolución (si no se regulariza)
+
+### 2. Affectio Societatis (Voluntad de Asociarse)
+
+**Concepto:** Intención común de los socios de:
+- Colaborar activamente
+- Participar en resultados (beneficios y pérdidas)
+- Mantener la sociedad en el tiempo
+
+**Manifestación:** A través del pacto social
+
+### 3. Aportes de los Socios
+
+**Naturaleza:**
+- Obligación de cada socio de contribuir al **capital social**
+- Pueden ser:
+  - **Dinerarios:** Dinero en efectivo
+  - **No dinerarios:** Bienes muebles, inmuebles, derechos
+
+→ Ver detalle: [[aportes-capital-social|Aportes y Capital Social]]
+
+### 4. Ejercicio en Común de Actividades Económicas
+
+**Objeto social:**
+- Actividad económica lícita
+- Ejercida conjuntamente
+- Con ánimo de lucro (típico) o sin él (sociedades civiles)
+
+**Límites:**
+- Debe ser lícito, determinado o determinable
+- Conforme al orden público y buenas costumbres
+
+### 5. Participación en Resultados
+
+**Principio:** Todos los socios participan en:
+- **Beneficios:** Utilidades generadas
+- **Pérdidas:** Resultados negativos
+
+**Prohibición del pacto leonino (Art. 27 LGS):**
+- ❌ Es nulo el pacto que excluya a un socio de beneficios
+- ❌ Es nulo el pacto que libere a un socio de pérdidas
+
+### 6. Persona Jurídica Distinta
+
+**Principio de separación patrimonial:**
+- La sociedad tiene **personalidad jurídica propia**
+- Patrimonio **independiente** de los socios
+- Capacidad para ser titular de derechos y obligaciones
+- Se adquiere con la inscripción en Registros Públicos
+
+---
+
+## Naturaleza Jurídica de la Sociedad
+
+### Persona Jurídica
+
+- **Sujeto de derecho** independiente de sus socios
+- Puede celebrar contratos, demandar y ser demandada
+- Tiene su propio patrimonio, domicilio y nacionalidad
+
+### Ente Mercantil
+
+- La LGS regula principalmente sociedades **mercantiles**
+- Excepción: Sociedades civiles (Libro V de la LGS)
+
+---
+
+## Características de la Sociedad
+
+| Característica | Descripción |
+|----------------|-------------|
+| **Personalidad jurídica** | Distinta de los socios (desde inscripción) |
+| **Patrimonio autónomo** | Separado del patrimonio personal de socios |
+| **Denominación o razón social** | Nombre que la identifica |
+| **Domicilio** | Lugar señalado en el estatuto |
+| **Duración** | Determinada o indeterminada |
+| **Capacidad** | Para realizar actos jurídicos según su objeto |
+| **Responsabilidad** | Limitada o ilimitada según tipo societario |
+
+---
+
+## Responsabilidad de los Socios
+
+### Responsabilidad Limitada
+
+**Definición:** Los socios responden **solo hasta el monto de sus aportes**
+
+**Tipos societarios:**
+- [[sociedad-anonima-concepto|Sociedad Anónima]] (SA, SAC, SAA)
+- [[sociedad-responsabilidad-limitada|Sociedad de Responsabilidad Limitada]] (SRL)
+
+**Consecuencia:**
+- El patrimonio personal de los socios está **protegido**
+- Acreedores solo pueden ejecutar patrimonio social
+
+### Responsabilidad Ilimitada
+
+**Definición:** Los socios responden **con su patrimonio personal** por las deudas sociales
+
+**Tipos societarios:**
+- [[sociedad-colectiva|Sociedad Colectiva]]
+- Socios colectivos en [[sociedad-comandita|Sociedad en Comandita]]
+
+**Consecuencia:**
+- Mayor riesgo personal
+- Los acreedores pueden ejecutar patrimonio personal de socios
+
+### Responsabilidad Subsidiaria
+
+En sociedades con responsabilidad ilimitada:
+- La responsabilidad personal es **subsidiaria**
+- Primero se ejecuta el patrimonio social
+- Solo si es insuficiente, se recurre al patrimonio personal
+
+**Orden:**
+1. Patrimonio de la sociedad
+2. Patrimonio personal de socios (si es ilimitada)
+
+---
+
+## Ámbito de Aplicación de la LGS (Art. 2 LGS)
+
+La Ley General de Sociedades (Ley N° 26887) regula:
+
+1. **Sociedades comerciales:**
+   - [[sociedad-anonima-concepto|Sociedad Anónima]] (SA, SAC, SAA)
+   - [[sociedad-colectiva|Sociedad Colectiva]]
+   - [[sociedad-comandita|Sociedad en Comandita]]
+   - [[sociedad-responsabilidad-limitada|Sociedad de Responsabilidad Limitada]] (SRL)
+
+2. **Sociedades civiles:**
+   - [[sociedad-civil|Sociedad Civil Ordinaria]]
+   - [[sociedad-civil|Sociedad Civil de Responsabilidad Limitada]]
+
+3. **Contratos asociativos:** (No crean persona jurídica)
+   - Asociación en participación
+   - Consorcio
+   - Joint venture
+
+**Exclusiones:**
+- Asociaciones sin fines de lucro (Código Civil)
+- Cooperativas (Ley General de Cooperativas)
+- Empresas estatales (normas específicas)
+
+---
+
+## Modalidades de Constitución (Arts. 4-5 LGS)
+
+### 1. Constitución Simultánea (En un Solo Acto)
+
+**Características:**
+- Los fundadores aprueban el **pacto social y estatuto** en un solo acto
+- Se otorga **escritura pública** inmediatamente
+- Los fundadores suscriben todas las acciones/participaciones
+
+**Proceso:**
+```
+Fundadores → Pacto Social + Estatuto → Escritura Pública → Inscripción SUNARP
+```
+
+**Ventaja:** Rapidez (típico para sociedades cerradas)
+
+### 2. Constitución Sucesiva (Oferta a Terceros)
+
+**Características:**
+- Los fundadores lanzan **oferta pública** de suscripción
+- Se invita a terceros a suscribir acciones
+- Requiere autorización de SMV (Superintendencia del Mercado de Valores)
+- Proceso más largo y regulado
+
+**Aplicación:** Sociedades Anónimas Abiertas (SAA) que van a bolsa
+
+**Proceso:**
+```
+Programa de Fundación → Oferta Pública → Suscripción → Asamblea de Suscriptores → Escritura Pública → Inscripción
+```
+
+**Ventaja:** Permite captar gran cantidad de socios/capital
+
+---
+
+## Adquisición de la Personalidad Jurídica (Art. 6 LGS)
+
+### Regla: Inscripción Registral
+
+> La sociedad adquiere **personalidad jurídica** desde su **inscripción** en el Registro de Personas Jurídicas (SUNARP).
+
+**Antes de la inscripción:**
+- ❌ No es persona jurídica
+- ❌ No puede actuar como tal
+- Los fundadores responden personal y solidariamente
+
+**Después de la inscripción:**
+- ✅ Nace la persona jurídica
+- ✅ Patrimonio independiente
+- ✅ Puede celebrar contratos a nombre propio
+
+### Sociedad en Formación (Art. 7 LGS)
+
+**Concepto:** Periodo entre la firma del pacto social y la inscripción
+
+**Efectos:**
+- Los **fundadores** responden personal y solidariamente por los actos realizados
+- Los actos realizados se entienden realizados por cuenta de la sociedad
+- Una vez inscrita, la sociedad asume derechos y obligaciones
+
+**Protección de terceros:**
+- Terceros pueden exigir que la sociedad inscrita asuma obligaciones contraídas en su nombre durante la formación
+
+---
+
+## El Pacto Social y el Estatuto
+
+### Pacto Social (Art. 54 LGS)
+
+**Definición:** Acuerdo de voluntades de los fundadores para crear la sociedad
+
+**Contenido mínimo:**
+1. Datos de identificación de los fundadores
+2. Manifestación de voluntad de constituir sociedad
+3. Monto del capital social y aportes de cada socio
+4. Nombramiento de primeros administradores
+5. Estatuto que regirá el funcionamiento de la sociedad
+
+### Estatuto (Art. 55 LGS)
+
+**Definición:** Norma interna que regula la organización y funcionamiento de la sociedad
+
+**Contenido obligatorio:**
+1. **Denominación o razón social**
+2. **Objeto social** (actividad económica)
+3. **Domicilio**
+4. **Plazo de duración** (determinado o indeterminado)
+5. **Capital social** y acciones/participaciones
+6. **Órganos sociales:** Junta, Directorio, Gerencia
+7. **Régimen de distribución de utilidades**
+8. **Régimen de disolución y liquidación**
+
+---
+
+## Importancia del Concepto de Sociedad
+
+### Ventajas de la Forma Societaria
+
+✅ **Separación patrimonial:** Protección del patrimonio personal (limitada)
+✅ **Acceso a financiamiento:** Mayor credibilidad frente a terceros
+✅ **Continuidad:** Permanencia más allá de los socios fundadores
+✅ **Organización:** Estructura clara de gobierno corporativo
+✅ **Tributación:** Regímenes especiales (REMyPE, régimen general)
+✅ **Transferibilidad:** Facilidad para transmitir participación
+
+### Obligaciones de la Sociedad
+
+❌ **Formales:** Escritura pública, inscripción registral
+❌ **Contables:** Llevar libros contables según normas
+❌ **Tributarias:** Declaraciones y pago de impuestos
+❌ **Laborales:** Si contrata trabajadores
+❌ **Societarias:** Juntas, actas, registros
+
+---
+
+## Conexiones
+
+- → Formalización: [[constitucion-sociedad|Constitución de Sociedades]]
+- → Recursos: [[aportes-capital-social|Aportes y Capital Social]]
+- → Patrimonio: [[patrimonio-social|Patrimonio Social]]
+- → Tipos principales: [[sociedad-anonima-concepto|Sociedad Anónima]], [[sociedad-responsabilidad-limitada|SRL]]
+- → Modificaciones: [[transformacion-sociedades|Transformación]], [[fusion-sociedades|Fusión]]
+
+---
+
+## Referencias Normativas
+
+- **Ley N° 26887** - Ley General de Sociedades:
+  - Arts. 1-6 (Concepto, personalidad jurídica)
+  - Art. 4 (Pluralidad de socios)
+  - Arts. 54-55 (Pacto social y estatuto)
+  - Art. 7 (Sociedad en formación)
+
+---
+
+*Última actualización: 22 de octubre de 2025*
+
+[[03-indice-unidad-3-sociedades|← Volver a Unidad III]]

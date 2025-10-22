@@ -1,0 +1,264 @@
+curso:
+  nombre: "Derecho Empresarial"
+  creditos: 3
+  horas_totales: 48
+  objetivo_general: "Capacitar al estudiante en la normativa de títulos valores y formas societarias, y en la lectura e interpretación de la información financiera aplicable al derecho empresarial."
+  recursos_legales:
+    - path: "content/Ciclo IV/derecho-empresarial/leyes/ley_titulos_valores.pdf"
+      descripcion: "Ley de Títulos Valores"
+    - path: "content/Ciclo IV/derecho-empresarial/leyes/ley_general_de_sociedades.pdf"
+      descripcion: "Ley General de Sociedades"
+    - path: "content/Ciclo IV/derecho-empresarial/leyes/ley_sistema_nacional_contabilidad.pdf"
+      descripcion: "Ley del Sistema Nacional de Contabilidad"
+
+plan_de_estudios:
+  modulos:
+    - id: M1
+      nombre: "Introducción y Principios de Títulos Valores"
+      tipo: fundamentos
+      duracion_estimada_horas: 4
+      carga_cognitiva: baja
+      dependencias: []
+      conceptos_clave:
+        - concepto: "Ley de Títulos Valores"
+          definicion_breve: "Marco legal que regula los documentos que incorporan derechos patrimoniales destinados a la circulación."
+          prerequisitos: []
+          recursos_sugeridos: ["Ley de Títulos Valores - Texto legal"]
+      objetivos_aprendizaje:
+        - "Identificar la naturaleza y clasificación de los títulos valores"
+      notas_criticas: "Base para unidades posteriores; lectura obligatoria."
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M2
+      nombre: "Formas y Clasificación de Títulos Valores"
+      tipo: fundamentos
+      duracion_estimada_horas: 4
+      carga_cognitiva: baja
+      dependencias: [M1]
+      conceptos_clave:
+        - concepto: "Título valor materializado vs desmaterializado"
+          definicion_breve: "Distinción formal sobre el soporte del derecho."
+        - concepto: "Responsabilidad y legitimación"
+          definicion_breve: "Sujetos capaces y requisitos formales para exigir pago."
+      objetivos_aprendizaje:
+        - "Describir las clases de títulos y sus requisitos formales"
+      notas_criticas: "Revisión de casos prácticos."
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M3
+      nombre: "Endoso y Circulación"
+      tipo: core
+      duracion_estimada_horas: 6
+      carga_cognitiva: media
+      dependencias: [M2]
+      conceptos_clave:
+        - concepto: "Endoso"
+          definicion_breve: "Acto jurídico de transmisión de derechos incorporados en el título."
+        - concepto: "Clases de endoso"
+          definicion_breve: "Endoso en propiedad, en procuración, en garantía, en fideicomiso."
+      objetivos_aprendizaje:
+        - "Aplicar reglas del endoso a casos prácticos"
+      notas_criticas: "Bloqueante para interpretar letras de cambio y cheques."
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M4
+      nombre: "Cláusulas Especiales y Garantías"
+      tipo: core
+      duracion_estimada_horas: 4
+      carga_cognitiva: media
+      dependencias: [M3]
+      conceptos_clave:
+        - concepto: "Cláusulas especiales"
+          definicion_breve: "Cláusulas que afectan la circulación y la exigibilidad del título."
+        - concepto: "Garantías sobre títulos"
+          definicion_breve: "Mecanismos de respaldo y seguridad del crédito."
+      objetivos_aprendizaje:
+        - "Analizar efectos jurídicos de cláusulas y garantías"
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M5
+      nombre: "Letras de Cambio: Contenido y Vencimiento"
+      tipo: aplicaciones
+      duracion_estimada_horas: 6
+      carga_cognitiva: alta
+      dependencias: [M3, M4]
+      conceptos_clave:
+        - concepto: "Letra de cambio"
+          definicion_breve: "Título que contiene orden de pago, con formas de vencimiento variadas."
+      objetivos_aprendizaje:
+        - "Determinar vencimientos y aplicar reglas de aceptación, pago y protesto"
+      notas_criticas: "Incluye práctica calificada N1 (ensayo)."
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M6
+      nombre: "Pagarés, Cheques y Factura Conformada"
+      tipo: aplicaciones
+      duracion_estimada_horas: 6
+      carga_cognitiva: alta
+      dependencias: [M3, M4]
+      conceptos_clave:
+        - concepto: "Pagaré"
+          definicion_breve: "Promesa de pago escrito con vencimiento establecido."
+        - concepto: "Cheque y cheques especiales"
+          definicion_breve: "Instrumentos de pago con formalidades y variedades (cruzado, certificado, gerencia)."
+        - concepto: "Factura conformada"
+          definicion_breve: "Factura con reconocimiento de deuda y condiciones para negociación."
+      objetivos_aprendizaje:
+        - "Aplicar reglas de presentación, pago parcial, causales de no pago y protesto"
+      notas_criticas: "Incluir casos prácticos y normativa bancaria."
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M7
+      nombre: "Otros Títulos Valores y Valores Mobiliarios"
+      tipo: aplicaciones
+      duracion_estimada_horas: 4
+      carga_cognitiva: media
+      dependencias: [M5, M6]
+      conceptos_clave:
+        - concepto: "Certificados bancarios, warrants, títulos hipotecarios"
+          definicion_breve: "Instrumentos específicos regulados para determinadas operaciones."
+      objetivos_aprendizaje:
+        - "Identificar características y funciones de otros títulos y valores mobiliarios"
+      recursos_sugeridos:
+        - "ley_titulos_valores.pdf"
+      requerir_referencia_legal: true
+
+    - id: M8
+      nombre: "Formas Societarias: Marco General"
+      tipo: fundamentos
+      duracion_estimada_horas: 4
+      carga_cognitiva: media
+      dependencias: []
+      conceptos_clave:
+        - concepto: "Sociedad - definición y constitución"
+          definicion_breve: "Personas jurídicas con normas de constitución, objeto y personería."
+      objetivos_aprendizaje:
+        - "Comprender modalidades de constitución y requisitos formales"
+      notas_criticas: "Base para unidades societarias específicas."
+      recursos_sugeridos:
+        - "ley_general_de_sociedades.pdf"
+      requerir_referencia_legal: true
+
+    - id: M9
+      nombre: "Aportes, Patrimonio y Estados Financieros"
+      tipo: core
+      duracion_estimada_horas: 4
+      carga_cognitiva: media
+      dependencias: [M8]
+      conceptos_clave:
+        - concepto: "Aportes dinerarios y no dinerarios"
+          definicion_breve: "Requisitos para considerar un aporte como pagado."
+        - concepto: "Estados financieros y patrimonio social"
+          definicion_breve: "Información contable esencial para determinar situación económica."
+      objetivos_aprendizaje:
+        - "Relacionar aportes con tratamiento contable y responsabilidad societaria"
+      recursos_sugeridos:
+        - "ley_general_de_sociedades.pdf"
+        - "ley_sistema_nacional_contabilidad.pdf"
+      requerir_referencia_legal: true
+
+    - id: M10
+      nombre: "Sociedades Anónimas y Órganos"
+      tipo: core
+      duracion_estimada_horas: 4
+      carga_cognitiva: alta
+      dependencias: [M8, M9]
+      conceptos_clave:
+        - concepto: "Acciones, matriculación y derechos"
+          definicion_breve: "Formas de representación del capital social y derechos de los accionistas."
+      objetivos_aprendizaje:
+        - "Analizar constitución, administración y responsabilidades en sociedades anónimas"
+      notas_criticas: "Incluye práctica calificada N2 (ensayo)."
+      recursos_sugeridos:
+        - "ley_general_de_sociedades.pdf"
+      requerir_referencia_legal: true
+
+    - id: M11
+      nombre: "Modificaciones Estatutarias y Reorganización"
+      tipo: avanzados
+      duracion_estimada_horas: 3
+      carga_cognitiva: alta
+      dependencias: [M10]
+      conceptos_clave:
+        - concepto: "Aumento y reducción de capital"
+          definicion_breve: "Modalidades, formalidades y efectos legales."
+      objetivos_aprendizaje:
+        - "Aplicar procedimientos de modificación estatutaria y reorganización societaria"
+      recursos_sugeridos:
+        - "ley_general_de_sociedades.pdf"
+      requerir_referencia_legal: true
+
+    - id: M12
+      nombre: "Formas Societarias Especiales y Extinción"
+      tipo: avanzados
+      duracion_estimada_horas: 3
+      carga_cognitiva: media
+      dependencias: [M11]
+      conceptos_clave:
+        - concepto: "Sociedades colectivas, comanditas, SRL, sociedad civil"
+          definicion_breve: "Características y responsabilidades según forma societaria."
+      objetivos_aprendizaje:
+        - "Diferenciar responsabilidades y formalidades entre formas societarias"
+      recursos_sugeridos:
+        - "ley_general_de_sociedades.pdf"
+      requerir_referencia_legal: true
+
+    - id: M13
+      nombre: "Información Financiera en Derecho Empresarial"
+      tipo: core
+      duracion_estimada_horas: 3
+      carga_cognitiva: media
+      dependencias: [M9]
+      conceptos_clave:
+        - concepto: "Estados financieros y su relación jurídica"
+          definicion_breve: "Requisitos legales de presentación y contenido."
+      objetivos_aprendizaje:
+        - "Interpretar estados financieros en el marco societario"
+      recursos_sugeridos:
+        - "ley_sistema_nacional_contabilidad.pdf"
+        - "ley_general_de_sociedades.pdf"
+      requerir_referencia_legal: true
+
+    - id: M14
+      nombre: "Repaso y Examen Final"
+      tipo: evaluacion
+      duracion_estimada_horas: 2
+      carga_cognitiva: baja
+      dependencias: [M1,M2,M3,M4,M5,M6,M7,M8,M9,M10,M11,M12,M13]
+      conceptos_clave:
+        - concepto: "Síntesis del curso"
+          definicion_breve: "Resumen integrado de los temas vistos"
+      objetivos_aprendizaje:
+        - "Demostrar dominio integral en examen final"
+
+  camino_critico:
+    - M1 → M2 → M3 → M5 → M7 → M14
+
+  rutas_alternativas:
+    - nombre: "Ruta práctica (énfasis en títulos operativos)"
+      modulos: [M1, M2, M3, M6, M7, M13, M14]
+    - nombre: "Ruta societaria (énfasis en sociedades)"
+      modulos: [M8, M9, M10, M11, M12, M13, M14]
+
+  gaps_detectados:
+    - gap: "Notas de clase y ejemplos prácticos sin procesar"
+      accion: "Procesar notas de clase con Analista de Primeros Principios y crear notas atómicas"
+    - gap: "Referencias normativas específicas (artículos de la Ley General de Sociedades y Ley de Títulos Valores) faltantes"
+      accion: "Adjuntar textos legales y jurisprudencia relevante antes de las prácticas calificada"
+
+metadatos:
+  generado_por: Planificador Curricular
+  fecha: 2025-10-22
+  estado: "#estado/1_generado"
