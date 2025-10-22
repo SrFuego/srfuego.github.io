@@ -2,7 +2,7 @@
 titulo: "Plan de Estudios Derecho Empresarial - Análisis de Primeros Principios (segunda pasada)"
 fecha: 2025-10-22
 generado_por: Analista de Primeros Principios
-fuente: [[content/Ciclo IV/derecho-empresarial/DERECHO EMPRESARIAL.md]], leyes (ley_titulos_valores.pdf, ley_general_de_sociedades.pdf, ley_sistema_nacional_contabilidad.pdf)
+fuente: silabo del curso, leyes (ley_titulos_valores.pdf, ley_general_de_sociedades.pdf, ley_sistema_nacional_contabilidad.pdf)
 estado: "#estado/1_generado"
 ---
 
