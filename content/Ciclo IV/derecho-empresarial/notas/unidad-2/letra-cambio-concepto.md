@@ -65,7 +65,7 @@ aliases:
 ┌────────────────────────────────────────────────┐
 │            LETRA DE CAMBIO                     │
 │                                                │
-│ Páguese a la orden de: EMPRESA XYZ S.A.C.     │
+│ Páguese a la orden de: EMPRESA XYZ S.A.C.      │
 │ La suma de S/ 50,000.00                        │
 │ (Cincuenta mil y 00/100 Soles)                 │
 │                                                │
