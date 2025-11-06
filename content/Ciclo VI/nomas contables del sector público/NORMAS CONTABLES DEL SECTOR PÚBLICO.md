@@ -61,21 +61,21 @@ Aplica las NICSP para reconocer los activos y pasivos de una entidad del sector 
 Aplica los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento de ingresos y gastos, así como las actividades específicas, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
 ```
 
-- Semana 09: Reconocimiento de ingresos
+- Semana 09: Reconocimiento de [[introduccion-ingresos|ingresos]]
   - Introducción
-  - Ingresos por transacciones de cambio – NICSP 9
-  - Ingresos por transacciones sin contraprestación – NICSP 23
+  - Ingresos por transacciones de cambio – [[ipsas-9-ingresos-cambio|NICSP 9]]
+  - Ingresos por transacciones sin contraprestación – [[ipsas-23-ingresos-sin-contraprestacion|NICSP 23]]
 - Semana 10: Reconocimiento de ingresos
   - 1. Ingresos de transacciones sin contraprestación:
     - Impuestos
     - Transferencias
-  - 2. Nueva NICSP 47 Ingresos
-- Semana 11: Reconocimiento de gastos
+  - 2. Nueva [[ipsas-47-ingresos|NICSP 47 Ingresos]]
+- Semana 11: Reconocimiento de [[introduccion-gastos|gastos]]
   - Gastos: Introducción
-  - Beneficios para empleados – NICSP 39
-  - Beneficios sociales – NICSP 42
+  - Beneficios para empleados – [[Ciclo VI/nomas contables del sector público/teoria/unidad-III/ipsas-39-beneficios-empleados|NICSP 39]]
+  - Beneficios sociales – [[Ciclo VI/nomas contables del sector público/teoria/unidad-III/ipsas-42-beneficios-sociales|NICSP 42]]
 - Semana 12: Reconocimiento de gastos
-  - Nueva NICSP 48 Gastos por transferencias
+  - Nueva [[ipsas-48-gastos-transferencias|NICSP 48 Gastos por transferencias]]
   - Practica Calificada N2
     - Al término de la Unidad III, el/la estudiante será capaz de aplicar los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento ingresos y gastos, así como las actividades específicas, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
 

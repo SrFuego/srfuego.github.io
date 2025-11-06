@@ -214,7 +214,7 @@ graph TD
 
 ---
 
-#### 6. [[ipsas-39-beneficios-empleados|NICSP 39 - Beneficios a los Empleados]]
+#### 6. [[Ciclo VI/nomas contables del sector público/teoria/unidad-III/ipsas-39-beneficios-empleados|NICSP 39 - Beneficios a los Empleados]]
 
 **Temas clave:**
 
@@ -265,7 +265,7 @@ graph TD
 
 ---
 
-#### 7. [[ipsas-42-beneficios-sociales|NICSP 42 - Beneficios Sociales]]
+#### 7. [[Ciclo VI/nomas contables del sector público/teoria/unidad-III/ipsas-42-beneficios-sociales|NICSP 42 - Beneficios Sociales]]
 
 **Temas clave:**
 
