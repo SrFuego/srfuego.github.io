@@ -55,17 +55,29 @@ Aplica las NICSP para reconocer los activos y pasivos de una entidad del sector 
   - Examen Parcial
     - Al término de la Unidad II, el/la estudiante será capaz de aplicar los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento de activos y pasivos, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
 
-### UNIDAD III
+### UNIDAD III: Normas Internacionales de Contabilidad del Sector Público relacionadas con los Ingresos y Gastos
 
 ```
-
+Aplica los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento de ingresos y gastos, así como las actividades específicas, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
 ```
 
-- Semana 09:
-- Semana 10:
-- Semana 11:
-- Semana 12:
+- Semana 09: Reconocimiento de ingresos
+  - Introducción
+  - Ingresos por transacciones de cambio – NICSP 9
+  - Ingresos por transacciones sin contraprestación – NICSP 23
+- Semana 10: Reconocimiento de ingresos
+  - 1. Ingresos de transacciones sin contraprestación:
+    - Impuestos
+    - Transferencias
+  - 2. Nueva NICSP 47 Ingresos
+- Semana 11: Reconocimiento de gastos
+  - Gastos: Introducción
+  - Beneficios para empleados – NICSP 39
+  - Beneficios sociales – NICSP 42
+- Semana 12: Reconocimiento de gastos
+  - Nueva NICSP 48 Gastos por transferencias
   - Practica Calificada N2
+    - Al término de la Unidad III, el/la estudiante será capaz de aplicar los requerimientos de las Normas Internacionales de Contabilidad para el Sector Público – NICSP que se emplean para el reconocimiento ingresos y gastos, así como las actividades específicas, en base al Manual de Pronunciamientos Internacionales de Contabilidad del Sector Público.
 
 ### UNIDAD IV
 
